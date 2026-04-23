@@ -17,7 +17,7 @@
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
 | Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | https://trello.com | SaaS |
-| GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | https://github.com/upc-safestep-team-3 | SaaS |
+| GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | https://github.com/upc-1asi0729-2610-11990-chronos-team-3 | SaaS |
 | Google Drive | Almacenamiento y colaboración documentos de análisis y requerimientos | https://drive.google.com | SaaS |
 | Discord | Comunicación en tiempo real del equipo y reuniones virtuales | https://discord.com | SaaS |
 
@@ -112,9 +112,9 @@ El equipo SafeStep utiliza la organización GitHub "upc-safestep-team-3" para ge
 
 | Repositorio | URL GitHub | Propósito |
 |-------------|-----------|-----------|
-| SafeStep Landing | https://github.com/upc-safestep-team-3/safestep-landing | Página landing pública de presentación del producto |
-| SafeStep Web Services | https://github.com/upc-safestep-team-3/safestep-web-services | API RESTful desarrollada en Spring Boot |
-| SafeStep Frontend | https://github.com/upc-safestep-team-3/safestep-frontend | Aplicación web interactiva desarrollada en Angular |
+| SafeStep Landing | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page | Página landing pública de presentación del producto |
+| SafeStep Web Services | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend | API RESTful desarrollada en Spring Boot |
+| SafeStep Frontend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend | Aplicación web interactiva desarrollada en Angular |
 
 ### 5.1.2.2. GitFlow Implementation
 

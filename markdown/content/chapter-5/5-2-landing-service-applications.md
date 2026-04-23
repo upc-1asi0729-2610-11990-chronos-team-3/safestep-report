@@ -95,49 +95,6 @@ La selección de estos User Stories para el Sprint 1 responde a la necesidad de 
 
 La distribución de Story Points fue diseñada para que cada miembro del equipo tuviera una carga de trabajo equilibrada. Se priorizaron las tareas de implementación técnica (estructura HTML y estilos) sobre las tareas de configuración, reconociendo que la visibilidad del progreso es fundamental para mantener la motivación del equipo durante las primeras etapas del proyecto.
 
-Es muy importante que el equipo dedique atención a la identificación del Sprint Goal. Según el Scrum Guide "El Sprint Goal es el objetivo individual del Sprint. Es un compromiso para los Developers, flexible en términos del trabajo exacto que se requiere para alcanzarlo. El Sprint Goal también crea coherencia y enfoque, buscando que los miembros del Scrum Team trabajen juntos en vez de ir en pos de iniciativas individuales."
-
-Para identificar el Sprint Goal, es recomendable enfocarse en el negocio (business) o la perspectiva de los usuarios (user-focused), como por ejemplo entregar un nuevo feature o feature set.
-
-Escribir objetivos SMART (Specific, Measurable, Attainable, Relevant, Time-bound) puede ser de mucha utilidad para que el equipo articule el Sprint Goal.
-
-Scrum.org ofrece un template para redactar Sprint Goals. La estructura es:
-
-Our focus is on <Outcome>
-We believe it delivers <Impact> to <Customer(s)>
-This will be confirmed when <Event happens>
-
-Por ejemplo, tomando como ejemplo un solo feature: "Our focus is on sending a basic email that contains a link to a spreadsheet. We believe it delivers confidence in the product to our organization. This will be confirmed when we have an email in an inbox".
-
-Es importante que el equipo se enfoque en identificar Outcome, Impact, Customer(s), así como Event. El solo hecho de aplicar el template no garantiza un buen Sprint Goal. El siguiente ejemplo es un uso incorrecto del template: "Our focus is on having SAP integrated into the Corporate system. We believe it delivers satisfaction and closure for our project manager. This will be confirmed when Epic SAP-123 is closed in Jira." Aquí el Goal se está centrando en complacer a alguien del equipo. Una mejor aproximación a un Sprint Goal sería: "Our focus is on having SAP integrated into the Corporate system. We believe it delivers improved features functionality and increasing productivity to Department X. This will be confirmed when the colleagues in Department X are using the improved features and can see the benefits."
-
-Es recomendable que la redacción sea específica en términos de qué features se compromete a lograr y cómo benefician a los segmentos objetivo, sin detallar cómo. Algunos ejemplos de feature-sets con un enfoque de alto nivel:
-
-"A customer can place an order from a single-product catalog".
-"Show a multi-product catalog".
-"Show top-selling products".
-"Make product catalog manageable for the sales department operator".
-
-Es muy importante que el equipo establezca en conjunto el Sprint Goal, pues de esa forma todo el equipo puede trabajar en identificar qué epics y stories deberían considerarse en principio en la iteración, en base a su contribución para ese Goal en particular.
-
-A continuación dos ejemplos de Sprint Goals. En cada ejemplo, se brinda un contexto previo para entender de mejor manera el propósito del Sprint Goal.
-
-Example #1
-Context
-The CatchUp Product Team decided to add a new feature: To offer users the option to favorite news sources, for showing news from that sources in the new options "favorites"
-Sprint Goal
-"Our focus is on offering a more customized experience to the current CatchUp user community.
-We believe it delivers rapid access to news from frequent news sources to users of the app.
-This will be confirmed when users access news from news sources they previously marked as favorite ones in the app, with a Session Length of 10-minute or more."
-
-Example #2
-Context
-The ACME Learning Center Product Team decided to include plan information in the platform website, and allow students of the learning platform to cancel a previously requested enrollment. They also will implement a set of endpoints in order to allow frontend and mobile app developers the possibility of implementing student enrollment transaction features in their apps through the API.
-Sprint Goal
-"Our focus is on offering more detailed information to new visitors, providing an enhanced enrollment process to students, and incrementing new feature possibilities to the development team members.
-We believe it delivers an easier plan selection to visitors, more flexibility on enrollment to students, and opportunities for implementing more enrollment-related features in the Learning Center ecosystem to development team
-This will be confirmed when visitors can subscribe directly with and specific plan in no more than three steps, students can cancel previously requested enrollments without intervention of support staff, and developers implement new features related to enrollments using the implemented endpoints without intervention of backend development team."
-
 ### 5.2.1.2. Aspect Leaders and Collaborators
 
 En esta sección el equipo elabora el artefacto Leadership-and-Collaboration Matrix (LACX), que indica por cada aspecto dentro del alcance del Sprint, quién es el líder y quién o quiénes son colaboradores en dicho aspecto, con el fin de brindar mayor claridad y efectividad en la comunicación al interior del equipo.
@@ -219,8 +176,6 @@ El Sprint Backlog fue elaborado de manera colaborativa, donde cada miembro del e
 
 **Trello Board:**
 El equipo utiliza un Trello Board para gestionar visualmente el Sprint Backlog. El Board contiene las listas estándar de Scrum: "Sprint Goal", "To Do", "In Progress", "To Review" y "Done". El uso de Trello permite una visualización clara del estado de cada tarea y facilita la identificación de cuellos de botella en el flujo de trabajo.
-
-**URL del Board:** [URL pública del Trello Board - por definir]
 
 **Estructura del Trello Board:**
 
@@ -420,7 +375,7 @@ El equipo realizó un total de 7 commits en el repositorio de Landing Page duran
 
 **Repositorio de Landing Page:**
 
-https://github.com/upc-safestep-team-3/safestep-landing
+https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page
 
 **Estadísticas del repositorio:**
 
@@ -458,9 +413,17 @@ La Landing Page implementada incluye las siguientes secciones principales:
 - **Formulario de newsletter:** Sección para capturar correos electrónicos de usuarios interesados en recibir actualizaciones sobre SafeStep.
 - **Integración con Google Analytics:** Configuración de tracking para medir métricas de visitantes y comportamiento.
 
-**Enlace a Video de Demostración:**
+**Imagen final del Landing Page:**
 
-[URL del video de demostración del Sprint 1 - por definir]
+<div align="center">
+  <p>
+    <b>Gráfico 1</b>: Final Landing Page
+  </p>
+  <img src="../../assets/images/chapter-4/landing-mockup-desktop.png" alt="Analytics AV1" width="500" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
 
 Este video de demostración muestra la navegación por la Landing Page y su funcionamiento en diferentes dispositivos. El video tiene una duración aproximada de 3 minutos y demuestra las siguientes funcionalidades: navegación por la página, comportamiento responsivo en diferentes tamaños de pantalla, interacción con los botones de llamada a la acción, y acceso a los enlaces del footer.
 
@@ -531,7 +494,15 @@ El equipo adoptó un enfoque de trabajo colaborativo, donde los miembros se reun
 
 **Analíticos de GitHub:**
 
-[Capturas de pantalla de GitHub Insights mostrando contribución por miembro, número de commits, y activity timeline]
+<div align="center">
+  <p>
+    <b>Gráfico 1</b>: Analytics AV1
+  </p>
+  <img src="../../assets/images/av1-analytics.png" alt="Analytics AV1" width="500" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
 
 El gráfico de actividad de GitHub muestra un patrón saludable de contribuciones distribuidas a lo largo de la semana, con mayor actividad los días martes y jueves. Este patrón sugiere una planificación adecuada del trabajo, evitando acumulaciones de última hora (crunch) que podrían afectar la calidad del código.
 
