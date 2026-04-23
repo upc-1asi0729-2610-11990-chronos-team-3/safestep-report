@@ -1,0 +1,11 @@
+# Conclusiones del Avance 1
+
+El Avance 1 del proyecto SafeStep ha permitido establecer las bases fundamentales de la startup, consolidando un equipo multidisciplinario de cinco estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Cada integrante aportó conocimientos especializados en frontend, backend, diseño UI/UX y bases de datos, logrando una integración sinergética de competencias para abordar el desarrollo de la plataforma educativa.
+
+Se logró identificar y caracterizar comprehensively el problema central: la deficiencia en conocimientos prácticos de primeros auxilios en la población peruano, agravada por la falta de métodos de capacitación interactivos y la desconexión entre el aprendizaje teórico y la disponibilidad de productos necesarios para actuar en emergencias. Esta problemática afecta directamente a los tres segmentos objetivo definidos: estudiantes universitarios, comunidades vecinales y brigadistas.
+
+El diseño del Solution Profile estableció un modelo de negocio innovador que combina el enfoque educativo tipo Coursera con una tienda virtual especializada en productos de primeros auxilios. Esta integración vertical crea un ecosistema donde el aprendizaje genera necesidad de equipamiento, y el equipamiento motiva a completar el aprendizaje, diferenciando a SafeStep de las soluciones existentes en el mercado.
+
+Se establecieron las técnicas de Lean UX Process para validar las hipótesis del proyecto, incluyendo declaraciones de problema, supuestos de usuario, declaraciones de necesidad y hipótesis verificables. Estas bases metodológicas permitirán guiar el desarrollo iterativo del producto mediante retroalimentación constante de los usuarios objetivo.
+
+Para el Avance 2, el equipo deberá enfocarse en profundizar el proceso de elicitación de requisitos mediante entrevistas y needfinding con los segmentos objetivo, desarrollar el primer prototipo funcional de la plataforma con escenarios básicos de simulación, y validar la arquitectura de información diseñada. El objetivo es contar con un MVP que permita iniciar pruebas de usabilidad con usuarios representativos.
