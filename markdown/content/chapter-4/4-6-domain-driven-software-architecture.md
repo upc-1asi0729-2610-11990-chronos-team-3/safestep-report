@@ -161,7 +161,7 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
         <img src="../../assets/images/chapter-4/BD3.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><small>link (Tutoria y aprendizaje BC): <a href:"https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Tutoria y aprendizaje BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
@@ -170,7 +170,7 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
         <img src="../../assets/images/chapter-4/BD4.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><small>link (Gamificacion y lealtad BC): <a href:"https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Gamificacion y lealtad BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
@@ -179,7 +179,7 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
         <img src="../../assets/images/chapter-4/BD5.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><small>link (Marketplace y suministros): <a href:"https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Marketplace y suministros): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
