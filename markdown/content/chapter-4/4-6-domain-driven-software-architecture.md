@@ -129,14 +129,12 @@ En este paso, se organizan los conceptos relacionados en agregados, los cuales t
 Es el paso final donde se agrupan los agregados que están relacionados entre sí, ya sea por su funcionalidad o por estar vinculados a través de políticas. Estos grupos definen los límites de los Bounded Contexts, estableciendo las fronteras lógicas y técnicas de los diferentes módulos del sistema.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
+    <a href="https://miro.com/app/board/uXjVGlN0dvA=/" target="_blank">
         <img src="../../assets/images/chapter-4/eventstorming-fase10.jpg" alt="Bounded Contexts - SafeStep" />
     </a>
     <br>
-    <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a></small></sub>
-    <br>
-    </br>
-    
+    <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?embedMode=view_only_without_ui&moveToViewport=-16506%2C99475%2C33444%2C16007&embedId=293022561227">https://miro.com/app/live-embed/uXjVGlN0dvA=/?embedMode=view_only_without_ui&moveToViewport=-16506%2C99475%2C33444%2C16007&embedId=293022561227</a></small></sub>
+    <br></br>
 </div>
 
 
@@ -145,7 +143,8 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
         <img src="../../assets/images/chapter-4/BD1.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
+    <sub><small>link (Identidad y acceso BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <br></br>
 </div>
 
 <div align="center">
@@ -153,7 +152,8 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
         <img src="../../assets/images/chapter-4/BD2.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
+    <sub><small>link (Simulacion medica BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <br></br>
 </div>
 
 <div align="center">
@@ -161,7 +161,8 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
         <img src="../../assets/images/chapter-4/BD3.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
+    <sub><small>link (Tutoria y aprendizaje BC): <a href:"https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <br></br>
 </div>
 
 <div align="center">
@@ -169,7 +170,8 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
         <img src="../../assets/images/chapter-4/BD4.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
+    <sub><small>link (Gamificacion y lealtad BC): <a href:"https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <br></br>
 </div>
 
 <div align="center">
@@ -177,7 +179,8 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
         <img src="../../assets/images/chapter-4/BD5.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     </a>
     <br>
-    <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
+    <sub><small>link (Marketplace y suministros): <a href:"https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <br></br>
 </div>
 
 
