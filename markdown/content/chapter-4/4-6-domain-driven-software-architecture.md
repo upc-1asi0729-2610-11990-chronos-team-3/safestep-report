@@ -130,11 +130,15 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
 
 <div align="center">
     <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="../../assets/images/chapter-4/eventstorming-fase10.jpg" alt="Event Storming Fase 10 - SafeStep" />
+        <img src="../../assets/images/chapter-4/eventstorming-fase10.jpg" alt="Bounded Contexts - SafeStep" />
     </a>
     <br>
-    <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
+    <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a></small></sub>
+    <br>
+    </br>
+    
 </div>
+
 
 <div align="center">
     <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
