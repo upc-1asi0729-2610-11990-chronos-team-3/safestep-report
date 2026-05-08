@@ -133,7 +133,7 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
         <img src="../../assets/images/chapter-4/eventstorming-fase10.jpg" alt="Bounded Contexts - SafeStep" />
     </a>
     <br>
-    <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?embedMode=view_only_without_ui&moveToViewport=-16506%2C99475%2C33444%2C16007&embedId=293022561227">https://miro.com/app/live-embed/uXjVGlN0dvA=/?embedMode=view_only_without_ui&moveToViewport=-16506%2C99475%2C33444%2C16007&embedId=293022561227</a></small></sub>
+    <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
 </div>
 
