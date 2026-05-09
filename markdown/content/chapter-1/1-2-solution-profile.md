@@ -176,7 +176,7 @@ Hemos observado que las opciones existentes no ofrecen experiencias prácticas, 
 
 Esto está causando que las personas se sientan inseguras, desinformadas e incapaces de actuar de manera rápida y efectiva ante emergencias cotidianas (como RCP, cortes, quemaduras o atragantamientos), poniendo vidas en riesgo por falta de preparación práctica y equipamiento adecuado.
 
-¿Cómo podríamos proporcionar una experiencia de aprendizaje interactiva basada en simulaciones ramificadas, integrada con una tienda de productos especializados, para que los estudiantes universitarios mejoren su preparación ante emergencias, reduzcan su inseguridad y puedan actuar de forma segura en su día a día?
+¿Cómo podríamos proporcionar una experiencia de aprendizaje interactiva basada en simulaciones ramificadas, integrada con una tienda de productos especializados, para que las personas mejoren su preparación ante emergencias, reduzcan su inseguridad y puedan actuar de forma segura en su día a día?
 
 ### 1.2.2.2. Lean UX Assumptions.
 
