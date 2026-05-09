@@ -170,13 +170,10 @@ Este punto es crítico, ya que demuestra que el problema no es la falta de inter
 
 ### 1.2.2.1. Lean UX Problem Statements
 
-Nuestra plataforma se encuentra en el dominio de la capacitación en primeros auxilios a través de medios digitales interactivos, complementada con una tienda virtual especializada. Está dirigido principalmente a estudiantes y comunidades vecinales, segmentos que actualmente carecen de formación práctica en emergencias cotidianas como RCP, cortes, quemaduras o atragantamientos, y que además tienen dificultades para acceder a productos de primeros auxilios de calidad.
-
-Hemos identificado como principales problemas la falta de acceso a cursos presenciales, los altos costos de capacitaciones tradicionales, la escasez de tiempo que impide a las personas asistir a entrenamientos formales, y la dificultad para encontrar productos confiables de primeros auxilios en un solo lugar. Aunque existen recursos en línea, la mayoría se limita a videos o charlas teóricas sin brindar experiencias interactivas que simulen escenarios reales, y el acceso a productos de calidad requiere visitar múltiples tiendas o farmacias sin garantía de especialización.
-
-Nuestra visión es ofrecer una aplicación web con simulaciones ramificadas que permitan al usuario practicar decisiones en tiempo real, reduciendo la inseguridad y el desconocimiento ante una emergencia, complementada con una tienda virtual que ofrezca productos seleccionados por especialistas en primeros auxilios. El primer público al que apuntamos son estudiantes universitarios, quienes representan un grupo receptivo a nuevas tecnologías y con alta necesidad de este tipo de aprendizaje.
-
-¿Cómo podemos mejorar la preparación de las personas ante emergencias cotidianas, logrando que actúen de manera rápida, segura y efectiva en los primeros auxilios, y al mismo tiempo tengan acceso a los productos necesarios para hacerlo?
+Actualmente, la capacitación en primeros auxilios y la adquisición de suministros de emergencia para el público en general se realiza a través de medios fragmentados: cursos presenciales costosos o recursos en línea puramente teóricos (videos y charlas).
+Hemos observado que las opciones existentes no ofrecen experiencias prácticas, carecen de simulaciones de toma de decisiones en tiempo real y demandan un tiempo del que los usuarios no disponen. Adicionalmente, obligan a las personas a buscar productos de primera respuesta en múltiples tiendas sin garantía de calidad o especialización.
+Esto está causando que las personas se sientan inseguras, desinformadas e incapaces de actuar de manera rápida y efectiva ante emergencias cotidianas (como RCP, cortes, quemaduras o atragantamientos), poniendo vidas en riesgo por falta de preparación práctica y equipamiento adecuado.
+¿Cómo podríamos proporcionar una experiencia de aprendizaje interactiva basada en simulaciones ramificadas, integrada con una tienda de productos especializados, para que los estudiantes universitarios mejoren su preparación ante emergencias, reduzcan su inseguridad y puedan actuar de forma segura en su día a día?
 
 ### 1.2.2.2. Lean UX Assumptions.
 
