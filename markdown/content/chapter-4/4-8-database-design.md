@@ -25,7 +25,7 @@ Gestiona el catálogo de productos físicos (Kits de emergencia, torniquetes), p
 Maneja el flujo de conversión, desde el carrito de compras persistente, validación de cupones, hasta el registro de la orden final, la pasarela de pagos y el proceso de devoluciones con evidencia documentada.
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-basedatos-safestep.svg" alt="Diagrama de base de datos" />
+    <img src="../../assets/images/chapter-4/diagrama-base-de-datos-safestep.jpeg" alt="Diagrama de base de datos" />
     <br>
     <sub><small>link (vista del diagrama de base de datos en Miro): <a href="https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</small></sub>
 </div>
