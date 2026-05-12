@@ -10,7 +10,6 @@
 
 # 3.1. User Stories
 
-## Epics
 
 <table>
   <thead>
