@@ -23,48 +23,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>EP01</b></td>
-      <td>Identidad, acceso y perfil de usuario</td>
-      <td><b>Como</b> usuario de SafeStep, <b>quiero</b> gestionar mi acceso, perfil, idioma y saldo de SafeCoins, <b>para</b> usar la aplicacion con una identidad personalizada.</td>
-      <td>No aplica</td>
-      <td>No aplica</td>
-    </tr>
-    <tr>
-      <td><b>US01</b></td>
-      <td>Iniciar sesion en la aplicacion</td>
-      <td><b>Como</b> usuario registrado, <b>quiero</b> iniciar sesion <b>para</b> acceder a mi dashboard, simulaciones, progreso, gamificacion y tienda.</td>
-      <td>- <b>Dado que</b> el usuario se encuentra en la pantalla de acceso, <b>Y</b> ingresa credenciales validas, <b>Cuando</b> selecciona la opcion de ingresar, <b>Entonces</b> el sistema permite el acceso, <b>Y</b> redirige al usuario al dashboard principal<br><br>- <b>Dado que</b> el usuario se encuentra en la pantalla de acceso, <b>Y</b> ingresa datos incompletos o invalidos, <b>Cuando</b> intenta ingresar, <b>Entonces</b> el sistema no permite continuar, <b>Y</b> muestra una indicacion para corregir los datos</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td><b>US02</b></td>
-      <td>Registrarse en SafeStep</td>
-      <td><b>Como</b> visitante, <b>quiero</b> crear una cuenta <b>para</b> guardar mi avance y acceder a las funcionalidades de entrenamiento.</td>
-      <td>- <b>Dado que</b> el visitante esta en la pantalla de registro, <b>Cuando</b> ingresa sus datos requeridos correctamente, <b>Entonces</b> el sistema crea la cuenta, <b>Y</b> le permite acceder a la aplicacion<br><br>- <b>Dado que</b> el visitante deja campos obligatorios vacios, <b>Cuando</b> intenta crear su cuenta, <b>Entonces</b> el sistema solicita completar la informacion requerida</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td><b>US03</b></td>
-      <td>Visualizar perfil de usuario</td>
-      <td><b>Como</b> usuario autenticado, <b>quiero</b> visualizar mi perfil <b>para</b> revisar mi informacion personal, nivel, XP, SafeCoins y racha.</td>
-      <td>- <b>Dado que</b> el usuario tiene una sesion activa, <b>Cuando</b> ingresa al perfil, <b>Entonces</b> el sistema muestra su nombre, correo, rol, ciudad, nivel, XP, SafeCoins y racha<br><br>- <b>Dado que</b> el sistema no puede cargar la informacion del usuario, <b>Cuando</b> el usuario ingresa al perfil, <b>Entonces</b> se muestra un estado informativo indicando que no se pudo cargar la informacion</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td><b>US04</b></td>
-      <td>Cambiar idioma de la aplicacion</td>
-      <td><b>Como</b> usuario, <b>quiero</b> cambiar entre espanol e ingles <b>para</b> usar la aplicacion en el idioma que prefiera.</td>
-      <td>- <b>Dado que</b> la aplicacion esta en espanol, <b>Cuando</b> el usuario selecciona EN en el toolbar, <b>Entonces</b> los textos disponibles cambian a ingles<br><br>- <b>Dado que</b> la aplicacion esta en ingles, <b>Cuando</b> el usuario selecciona ES en el toolbar, <b>Entonces</b> los textos disponibles cambian a espanol</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
-      <td><b>US05</b></td>
-      <td>Ver saldo de SafeCoins en la navegacion</td>
-      <td><b>Como</b> usuario, <b>quiero</b> ver mi saldo de SafeCoins en la interfaz principal <b>para</b> saber cuantos puntos puedo usar.</td>
-      <td>- <b>Dado que</b> el usuario tiene SafeCoins registradas, <b>Cuando</b> navega por la aplicacion, <b>Entonces</b> el sistema muestra su saldo actualizado en la interfaz<br><br>- <b>Dado que</b> el usuario completa una simulacion y gana monedas, <b>Cuando</b> vuelve al dashboard, gamificacion o tienda, <b>Entonces</b> el sistema muestra el nuevo saldo de SafeCoins</td>
-      <td>EP01</td>
-    </tr>
-    <tr>
       <td><b>EP02</b></td>
       <td>Dashboard principal</td>
       <td><b>Como</b> usuario de SafeStep, <b>quiero</b> visualizar un dashboard principal con mi avance, entrenamientos, misiones y productos sugeridos, <b>para</b> decidir rapidamente que hacer despues.</td>
@@ -392,6 +350,48 @@
       <td><b>Como</b> usuario movil, <b>quiero</b> que la aplicacion sea usable desde una pantalla pequena <b>para</b> practicar o comprar desde mi dispositivo.</td>
       <td>- <b>Dado que</b> el usuario abre la aplicacion en una pantalla pequena, <b>Cuando</b> navega por las secciones, <b>Entonces</b> los contenidos se reorganizan sin perder informacion principal<br><br>- <b>Dado que</b> el usuario visualiza productos, misiones o simulaciones, <b>Cuando</b> usa una pantalla pequena, <b>Entonces</b> las cartas se muestran en una sola columna o en una disposicion legible</td>
       <td>EP07</td>
+    </tr>
+       <tr>
+      <td><b>EP01</b></td>
+      <td>Identidad, acceso y perfil de usuario</td>
+      <td><b>Como</b> usuario de SafeStep, <b>quiero</b> gestionar mi acceso, perfil, idioma y saldo de SafeCoins, <b>para</b> usar la aplicacion con una identidad personalizada.</td>
+      <td>No aplica</td>
+      <td>No aplica</td>
+    </tr>
+    <tr>
+      <td><b>US01</b></td>
+      <td>Iniciar sesion en la aplicacion</td>
+      <td><b>Como</b> usuario registrado, <b>quiero</b> iniciar sesion <b>para</b> acceder a mi dashboard, simulaciones, progreso, gamificacion y tienda.</td>
+      <td>- <b>Dado que</b> el usuario se encuentra en la pantalla de acceso, <b>Y</b> ingresa credenciales validas, <b>Cuando</b> selecciona la opcion de ingresar, <b>Entonces</b> el sistema permite el acceso, <b>Y</b> redirige al usuario al dashboard principal<br><br>- <b>Dado que</b> el usuario se encuentra en la pantalla de acceso, <b>Y</b> ingresa datos incompletos o invalidos, <b>Cuando</b> intenta ingresar, <b>Entonces</b> el sistema no permite continuar, <b>Y</b> muestra una indicacion para corregir los datos</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><b>US02</b></td>
+      <td>Registrarse en SafeStep</td>
+      <td><b>Como</b> visitante, <b>quiero</b> crear una cuenta <b>para</b> guardar mi avance y acceder a las funcionalidades de entrenamiento.</td>
+      <td>- <b>Dado que</b> el visitante esta en la pantalla de registro, <b>Cuando</b> ingresa sus datos requeridos correctamente, <b>Entonces</b> el sistema crea la cuenta, <b>Y</b> le permite acceder a la aplicacion<br><br>- <b>Dado que</b> el visitante deja campos obligatorios vacios, <b>Cuando</b> intenta crear su cuenta, <b>Entonces</b> el sistema solicita completar la informacion requerida</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><b>US03</b></td>
+      <td>Visualizar perfil de usuario</td>
+      <td><b>Como</b> usuario autenticado, <b>quiero</b> visualizar mi perfil <b>para</b> revisar mi informacion personal, nivel, XP, SafeCoins y racha.</td>
+      <td>- <b>Dado que</b> el usuario tiene una sesion activa, <b>Cuando</b> ingresa al perfil, <b>Entonces</b> el sistema muestra su nombre, correo, rol, ciudad, nivel, XP, SafeCoins y racha<br><br>- <b>Dado que</b> el sistema no puede cargar la informacion del usuario, <b>Cuando</b> el usuario ingresa al perfil, <b>Entonces</b> se muestra un estado informativo indicando que no se pudo cargar la informacion</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><b>US04</b></td>
+      <td>Cambiar idioma de la aplicacion</td>
+      <td><b>Como</b> usuario, <b>quiero</b> cambiar entre espanol e ingles <b>para</b> usar la aplicacion en el idioma que prefiera.</td>
+      <td>- <b>Dado que</b> la aplicacion esta en espanol, <b>Cuando</b> el usuario selecciona EN en el toolbar, <b>Entonces</b> los textos disponibles cambian a ingles<br><br>- <b>Dado que</b> la aplicacion esta en ingles, <b>Cuando</b> el usuario selecciona ES en el toolbar, <b>Entonces</b> los textos disponibles cambian a espanol</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><b>US05</b></td>
+      <td>Ver saldo de SafeCoins en la navegacion</td>
+      <td><b>Como</b> usuario, <b>quiero</b> ver mi saldo de SafeCoins en la interfaz principal <b>para</b> saber cuantos puntos puedo usar.</td>
+      <td>- <b>Dado que</b> el usuario tiene SafeCoins registradas, <b>Cuando</b> navega por la aplicacion, <b>Entonces</b> el sistema muestra su saldo actualizado en la interfaz<br><br>- <b>Dado que</b> el usuario completa una simulacion y gana monedas, <b>Cuando</b> vuelve al dashboard, gamificacion o tienda, <b>Entonces</b> el sistema muestra el nuevo saldo de SafeCoins</td>
+      <td>EP01</td>
     </tr>
     <tr>
       <td><b>EP08</b></td>
