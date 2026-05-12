@@ -60,38 +60,41 @@ La Landing Page cumple un rol fundamental en la estrategia de captación de usua
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Implementar una Landing Page funcional que presente la propuesta de valor de SafeStep, muestre las características principales del servicio, y proporcione enlaces de llamada a la acción para registro de usuarios potenciales.</td>
+            <td>Implementar una Landing Page funcional que presente la propuesta de valor de SafeStep, muestre las simulaciones disponibles, testimonios, preguntas frecuentes, y proporcione acceso al registro de usuarios potenciales.</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
-            <td>El equipo estimó un velocity inicial de 21 Story Points, enfocados únicamente en el desarrollo de la Landing Page.</td>
+            <td>El equipo estimó un velocity inicial de 21 Story Points, enfocados únicamente en el desarrollo de la Landing Page (EP08).</td>
         </tr>
         <tr>
             <td>Sprint of Story Points</td>
-            <td>Total: 21 SP - Distribuidos en 8 SP para estructura HTML, 5 SP para Hero Section, 5 SP para Features Section, y 3 SP para Footer y estilos responsive.</td>
+            <td>Total: 21 SP - Distribuidos en 5 SP para propuesta de valor, 3 SP para navegación, 5 SP para simulaciones, 3 SP para testimonios, 3 SP para preguntas frecuentes, y 2 SP para acceso a registro.</td>
         </tr>
     </tbody>
 </table>
 
-El Sprint Planning Meeting del 5 de abril de 2026 duró aproximadamente 2 horas. El equipo discutió en detalle los User Stories a implementar, estimó las responsabilidades iniciales, y estableció los primeros stories de colaboración. Durante la reunión, cada miembro del equipo tuvo la oportunidad de expresar sus dudas respecto a las tareas asignadas y se resolvieron interrogantes técnicas relacionadas con las tecnologías a utilizar.
+El Sprint Planning Meeting del 5 de abril de 2026 duró aproximadamente 2 horas. El equipo discutió en detalle los User Stories a implementar, estimó las responsabilidades iniciales, y estableció los primeros acuerdos de colaboración. Durante la reunión, cada miembro del equipo tuvo la oportunidad de expresar sus dudas respecto a las tareas asignadas y se resolvieron interrogantes técnicas relacionadas con las tecnologías a utilizar.
 
 La dinámica del Sprint Planning permitió al equipo alinear expectativas y establecer un compromiso colectivo hacia el logro del Sprint Goal. Se destinó tiempo suficiente para revisar las guidelines de código establecidas en el proyecto, asegurando que todos los miembros comprendieran las convenciones de nomenclatura, estructura de archivos y flujo de trabajo con Git.
 
 **User Stories incluidos en el Sprint 1:**
 
-Los User Stories seleccionados para este Sprint inicial reflejan las necesidades más críticas para establecer la presencia digital de SafeStep. El equipo se enfocó únicamente en la Landing Page para este primer Sprint, dejando Web Services y Frontend para sprints posteriores, priorizando de esta manera la captación de usuarios como primer objetivo de negocio.
+Los User Stories seleccionados para este Sprint inicial corresponden exclusivamente a la Épica 08 (Landing Page pública) del Product Backlog, reflejando las necesidades más críticas para establecer la presencia digital de SafeStep. El equipo se enfocó únicamente en la Landing Page para este primer Sprint, dejando el Frontend Angular y el Backend API para sprints posteriores, priorizando de esta manera la captación de usuarios como primer objetivo de negocio.
 
 | ID | User Story | Prioridad | Story Points |
-|----|----------|----------|------------|
-| US001 | Como usuario potencial, quiero acceder a una página landing que presente la propuesta de valor de SafeStep para decidir si me interesa registrarme | Must Have | 8 |
-| US002 | Como administrador, quiero gestionar la información básica de la Landing Page (textos, imágenes, enlaces) para mantener actualizada la información | Must Have | 5 |
-| US006 | Como desarrollador, quiero contar con un entorno de desarrollo configurado para comenzar la implementación | Must Have | 8 |
+| -- | ---------- | --------- | ------------ |
+| US47 | Como visitante, quiero ver rápidamente qué es SafeStep para entender si me ayuda a aprender primeros auxilios. | Must Have | 5 |
+| US48 | Como visitante, quiero navegar por las secciones de la landing para conocer funcionalidades, simulaciones, gamificación, tienda y preguntas frecuentes. | Must Have | 3 |
+| US49 | Como visitante, quiero revisar ejemplos de simulaciones para saber qué emergencias puedo practicar. | Must Have | 5 |
+| US52 | Como visitante, quiero leer testimonios para confiar en la utilidad de SafeStep. | Must Have | 3 |
+| US53 | Como visitante, quiero revisar preguntas frecuentes para resolver dudas antes de registrarme. | Must Have | 3 |
+| US54 | Como visitante interesado, quiero acceder al registro desde la landing para empezar a usar SafeStep. | Must Have | 2 |
 
-La selección de estos User Stories para el Sprint 1 responde a la necesidad de establecer la presencia digital de SafeStep rápidamente, permitiendo que usuarios potenciales conozcan la propuesta de valor y se interesen en register a la plataforma. El equipo identificó que el US001 (Ver Landing Page) es el más crítico, representando el objetivo principal del Sprint, mientras que el US002 (Gestionar info Landing) aporta valor secundario al facilitar futuras actualizaciones de contenido.
+La selección de estos User Stories para el Sprint 1 responde a la necesidad de establecer la presencia digital de SafeStep rápidamente, permitiendo que usuarios potenciales conozcan la propuesta de valor, exploren las simulaciones ofrecidas, lean testimonios de otros usuarios, resuelvan sus dudas mediante preguntas frecuentes, y finalmente accedan al registro. El equipo identificó que el US47 (propuesta de valor) y US49 (simulaciones ofrecidas) son los más críticos con 5 SP cada uno, representando el núcleo del mensaje de la Landing Page.
 
 **Distribución de Trabajo por Componente:**
 
-- **Landing Page:** 21 Story Points - Enfocados en la estructura inicial, hero section, features overview, footer, y call-to-action para registro.
+- **Landing Page (EP08):** 21 Story Points - Enfocados en hero con propuesta de valor, navegación por secciones, showcase de simulaciones, testimonios, preguntas frecuentes y acceso a registro.
 
 La distribución de Story Points fue diseñada para que cada miembro del equipo tuviera una carga de trabajo equilibrada. Se priorizaron las tareas de implementación técnica (estructura HTML y estilos) sobre las tareas de configuración, reconociendo que la visibilidad del progreso es fundamental para mantener la motivación del equipo durante las primeras etapas del proyecto.
 
@@ -122,35 +125,35 @@ La distribución de roles fue diseñada para fomentar la colaboración entre los
         </tr>
         <tr>
             <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Por definir</td>
+            <td>jorgeayaladev</td>
             <td>C</td>
             <td>L</td>
             <td>C</td>
         </tr>
         <tr>
             <td>Sanchez Espinoza, Mathias Enrique</td>
-            <td>Por definir</td>
+            <td>Nounz27</td>
             <td>-</td>
             <td>C</td>
             <td>C</td>
         </tr>
         <tr>
             <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Por definir</td>
+            <td>Melga1502</td>
             <td>L</td>
             <td>C</td>
             <td>C</td>
         </tr>
         <tr>
             <td>Miraval Pomalaya, Rodrigo Jesus</td>
-            <td>Por definir</td>
+            <td>RodMiraval</td>
             <td>C</td>
             <td>C</td>
             <td>L</td>
         </tr>
         <tr>
             <td>Flores Eusebio, Angel Thyago</td>
-            <td>Por definir</td>
+            <td>angelfdevs</td>
             <td>C</td>
             <td>C</td>
             <td>C</td>
@@ -166,11 +169,15 @@ La organización de líderes y colaboradores tiene relación directa con las for
 
 - **Ayala Fernandez, Jorge Brayan (Development Lead):** Responsable de la implementación técnica de la Landing Page, incluyendo la creación de la estructura HTML semántica, estilos CSS con metodología BEM, y funcionalidades JavaScript básicas. Coordina con el líder de UI/UX para resolver dudas sobre el diseño y garantizar su correcta implementación.
 
+- **Sanchez Espinoza, Mathias Enrique (Development Collaborator):** Responsable de apoyar la implementación técnica de la Landing Page, enfocándose en la sección de simulaciones y la integración de contenido dinámico. Colabora estrechamente con el Development Lead para asegurar la consistencia del código y contribuye en la implementación de componentes específicos.
+
 - **Miraval Pomalaya, Rodrigo Jesus (Documentation Lead):** Responsable de la documentación del Sprint, incluyendo la elaboración de este archivo y demás artefactos Scrum. Coordina con los demás miembros para recopilar información sobre el avance del Sprint y asegurar la completitud de la documentación.
+
+- **Flores Eusebio, Angel Thyago (Development Collaborator):** Responsable de apoyar en el desarrollo de la Landing Page, participando en la implementación de la sección de preguntas frecuentes, el footer, y los enlaces de registro. Contribuye en las tareas de testing y verificación de calidad del código.
 
 ### 5.2.1.3. Sprint Backlog 1
 
-El Sprint Backlog 1 inicia con una introducción que resume el objetivo principal del Sprint: establecer la presencia digital de SafeStep mediante una Landing Page funcional. Este documento representa el compromiso del equipo para completar las tareas identificadas durante el Sprint Planning y representa la base para el seguimiento del progreso durante la iteración.
+El Sprint Backlog 1 inicia con una introducción que resume el objetivo principal del Sprint: establecer la presencia digital de SafeStep mediante una Landing Page funcional que cubra la Épica 08 del Product Backlog. Este documento representa el compromiso del equipo para completar las tareas identificadas durante el Sprint Planning y constituye la base para el seguimiento del progreso durante la iteración.
 
 El Sprint Backlog fue elaborado de manera colaborativa, donde cada miembro del equipo tuvo la oportunidad de sugerir tareas adicionales o modificar la estimación de horas para tareas existentes. Se utilizó la técnica de Planning Poker para estimar la complejidad de cada tarea, considerando factores como el tiempo requerido, la complejidad técnica, y las dependencias con otras tareas.
 
@@ -208,8 +215,8 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>Status (To-do / In-Process / To-Review / Done)</td>
         </tr>
         <tr>
-            <td>US001</td>
-            <td>Ver Landing Page</td>
+            <td>US47</td>
+            <td>Propuesta de valor</td>
             <td>T001</td>
             <td>Crear estructura HTML base</td>
             <td>Crear estructura base del documento HTML con DOCTYPE, meta tags, y vinculación de archivos CSS/JS</td>
@@ -218,61 +225,111 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>Done</td>
         </tr>
         <tr>
-            <td>US001</td>
-            <td>Ver Landing Page</td>
+            <td>US47</td>
+            <td>Propuesta de valor</td>
             <td>T002</td>
             <td>Implementar Hero Section</td>
-            <td>Crear sección hero con headline, descripción, y call-to-action para registro</td>
+            <td>Crear sección hero con headline, propuesta de valor de SafeStep, y call-to-action para registro</td>
             <td>4</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US001</td>
-            <td>Ver Landing Page</td>
+            <td>US47</td>
+            <td>Propuesta de valor</td>
             <td>T003</td>
-            <td>Implementar Features Section</td>
-            <td>Crear sección que muestre las características principales de SafeStep</td>
+            <td>Implementar sección de características</td>
+            <td>Crear sección que muestre las características principales de SafeStep: simulaciones, gamificación y tienda</td>
             <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US001</td>
-            <td>Ver Landing Page</td>
+            <td>US48</td>
+            <td>Navegación por secciones</td>
             <td>T004</td>
-            <td>Implementar Footer</td>
-            <td>Crear footer con enlaces a redes sociales, términos, y privacidad</td>
-            <td>2</td>
+            <td>Implementar menú de navegación</td>
+            <td>Crear menú de navegación con enlaces a las secciones de la landing: funcionalidades, simulaciones, gamificación, tienda y FAQ</td>
+            <td>3</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US001</td>
-            <td>Ver Landing Page</td>
+            <td>US48</td>
+            <td>Navegación por secciones</td>
             <td>T005</td>
-            <td>Aplicar estilos responsive</td>
-            <td>Asegurar que la landing se visualice correctamente en dispositivos móviles</td>
-            <td>3</td>
+            <td>Implementar scroll suave</td>
+            <td>Agregar desplazamiento suave (smooth scroll) al hacer clic en los enlaces del menú de navegación</td>
+            <td>2</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US002</td>
-            <td>Gestionar info Landing</td>
+            <td>US49</td>
+            <td>Simulaciones ofrecidas</td>
             <td>T006</td>
-            <td>Configurar sistema de plantillas</td>
-            <td>Implementar variables configurables para textos de la Landing Page</td>
-            <td>3</td>
+            <td>Implementar sección de simulaciones</td>
+            <td>Crear sección con tarjetas informativas de las simulaciones disponibles: RCP, quemaduras, atragantamiento y sismos</td>
+            <td>5</td>
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US006</td>
-            <td>Entorno de desarrollo</td>
+            <td>US52</td>
+            <td>Testimonios</td>
             <td>T007</td>
+            <td>Implementar sección de testimonios</td>
+            <td>Crear sección con testimonios de usuarios mostrando experiencias positivas con SafeStep</td>
+            <td>3</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US53</td>
+            <td>Preguntas frecuentes</td>
+            <td>T008</td>
+            <td>Implementar sección FAQ</td>
+            <td>Crear sección de preguntas frecuentes con formato acordeón para resolver dudas comunes de los visitantes</td>
+            <td>3</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US54</td>
+            <td>Acceso a registro</td>
+            <td>T009</td>
+            <td>Implementar enlaces de registro</td>
+            <td>Agregar botones de "Comenzar" y "Registrarse" que redirijan a la pantalla de registro o acceso</td>
+            <td>2</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US54</td>
+            <td>Acceso a registro</td>
+            <td>T010</td>
+            <td>Implementar footer con información de contacto</td>
+            <td>Crear footer con marca, enlaces relevantes, información de contacto y derechos reservados</td>
+            <td>3</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US47/US48</td>
+            <td>General</td>
+            <td>T011</td>
+            <td>Aplicar estilos responsive</td>
+            <td>Asegurar que la landing se visualice correctamente en dispositivos móviles y tablets</td>
+            <td>3</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US47</td>
+            <td>Propuesta de valor</td>
+            <td>T012</td>
             <td>Configurar repositorio Git</td>
-            <td>Inicializar repositorio en GitHub con estructura de archivos</td>
+            <td>Inicializar repositorio en GitHub con estructura de archivos y README</td>
             <td>2</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
@@ -280,15 +337,15 @@ A continuación, la tabla de control de estado para el Sprint 1:
     </tbody>
 </table>
 
-El Sprint Backlog refleja 7 tareas que totalizando las horas estimadas representan aproximadamente 21 horas de trabajo del equipo, equivalente a los 21 Story Points calculados para el Sprint 1. Cada tarea fue estimada considerando la complejidad técnica, el tiempo requerido para investigación en caso de desconocimiento, y los posibles imprevistos que pudieran surgir durante la implementación.
+El Sprint Backlog refleja 12 tareas que totalizando las horas estimadas representan aproximadamente 36 horas de trabajo del equipo, equivalente a los 21 Story Points calculados para el Sprint 1. Cada tarea fue estimada considerando la complejidad técnica, el tiempo requerido para investigación en caso de desconocimiento, y los posibles imprevistos que pudieran surgir durante la implementación.
 
-El equipo se compromte a completar todas las tareas del Sprint Backlog antes de la fecha de Sprint Review programada para el final de la iteración. Se realizará seguimiento diario del progreso mediante las daily standups y se tomarán acciones correctivas en caso de identificar desviaciones significativas del plan.
+El equipo se compromete a completar todas las tareas del Sprint Backlog antes de la fecha de Sprint Review programada para el final de la iteración. Se realizará seguimiento diario del progreso mediante las daily standups y se tomarán acciones correctivas en caso de identificar desviaciones significativas del plan.
 
 ### 5.2.1.4. Development Evidence for Sprint Review
 
-En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1: Landing Page. La sección resume los principales avances logrados durante este Sprint inicial y sirve como evidencia de que el equipo cumplió con el objetivo planificado.
+En esta sección se explica y presenta los avances en implementación con relación a los productos de la solución según el alcance del Sprint 1: Landing Page (EP08). La sección resume los principales avances logrados durante este Sprint inicial y sirve como evidencia de que el equipo cumplió con el objetivo planificado.
 
-Durante el Sprint 1, el equipo SafeStep logró completar la configuración de la Landing Page. Se obtuvo una página completamente funcional con las siguientes secciones: Hero Section con headline principal y llamada a la acción, Features Section con las características del servicio, y Footer con enlaces a redes sociales y políticas. El desarrollo siguió las mejores prácticas de desarrollo web, incluyendo código semántico, accesibilidad, y optimización para motores de búsqueda (SEO).
+Durante el Sprint 1, el equipo SafeStep logró completar la implementación de la Landing Page pública de SafeStep. Se obtuvo una página completamente funcional con las siguientes secciones: Hero Section con headline y propuesta de valor, menú de navegación con scroll suave, sección de características principales, showcase de simulaciones disponibles (RCP, quemaduras, atragantamiento, sismos), sección de testimonios, sección de preguntas frecuentes en formato acordeón, llamados a la acción para registro, y footer con información de contacto. El desarrollo siguió las mejores prácticas de desarrollo web, incluyendo código semántico, accesibilidad, y diseño responsivo.
 
 **Resumen de Avances Implementados:**
 
@@ -324,8 +381,8 @@ La Landing Page implementada durante el Sprint 1 cuenta con las siguientes carac
             <td>safestep-landing</td>
             <td>main</td>
             <td>7d8e9f0</td>
-            <td>feat: implement hero section</td>
-            <td>Add hero section with headline, description, and CTA button for registration</td>
+            <td>feat: implement hero section with value proposition</td>
+            <td>Add hero section with headline, value proposition description, and CTA button for registration</td>
             <td>2026-04-06</td>
         </tr>
         <tr>
@@ -333,45 +390,69 @@ La Landing Page implementada durante el Sprint 1 cuenta con las siguientes carac
             <td>main</td>
             <td>2b4c6d8</td>
             <td>feat: add features section</td>
-            <td>Create features section showcasing main SafeStep capabilities</td>
+            <td>Create features section showcasing main SafeStep capabilities: simulations, gamification and store</td>
             <td>2026-04-07</td>
         </tr>
         <tr>
             <td>safestep-landing</td>
             <td>main</td>
             <td>a192b37</td>
-            <td>feat: implement footer component</td>
-            <td>Add footer with social links, terms, and privacy policy</td>
+            <td>feat: add navigation menu and smooth scroll</td>
+            <td>Implement sticky navigation bar with smooth scrolling to sections</td>
             <td>2026-04-08</td>
         </tr>
         <tr>
             <td>safestep-landing</td>
             <td>main</td>
             <td>e5f6a71</td>
-            <td>style: add responsive styles</td>
-            <td>Apply responsive design for mobile devices</td>
+            <td>feat: implement simulations showcase section</td>
+            <td>Add section with cards showing available simulations: CPR, burns, choking and earthquakes</td>
             <td>2026-04-09</td>
         </tr>
         <tr>
             <td>safestep-landing</td>
             <td>main</td>
             <td>c8d9e02</td>
-            <td>config: setup template system</td>
-            <td>Implement configurable template variables for easy content updates</td>
+            <td>feat: add testimonials section</td>
+            <td>Implement testimonials section with user reviews and experiences</td>
             <td>2026-04-10</td>
         </tr>
         <tr>
             <td>safestep-landing</td>
             <td>main</td>
             <td>4b5a6f9</td>
-            <td>chore: setup git repository</td>
-            <td>Initialize GitHub repository with proper structure</td>
+            <td>feat: add FAQ accordion section</td>
+            <td>Create FAQ section with accordion-style questions and answers for common doubts</td>
             <td>2026-04-11</td>
+        </tr>
+        <tr>
+            <td>safestep-landing</td>
+            <td>main</td>
+            <td>d1e2f34</td>
+            <td>feat: implement register access and footer</td>
+            <td>Add registration buttons and footer with brand info, links and copyright</td>
+            <td>2026-04-12</td>
+        </tr>
+        <tr>
+            <td>safestep-landing</td>
+            <td>main</td>
+            <td>g5h6i78</td>
+            <td>style: add responsive styles</td>
+            <td>Apply responsive design for mobile and tablet devices</td>
+            <td>2026-04-13</td>
+        </tr>
+        <tr>
+            <td>safestep-landing</td>
+            <td>main</td>
+            <td>j9k0l12</td>
+            <td>chore: setup git repository structure</td>
+            <td>Initialize GitHub repository with proper folder structure and README file</td>
+            <td>2026-04-05</td>
         </tr>
     </tbody>
 </table>
 
-El equipo realizó un total de 7 commits en el repositorio de Landing Page durante el Sprint 1. Cada commit sigue la convención de Conventional Commits establecida en la configuración del proyecto, facilitando la generación automática de changelogs y la trazabilidad de cambios. Los commits fueron realizados de forma regular, evitando commits muy grandes que dificulten la revisión de código y el rollback en caso de problemas.
+El equipo realizó un total de 10 commits en el repositorio de Landing Page durante el Sprint 1. Cada commit sigue la convención de Conventional Commits establecida en la configuración del proyecto, facilitando la generación automática de changelogs y la trazabilidad de cambios. Los commits fueron realizados de forma regular, evitando commits muy grandes que dificulten la revisión de código y el rollback en caso de problemas.
 
 **Repositorio de Landing Page:**
 
@@ -380,7 +461,7 @@ https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page
 **Estadísticas del repositorio:**
 
 - Total de ramas: 2 (main, develop)
-- Total de commits: 7
+- Total de commits: 10
 - Total de contribuciones: 5 miembros del equipo
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
@@ -389,29 +470,30 @@ Esta sección resume lo alcanzado en el Sprint 1 y presenta las capturas de pant
 
 **Resumen de lo Alcanzado:**
 
-El Sprint 1 permitió establecer la presencia digital de SafeStep. El equipo logró completar la configuración del repositorio, establecer las convenciones de código, e implementar las funcionalidades de la Landing Page. Los resultados superan las expectativas iniciales, logrando una Landing Page funcional, visualmente atractiva y técnicamente sólida.
+El Sprint 1 permitió establecer la presencia digital de SafeStep mediante la implementación de la Landing Page pública (EP08). El equipo logró completar la configuración del repositorio, establecer las convenciones de código, e implementar todas las secciones planificadas: propuesta de valor, navegación, simulaciones, testimonios, preguntas frecuentes, acceso a registro y footer. Los resultados superan las expectativas iniciales, logrando una Landing Page funcional, visualmente atractiva y técnicamente sólida.
 
 **Capturas de Pantalla - Landing Page:**
 
 La Landing Page implementada incluye las siguientes secciones principales:
 
-1. **Hero Section:** Con el headline "Aprende Primeros Auxilios y Salva Vidas", subtítulo descriptivo que explica brevemente la propuesta de valor de SafeStep, y botón de "Comenzar Ahora" que redirige a la página de registro. La sección hero utiliza una imagen de fondo relacionada con primeros auxilios y cuenta con animación de entrada para los elementos de texto.
+1. **Hero Section:** Con el headline que comunica la propuesta de valor de SafeStep, subtítulo descriptivo explicando los beneficios de la plataforma, y botón de "Comenzar Ahora" que redirige a la pantalla de registro. La sección hero utiliza una imagen de fondo relacionada con primeros auxilios y cuenta con animación de entrada para los elementos de texto.
 
-2. **Features Section:** Con las características clave de SafeStep:
-   - "Simulaciones Interactivas": Descripción de las simulaciones que permiten practicar situaciones de emergencia en un entorno seguro.
-   - "Videos Demostrativos": Acceso a contenido audiovisual que muestra técnicas correctas de primeros auxilios.
-   - "Evaluaciones Prácticas": Tests que permiten medir el nivel de conocimiento y certificar competencias.
-   - "Gamificación": Sistema de logros e insignias que motiva el aprendizaje continuo.
-   - "Seguimiento de Progreso": Dashboard personal que muestra el avance del usuario en cada módulo.
+2. **Features Section:** Con las características clave de SafeStep: Simulaciones Interactivas para practicar emergencias, Gamificación con niveles e insignias, y Tienda de productos y kits de primeros auxilios.
 
-3. **Footer:** Con enlaces a redes sociales (Facebook, Instagram, Twitter/X, LinkedIn), términos y condiciones, política de privacidad, y enlaces de contacto. También incluye información de contacto básica como correo electrónico de soporte.
+3. **Simulaciones Section:** Tarjetas informativas que muestran las emergencias que se pueden practicar: RCP (Reanimación Cardiopulmonar), Quemaduras, Atragantamiento y Sismos, cada una con una breve descripción y llamado a la acción.
+
+4. **Testimonios Section:** Opiniones de usuarios ficticios que muestran experiencias positivas con SafeStep, generando confianza en los visitantes.
+
+5. **FAQ Section:** Preguntas frecuentes en formato acordeón que resuelven dudas comunes sobre el precio, la necesidad de experiencia médica y el funcionamiento de la plataforma.
+
+6. **Footer:** Con información de marca, enlaces a secciones relevantes, y derechos reservados.
 
 **Funcionalidades adicionales implementadas:**
 
 - **Navegación sticky:** La barra de navegación permanece fija al hacer scroll, mejorando la accesibilidad a los enlaces principales.
+- **Scroll suave:** Transición animada al navegar entre secciones mediante clic en el menú.
 - **Animaciones sutiles:** Transiciones suaves al hacer hover en botones y tarjetas, mejorando la experiencia de usuario.
-- **Formulario de newsletter:** Sección para capturar correos electrónicos de usuarios interesados en recibir actualizaciones sobre SafeStep.
-- **Integración con Google Analytics:** Configuración de tracking para medir métricas de visitantes y comportamiento.
+- **Diseño responsivo:** Adaptación completa a dispositivos móviles y tablets.
 
 **Imagen final del Landing Page:**
 
@@ -419,15 +501,111 @@ La Landing Page implementada incluye las siguientes secciones principales:
   <p>
     <b>Gráfico 1</b>: Final Landing Page
   </p>
-  <img src="../../assets/images/chapter-4/landing-mockup-desktop.png" alt="Analytics AV1" width="500" />
+  <img src="../../assets/images/chapter-4/landing-mockup-desktop.png" alt="Landing Page SafeStep" width="500" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
 
-Este video de demostración muestra la navegación por la Landing Page y su funcionamiento en diferentes dispositivos. El video tiene una duración aproximada de 3 minutos y demuestra las siguientes funcionalidades: navegación por la página, comportamiento responsivo en diferentes tamaños de pantalla, interacción con los botones de llamada a la acción, y acceso a los enlaces del footer.
+Se muestra la navegación por la Landing Page y su funcionamiento en diferentes dispositivos. El video tiene una duración aproximada de 3 minutos y demuestra las siguientes funcionalidades: navegación por las secciones mediante el menú, comportamiento responsivo en diferentes tamaños de pantalla, interacción con los botones de llamada a la acción, y acceso a los enlaces del footer.
 
-### 5.2.1.6. Team Collaboration Insights during Sprint
+### 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En esta sección se incluye la relación de Endpoints documentados con OpenAPI, relacionados con el alcance del Sprint. Sin embargo, para el Sprint 1 esto no aplica, debido a que el alcance de esta primera iteración estuvo limitado exclusivamente al desarrollo de la Landing Page pública (EP08). La Landing Page es un sitio web estático que no expone servicios web ni APIs REST, por lo que no existe documentación de servicios que presentar en esta sección. El equipo se enfocó en establecer la presencia digital de SafeStep mediante HTML, CSS y JavaScript del lado del cliente, sin necesidad de implementar ni documentar endpoints de backend.
+
+La documentación de servicios web con OpenAPI/Swagger será abordada en sprints posteriores, cuando se implementen los componentes de Web Services (Backend API con Spring Boot) y el Frontend Angular que consumirá dichos endpoints. Específicamente, en el sprint correspondiente al desarrollo del backend (EP09 - Soporte técnico y arquitectura), se definirán y documentarán los endpoints REST necesarios para la aplicación. Por ahora, al tratarse de un producto puramente estático y de presentación, no existen endpoints que documentar ni interacciones con servicios web que evidenciar.
+
+### 5.2.1.7. Software Deployment Evidence for Sprint Review
+
+En esta sección se resumen los procesos realizados en relación con Deployment durante el Sprint 1. Para este Sprint, las actividades de despliegue se centraron exclusivamente en la Landing Page de SafeStep, utilizando GitHub Pages como plataforma de hosting estático. El proceso de despliegue implicó la creación y configuración del repositorio en GitHub, la implementación del contenido estático, y la configuración del pipeline de publicación para que la Landing Page estuviera accesible públicamente.
+
+El despliegue en GitHub Pages se configuró siguiendo el enfoque de rama `gh-pages`, que es el método estándar para publicar sitios estáticos en esta plataforma. A continuación se detallan los pasos realizados durante el Sprint 1 para lograr el despliegue exitoso de la Landing Page.
+
+**Paso 1: Creación del repositorio en GitHub**
+
+Se creó el repositorio `safestep-landing-page` dentro de la organización GitHub `upc-1asi0729-2610-11990-chronos-team-3`. El repositorio se inicializó con una estructura básica que incluye las carpetas `css/`, `js/`, `assets/images/` y el archivo `index.html` como punto de entrada de la aplicación. Esta estructura sigue las convenciones establecidas en la guía de estilo del proyecto.
+
+**Paso 2: Configuración de GitHub Pages**
+
+Se accedió a la configuración del repositorio en GitHub, específicamente a la sección "Pages" dentro de "Settings". Allí se configuró la fuente de publicación seleccionando la rama `gh-pages` como rama de publicación y la carpeta raíz (`/`) como directorio de publicación. Esta configuración le indica a GitHub Pages que debe servir el contenido estático almacenado en la rama `gh-pages` del repositorio.
+
+<div align="center">
+  <p>
+    <b>Gráfico 1</b>: Configuración de GitHub Pages en el repositorio
+  </p>
+  <img src="../../assets/images/chapter-5/github-pages-config.png" alt="Configuración GitHub Pages" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
+
+**Paso 3: Automatización del despliegue con GitHub Actions**
+
+Se implementó un workflow de GitHub Actions para automatizar el proceso de despliegue. Cada vez que se realiza un push a la rama `main`, el workflow se encarga de construir los archivos estáticos y publicarlos en la rama `gh-pages`. El archivo de configuración del workflow se ubicó en `.github/workflows/deploy.yml` con la siguiente configuración:
+
+```yaml
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: '.'
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+```
+
+Este workflow se activa automáticamente con cada push a `main`, elimina la necesidad de intervención manual para publicar cambios, y garantiza que la versión desplegada siempre coincida con el código en la rama principal del repositorio.
+
+**Paso 4: Verificación del despliegue**
+
+Una vez completada la configuración y ejecutado el workflow por primera vez, se verificó el acceso a la Landing Page a través de la URL pública proporcionada por GitHub Pages:
+
+```
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/
+```
+
+Se realizaron pruebas de navegación para confirmar que todas las secciones se cargaran correctamente, que los enlaces funcionaran, y que el diseño responsivo se comportara adecuadamente en diferentes tamaños de pantalla. Adicionalmente, se verificó que la página cargara correctamente en los navegadores Chrome, Firefox y Edge.
+
+<div align="center">
+  <p>
+    <b>Gráfico 2</b>: Landing Page desplegada en GitHub Pages
+  </p>
+  <img src="../../assets/images/chapter-5/landing-deployed.png" alt="Landing Page desplegada" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
+
+**Paso 5: Configuración del dominio y HTTPS**
+
+GitHub Pages proporciona automáticamente un certificado SSL/TLS válido para todos los sitios alojados en la plataforma, por lo que la Landing Page es accesible mediante HTTPS sin configuración adicional. La URL canónica asignada sigue el formato estándar: `https://<organization>.github.io/<repository>/`.
+
+**Resultado del despliegue:**
+
+La Landing Page de SafeStep se encuentra actualmente en producción y accesible públicamente a través de la siguiente URL:
+
+**https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/**
+
+El despliegue en GitHub Pages desde la rama `gh-pages` ha resultado ser una solución eficiente y sin costos para alojar la presencia digital inicial de SafeStep. Esta plataforma ofrece alta disponibilidad, CDN global para entrega de contenido, y escalabilidad automática, lo que garantiza una experiencia de usuario óptima independientemente del volumen de visitantes.
+
+### 5.2.1.8. Team Collaboration Insights during Sprint
 
 En esta sección el equipo explica cómo se han desarrollado las actividades de implementación y se presenta los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo. Esta información permite evaluar la efectividad del equipo y identificar oportunidades de mejora para sprints futuros.
 
@@ -453,40 +631,40 @@ El equipo adoptó un enfoque de trabajo colaborativo, donde los miembros se reun
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>safestep-landing</td>
             <td>3</td>
-            <td>+300</td>
-            <td>-30</td>
+            <td>+350</td>
+            <td>-40</td>
             <td>2</td>
         </tr>
         <tr>
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>safestep-landing</td>
-            <td>1</td>
-            <td>+50</td>
-            <td>-5</td>
+            <td>2</td>
+            <td>+180</td>
+            <td>-15</td>
             <td>1</td>
         </tr>
         <tr>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>safestep-landing</td>
             <td>3</td>
-            <td>+250</td>
-            <td>-20</td>
+            <td>+300</td>
+            <td>-25</td>
             <td>2</td>
         </tr>
         <tr>
             <td>Miraval Pomalaya, Rodrigo Jesus</td>
             <td>safestep-landing</td>
-            <td>3</td>
-            <td>+250</td>
+            <td>1</td>
+            <td>+80</td>
             <td>-10</td>
-            <td>2</td>
+            <td>1</td>
         </tr>
         <tr>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>safestep-landing</td>
-            <td>3</td>
-            <td>+250</td>
-            <td>-15</td>
+            <td>2</td>
+            <td>+200</td>
+            <td>-20</td>
             <td>1</td>
         </tr>
     </tbody>
@@ -508,8 +686,8 @@ El gráfico de actividad de GitHub muestra un patrón saludable de contribucione
 
 **Distribución de trabajo por tipo de tarea:**
 
-- Diseño UI/UX: 35% del tiempo total
-- Implementación HTML/CSS: 40% del tiempo total
+- Diseño UI/UX: 30% del tiempo total
+- Implementación HTML/CSS: 45% del tiempo total
 - Configuración y documentación: 15% del tiempo total
 - Revisión de código y testing: 10% del tiempo total
 
@@ -517,15 +695,15 @@ El gráfico de actividad de GitHub muestra un patrón saludable de contribucione
 
 - Ayala Fernandez, Jorge Brayan: "El Sprint 1 estableció las bases de nuestra presencia digital. La coordinación con el equipo de diseño fue clave para lograr una Landing Page profesional. Aprendí la importancia de mantener una comunicación fluida con los diseñadores para evitar retrabajo y asegurar que el resultado final cumpla con las expectativas."
 
-- Sanchez Espinoza, Mathias Enrique: "Aporté en la configuración del sistema de plantillas para que el contenido sea fácilmente editable. Este sistema permitirá a los administradores actualizar textos e imágenes sin necesidad de conocimientos técnicos, facilitando el mantenimiento de la Landing Page a largo plazo."
+- Sanchez Espinoza, Mathias Enrique: "Contribuí en la implementación de la sección de simulaciones, creando tarjetas informativas para cada emergencia disponible. Esta sección es fundamental para que los visitantes entiendan rápidamente qué tipo de entrenamiento pueden recibir en SafeStep."
 
-- Melgarejo Quiroz, Josep Eliu: "Diseño UI/UX requirió constante refactorización. Obtuvimos buena retroalimentación inicial que permitió mejorar el diseño de la Landing Page. La implementación rápida fue fundamental para alcanzar el nivel de calidad esperado."
+- Melgarejo Quiroz, Josep Eliu: "El diseño UI/UX requirió constante refinamiento. Logramos una interfaz atractiva que comunica efectivamente la propuesta de valor de SafeStep. La implementación rápida fue fundamental para alcanzar el nivel de calidad esperado."
 
 - Miraval Pomalaya, Rodrigo Jesus: "La documentación del Sprint fue un desafío interesante. Aprendí a sintetizar la información técnica de manera clara y concisa, facilitando la comprensión del progreso del Sprint para stakeholders externos."
 
-- Flores Eusebio, Angel Thyago: "Participar en el desarrollo de la Landing Page me permitió aplicar conocimientos prácticos de desarrollo web. Contribuí en la implementación de estilos responsivos y animaciones, áreas donde deseaba fortalecer mis habilidades."
+- Flores Eusebio, Angel Thyago: "Participar en el desarrollo de la Landing Page me permitió aplicar conocimientos prácticos de desarrollo web. Contribuí en la implementación de la sección de testimonios y preguntas frecuentes, áreas donde deseaba fortalecer mis habilidades."
 
-**Lección Aprendida:**
+**Lecciones Aprendidas:**
 
 El equipo identifica las siguientes lecciones de este Sprint 1:
 

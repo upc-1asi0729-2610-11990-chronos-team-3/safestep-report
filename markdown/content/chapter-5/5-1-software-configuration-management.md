@@ -10,13 +10,17 @@
 
 # 5.1. Software Configuration Management
 
+En esta sección se detallan las herramientas, procesos y configuraciones utilizadas por el equipo Chronos para gestionar el desarrollo del proyecto SafeStep. Se cubren desde las herramientas de desarrollo y despliegue hasta las estrategias de control de versiones, convenciones de código y configuración de entornos, asegurando un flujo de trabajo ordenado, reproducible y alineado con las buenas prácticas de la industria.
+
 ## 5.1.1. Software Development Environment Configuration
+
+A continuación se presentan las herramientas y tecnologías seleccionadas para cada ámbito del desarrollo del proyecto SafeStep, organizadas por categoría según su propósito dentro del ciclo de vida del software.
 
 ### 5.1.1.1. Herramientas de Gestión de Proyectos y Requisitos
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | https://trello.com | SaaS |
+| Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | https://trello.com/b/UHs6EvyH/safestep-team-3 | SaaS |
 | GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | https://github.com/upc-1asi0729-2610-11990-chronos-team-3 | SaaS |
 | Google Drive | Almacenamiento y colaboración documentos de análisis y requerimientos | https://drive.google.com | SaaS |
 | Discord | Comunicación en tiempo real del equipo y reuniones virtuales | https://discord.com | SaaS |
@@ -66,11 +70,11 @@
 
 ### 5.1.1.7. Herramientas de Despliegue
 
-| Herramienta | Propósito |URL de Referencia | Tipo |
-|-------------|-----------|------------------|------|
-| Render | Plataforma de despliegue en la nube para aplicaciones web y APIs | https://render.com | SaaS |
-| Netlify | Plataforma de despliegue opcional para el frontend estático | https://www.netlify.com | SaaS |
-| Vercel | Plataforma de despliegue opcional para aplicaciones frontend | https://vercel.com | SaaS |
+| Herramienta | Propósito |URL de Referencia | URL de Despliegue | Tipo |
+|-------------|-----------|------------------|-------------------|------|
+| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/ | SaaS |
+| Firebase Hosting | Plataforma de despliegue para la aplicación frontend Angular | https://firebase.google.com/products/hosting | https://safestep-11990.web.app/ | SaaS |
+| my-json-server | Plataforma de despliegue para la API REST simulada del backend | https://my-json-server.typicode.com | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server | SaaS |
 
 ### 5.1.1.8. Herramientas de Testing
 
@@ -104,17 +108,18 @@ Cada miembro del equipo debe contar con las siguientes especificaciones mínimas
 
 ## 5.1.2. Source Code Management
 
-En esta sección el equipo establece los medios y esquema de organización que aplicará para el seguimiento de modificaciones. Para ello utilizará GitHub como plataforma y sistema de control de versiones. Se incluye el URL del repositorio de GitHub para cada producto: Landing Page, Backend, Frontend Web Applications. En el caso del Backend, se incluye en el repositorio el proyecto y los archivos de pruebas, tanto unitarias como de integración/aceptación. En esta sección se explica de qué forma se implementará GitFlow como Workflow de control de versiones.
+En esta sección el equipo establece los medios y esquema de organización que aplicará para el seguimiento de modificaciones. Para ello utilizará GitHub como plataforma y sistema de control de versiones. Se incluye el URL del repositorio de GitHub para cada producto: Report, Landing Page, Backend, Frontend Web Applications. En el caso del Backend, se incluye en el repositorio el proyecto y los archivos de pruebas, tanto unitarias como de integración/aceptación. En esta sección se explica de qué forma se implementará GitFlow como Workflow de control de versiones.
 
 ### 5.1.2.1. Repositorios de GitHub
 
-El equipo Chronos utiliza la organización GitHub "upc-chronos-team-3" para gestionar los tres repositorios principales del proyecto, cada uno encargado de un componente específico de la solución:
+El equipo Chronos utiliza la organización GitHub "upc-chronos-team-3" para gestionar los cuatro repositorios del proyecto, cada uno encargado de un componente específico de la solución:
 
 | Repositorio | URL GitHub | Propósito |
 |-------------|-----------|-----------|
-| SafeStep Landing | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page | Página landing pública de presentación del producto |
-| SafeStep Backend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend | API RESTful desarrollada en Spring Boot |
+| SafeStep Report | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report | Documentación del proyecto en formato markdown |
 | SafeStep Frontend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend | Aplicación web interactiva desarrollada en Angular |
+| SafeStep Backend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend | API RESTful desarrollada en Spring Boot |
+| SafeStep Landing | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page | Página landing pública de presentación del producto |
 
 ### 5.1.2.2. GitFlow Implementation
 
@@ -251,7 +256,7 @@ El equipo sigue las "Google TypeScript Style Guide" y las mejores prácticas del
 
 **Clases y Orientación a Objetos:** Las clases siguen PascalCase. Los miembros privados utilizan el prefijo underscore (`_`) o el modificador `private` de TypeScript. Los getters y setters se utilizan para acceder a miembros privados cuando hay lógica asociada. Las interfaces se nomin con el prefijo `I` o como sustantivos descriptivos.
 
-**Módulos y Imports:** Los imports se organizan en grupos: módulos externos, módulos internos del proyecto, módulos relativos. Dentro de cada grupo, se ordenan alfabéticamente. Se utilizan imports con nombres claros para facilitar el debugging.
+**Módulos e Imports:** Los imports se organizan en grupos: módulos externos, módulos internos del proyecto, módulos relativos. Dentro de cada grupo, se ordenan alfabéticamente. Se utilizan imports con nombres claros para facilitar el debugging.
 
 ### 5.1.3.5. Convenciones para Java y Spring Boot
 
@@ -281,70 +286,87 @@ En esta sección el equipo especifica la configuración del despliegue de la sol
 
 ### 5.1.4.1. Estrategia de Despliegue
 
-El equipo SafeStep adopta una estrategia de despliegue progresivo y automatizado que permite entregar valor de manera continua mientras se mantiene la estabilidad y calidad del sistema. Esta estrategia contempla múltiples entornos de despliegue, cada uno con un propósito específico en el ciclo de desarrollo y release.
+El equipo SafeStep adopta una estrategia de despliegue progresivo que permite entregar valor de manera continua mientras se mantiene la estabilidad y calidad del sistema. Esta estrategia contempla múltiples plataformas de despliegue, cada una seleccionada según las características y necesidades específicas de cada componente de la solución.
 
 #### 5.1.4.1.1. Entornos de Despliegue
 
-El proyecto cuenta con tres entornos de despliegue claramente diferenciados, cada uno cumpliendo un rol específico en el ciclo de vida del software. El primer entorno es el entorno de desarrollo local, donde cada miembro del equipo puede trabajar de manera independiente en su máquina local, utilizando contenedores Docker para mantener consistencia con el entorno de producción. Este entorno permite una búsqueda rápida y pruebas sin afectar a otros miembros del equipo.
+El proyecto cuenta con tres productos desplegados en plataformas independientes. El primer producto es la Landing Page, desplegada en GitHub Pages como sitio estático, permitiendo una presentación pública del producto SafeStep con alta disponibilidad y sin costos operativos.
 
-El segundo entorno es el entorno de staging/pre-producción, que es una réplica exacta del entorno de producción en términos de configuración, base de datos y servicios. Este entorno se utiliza para pruebas de integración completas, pruebas de aceptación por el usuario, y validación de releases antes del despliegue a producción. Cualquier cambio en la rama develop se despliega automáticamente a este entorno.
+El segundo producto es el Frontend Angular, desplegado en Firebase Hosting. Esta plataforma fue seleccionada por su integración nativa con el ecosistema Google, su CDN global para distribución de contenido, y su soporte para aplicaciones web progresivas (PWA).
 
-El tercer entorno es el de producción, donde los usuarios finales acceden a la aplicación. Los despliegues a producción se realizan únicamente desde ramas release, después de pasar todas las validaciones en staging. Este entorno cuenta con configuración optimizada para rendimiento y alta disponibilidad.
+El tercer producto es el Backend API, desplegado en my-json-server como una API REST simulada que permite prototipado rápido y validación del frontend sin necesidad de un servidor backend completo.
 
 #### 5.1.4.1.2. Pipeline de CI/CD
 
-El equipo implementa pipelines de Integración Continua y Entrega Continua (CI/CD) utilizando las herramientas disponibles en GitHub Actions. Cada repositorio cuenta con su propio pipeline de CI/CD adaptado a sus características específicas.
+El equipo implementa pipelines de Integración Continua y Entrega Continua (CI/CD) utilizando GitHub Actions. Cada repositorio cuenta con su propio pipeline de CI/CD adaptado a sus características específicas.
 
-Para el repositorio de Frontend (Angular), el pipeline de CI/CD incluye las siguientes etapas: instalación de dependencias con npm install, verificación de código con ESLint y análisis estático, ejecución de pruebas unitarias con Karma o Jest, construcción de la aplicación para producción, y finalmente despliegue automático a Render si las pruebas pasan exitosamente.
+Para el repositorio de Frontend (Angular), el pipeline de CI/CD incluye las siguientes etapas: instalación de dependencias con npm install, verificación de código con ESLint y análisis estático, ejecución de pruebas unitarias con Karma o Jest, construcción de la aplicación para producción, y despliegue automático a Firebase Hosting si las pruebas pasan exitosamente.
 
-Para el repositorio de Web Services (Spring Boot), el pipeline incluye: verificación de código con herramientas de análisis estático, compilación del proyecto con Maven, ejecución de pruebas unitarias y de integración, construcción del artefacto JAR/WAR, y despliegue automático a Render.
+Para el repositorio de Web Services (Spring Boot), el pipeline incluye: verificación de código con herramientas de análisis estático, compilación del proyecto con Maven, ejecución de pruebas unitarias y de integración, y construcción del artefacto JAR.
 
-Para el repositorio de Landing Page, se implementa un pipeline simplified que incluye build estático y despliegue a Render o Netlify.
+Para el repositorio de Landing Page, se implementa un pipeline simplificado que incluye build estático y despliegue automático a GitHub Pages.
 
-### 5.1.4.2. Configuración de Render
+### 5.1.4.2. Configuración de Plataformas de Despliegue
 
-Render es la plataforma de despliegue principal seleccionada para el proyecto SafeStep. A continuación se detallan los pasos de configuración para cada componente de la solución en la plataforma Render.
+A continuación se detallan las configuraciones específicas para cada plataforma de despliegue utilizada en el proyecto SafeStep.
 
-#### 5.1.4.2.1. Configuración de Web Services en Render
+#### 5.1.4.2.1. Configuración de Landing Page en GitHub Pages
 
-El despliegue de los Web Services en Render requiere una serie de pasos de configuración que aseguran el correcto funcionamiento de la API en producción. El primer paso consiste en crear una cuenta en Render y vincula con el repositorio de GitHub. Se recomienda utilizar el plan gratuito para desarrollo, con opción de upgrade a planes de pago según las necesidades de producción.
+La Landing Page de SafeStep se despliega en GitHub Pages, una plataforma de hosting estático directamente integrada con GitHub. El despliegue se configura mediante GitHub Actions, donde el pipeline construye los archivos estáticos y los publica en la rama `gh-pages` del repositorio.
 
-Una vez vinculada la cuenta, el equipo debe crear un nuevo Web Service para el repositorio de safestep-web-services. Durante la configuración, se selecciona la rama que déclencheur el despliegue (típicamente main o una rama específica de producción). Render detectará automáticamente que es una aplicación Spring Boot correctamente en el build command y run command.
+Para configurar el despliegue, se debe habilitar GitHub Pages en la configuración del repositorio, seleccionando la rama `gh-pages` como fuente. Los archivos estáticos generados tras el build se almacenan en esta rama y GitHub Pages los sirve automáticamente.
 
-Los parámetros de configuración críticos incluyen: la variable de entorno `PORT` que Render asigna dinámicamente, la configuración de base de datos si se utiliza una base de datos gestionada por Render, y las variables de entorno para credentials de la aplicación. Es importante asegurar que todas las variables sensibles se configuren como secrets en Render y nunca se expongan en el código fuente.
+La URL pública del landing page es: `https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/`
 
-La URL del servicio desplegado se utilizará como base URL para las llamadas API desde el Frontend. Por ejemplo, si el servicio se despliega en `https://safestep-api.onrender.com`, las llamadas API se realizarán a endpoints como `https://safestep-api.onrender.com/api/modules`.
+#### 5.1.4.2.2. Configuración de Frontend en Firebase Hosting
 
-#### 5.1.4.2.2. Configuración de Frontend en Render
+El Frontend Angular se despliega en Firebase Hosting, un servicio de hosting para aplicaciones web con CDN global. Los pasos de configuración incluyen la instalación de Firebase CLI, la inicialización del proyecto con `firebase init hosting`, y la configuración del directorio de salida del build de Angular (`dist/safestep-frontend`).
 
-El Frontend de Angular también se despliega en Render como un Web Service estático o como una aplicación Node.js si se requiere Server-Side Rendering (SSR). La configuración incluye especificar el directorio de salida (típicamente `dist/safestep-frontend`) y el comando de build: `npm install && npm run build`.
+El archivo `firebase.json` se configura con el directorio público y las reglas de redireccionamiento para aplicaciones Angular SPA, asegurando que todas las rutas sean manejadas por `index.html`:
 
-Es importante configurar las variables de entorno en Render para especificar la URL base del API. Esto permite cambiar la URL del backend sin necesidad de recompilar la aplicación. Por ejemplo: `API_BASE_URL=https://safestep-api.onrender.com`.
+```json
+{
+  "hosting": {
+    "public": "dist/safestep-frontend",
+    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
+    "rewrites": [{
+      "source": "**",
+      "destination": "/index.html"
+    }]
+  }
+}
+```
 
-Para el Frontend, también se puede considerar el uso de servicios como Netlify o Vercel, que ofrecen características específicas para aplicaciones estáticas y de frontend, incluyendo CDN global para mejor rendimiento.
+El despliegue se realiza mediante el comando `firebase deploy --only hosting` y se automatiza a través de GitHub Actions. La URL pública del frontend es: `https://safestep-11990.web.app/`
 
-#### 5.1.4.2.3. Configuración de Landing Page en Render o Netlify
+#### 5.1.4.2.3. Configuración de API en my-json-server
 
-La Landing Page, al ser un sitio estático, puede desplegarse en Render como Web Service estático o en Netlify. Netlify ofrece características específicas para sitios estáticos, incluyendo forms integrados, funciones serverless, y despliegues automáticos desde Git.
+El Backend API se despliega en my-json-server, una plataforma que permite crear una API REST falsa a partir de un archivo `db.json` alojado en un repositorio de GitHub. Esta plataforma fue seleccionada para la fase de prototipado, permitiendo al equipo de frontend consumir datos reales sin necesidad de un backend completamente implementado.
 
-La configuración en Netlify requiere crear un archivo `netlify.toml` en la raíz del repositorio que especifique el comando de build y el directorio de publish. Por ejemplo: `[build] publish = "dist" command = "npm run build"`. El despliegue se déclencheur automáticamente cada vez que se hace push a la rama principal.
+La configuración consiste en alojar el archivo `db.json` en la raíz del repositorio `safestep-backend` con la estructura de datos que la aplicación frontend necesita consumir. my-json-server genera automáticamente los endpoints REST basados en las claves del archivo JSON.
+
+La URL base de la API es: `https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server`
 
 ### 5.1.4.3. Procedimientos de Despliegue
 
 El equipo establece procedimientos detallados para ejecutar despliegues, asegurando consistencia y minimizando errores en el proceso de publicación del software.
 
-#### 5.1.4.3.1. Despliegue a Staging
+#### 5.1.4.3.1. Despliegue a Producción
 
-El despliegue a staging ocurre automáticamente cuando se hace push a la rama develop. Este proceso no requiere intervención manual y serve como validación automática de que el código integrado funciona correctamente. El equipo debe verificar en staging antes de promover cualquier cambio a producción.
+Cada componente tiene su propio procedimiento de despliegue a producción. Para la Landing Page en GitHub Pages, el despliegue se activa automáticamente mediante GitHub Actions al hacer push a la rama `main`, ejecutando el build estático y publicando en la rama `gh-pages`.
 
-#### 5.1.4.3.2. Despliegue a Producción
+Para el Frontend en Firebase Hosting, el despliegue se realiza mediante GitHub Actions, donde el pipeline ejecuta las pruebas, construye la aplicación y despliega a Firebase. Se utiliza el token de Firebase CI configurado como secreto en el repositorio.
 
-El despliegue a producción requiere un proceso más formal. Primero, se debe crear una rama release desde develop. Luego, se ejecutan las pruebas finales en staging. Una vez validadas, se hace merge de la rama release a main, lo que déclencheur el despliegue automático a producción. Se debe verificar el funcionamiento correcto después del despliegue. Finalmente, se hace merge de main a develop para mantener la sincronización.
+Para el Backend en my-json-server, el despliegue es inmediato: cualquier cambio en el archivo `db.json` en la rama `main` del repositorio se refleja automáticamente en la API.
+
+#### 5.1.4.3.2. Verificación Post-Despliegue
+
+Después de cada despliegue, el equipo debe verificar el correcto funcionamiento de cada componente accediendo a las URLs de despliegue correspondientes y realizando pruebas de humo (smoke tests) para confirmar que la aplicación responde correctamente.
 
 #### 5.1.4.3.3. Rollback
 
-En caso de problemas en producción, el equipo puede realizar un rollback a la versión anterior. Render permite desplegar versiones anteriores directamente desde el dashboard. También se puede utilizar git para reverti el cambio y vuelto a desplegar.
+En caso de problemas en producción, el equipo puede realizar un rollback a la versión anterior. GitHub Pages permite revertir el despliegue restaurando el contenido anterior de la rama `gh-pages`. Firebase Hosting permite listar versiones anteriores desde la consola y desplegar una versión específica con el comando `firebase hosting:clone`. Para my-json-server, el rollback se realiza revirtiendo el commit del archivo `db.json` en el repositorio.
 
 ### 5.1.4.4. Monitoreo y Logging
 
-El equipo implementa capacidades de monitoreo y logging para mantener visibilidad sobre el estado de la aplicación en producción. Los logs de aplicación se almacenan en Render dashboard para revisión manual. Para métricas, se puede integrar servicios gratuitos como Sentry para tracking de errores. Estos herramientas permiten identificar y resolver problemas rápidamente.
+El equipo implementa capacidades de monitoreo y logging para mantener visibilidad sobre el estado de la aplicación en producción. Firebase Hosting proporciona analytics integrados que permiten monitorear el tráfico y el rendimiento del frontend. Para el tracking de errores, se puede integrar servicios como Sentry. GitHub Pages expone métricas básicas de uso a través de GitHub Insights. Estas herramientas permiten identificar y resolver problemas rápidamente, asegurando la disponibilidad y calidad del servicio para los usuarios finales.
