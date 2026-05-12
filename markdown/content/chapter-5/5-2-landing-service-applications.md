@@ -519,7 +519,7 @@ El gráfico de actividad de GitHub muestra un patrón saludable de contribucione
 
 - Sanchez Espinoza, Mathias Enrique: "Aporté en la configuración del sistema de plantillas para que el contenido sea fácilmente editable. Este sistema permitirá a los administradores actualizar textos e imágenes sin necesidad de conocimientos técnicos, facilitando el mantenimiento de la Landing Page a largo plazo."
 
-- Melgarejo Quiroz, Josep Eliu: "Diseño UI/UX requirió constante refactorización. Obtuvimos buena retroalimentación inicial que permitió mejorar el diseño de la Landing Page. La迭代ación rápida fue fundamental para alcanzar el nivel de calidad esperado."
+- Melgarejo Quiroz, Josep Eliu: "Diseño UI/UX requirió constante refactorización. Obtuvimos buena retroalimentación inicial que permitió mejorar el diseño de la Landing Page. La implementación rápida fue fundamental para alcanzar el nivel de calidad esperado."
 
 - Miraval Pomalaya, Rodrigo Jesus: "La documentación del Sprint fue un desafío interesante. Aprendí a sintetizar la información técnica de manera clara y concisa, facilitando la comprensión del progreso del Sprint para stakeholders externos."
 
