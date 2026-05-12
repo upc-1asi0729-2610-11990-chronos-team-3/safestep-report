@@ -16,6 +16,6 @@ En esta sección, se presenta el diseño orientado a objetos del software SafeSt
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagram-class-safestep.svg" alt="Diagrama de clases SafeStep" />
+    <br>
+    <sub><small>link (vista del diagrama de clases en Miro): <a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</small></sub>
 </div>
-
-Enlace del [Lucid chart](https://lucid.app/lucidchart/7ddfadb8-eb84-4e7b-88b1-c8e598e33bd8/edit?viewport_loc=-2020%2C-730%2C5980%2C2608%2C0_0&invitationId=inv_4a079dbe-cf5b-4732-a2b7-d7691be6e3fa)
