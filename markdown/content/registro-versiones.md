@@ -47,4 +47,34 @@
             </ul>
         </td>
     </tr>
+    <tr>
+        <td align="center">2</td>
+        <td align="center">12/05/26</td>
+        <td>
+            <ul>
+                <li>Ayala Fernandez, Jorge Brayan</li>
+                <li>Flores Eusebio, Angel Thyago</li>
+                <li>Melgarejo Quiroz Josep Eliu</li>
+                <li>Miraval Pomalaya, Rodrigo Jesus</li>
+                <li>Sanchez Espinoza, Mathias Enrique</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Capítulo V: Product Implementation, Validation & Deployment.</li>
+                <li>5.2.2. Sprint 2</li>
+                <li>5.2.2.1. Sprint Planning 2.</li>
+                <li>5.2.2.2. Aspect Leaders and Collaborators.</li>
+                <li>5.2.2.3. Sprint Backlog 2.</li>
+                <li>5.2.2.4. Development Evidence for Sprint Review.</li>
+                <li>5.2.2.5. Execution Evidence for Sprint Review.</li>
+                <li>5.2.2.6. Services Documentation Evidence for Sprint Review.</li>
+                <li>5.2.2.7. Software Deployment Evidence for Sprint Review.</li>
+                <li>5.2.2.8. Team Collaboration Insights during Sprint.</li>
+                <li>Conclusiones</li>
+                <li>Bibliografía</li>
+                <li>Anexos</li>
+            </ul>
+        </td>
+    </tr>
 </table>

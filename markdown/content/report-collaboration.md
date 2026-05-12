@@ -24,17 +24,15 @@ https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend
 
 https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend
 
-## Avance 1 (AV1)
+## Trabajo 1 (TB1)
 
 En esta sección se hizo el avance de las 5 secciones importantes del informe donde se destacó la naturaleza de la Startup SafeStep, a partir de la identificación de todas sus componentes el equipo se siente preparado para poder ejecutar e implementar la solución vía código en el primer Sprint presupuestado.
 
-### Analytics de colaboración:
-
 <div align="center">
   <p>
-    <b>Gráfico 1</b>: Analytics AV1
+    <b>Gráfico 2</b>: Analytics TB1
   </p>
-  <img src="../assets/images/av1-analytics.png" alt="Analytics AV1" width="500" />
+  <img src="../assets/images/av1-analytics.png" alt="Analytics TB1" width="500" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>

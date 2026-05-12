@@ -180,7 +180,9 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
     </a>
     <br>
     <sub><small>link (Marketplace y suministros): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
-    <br></br>
+    <br>
+    </a>
+    </br>
 </div>
 
 
