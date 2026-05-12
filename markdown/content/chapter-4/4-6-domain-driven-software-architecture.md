@@ -185,6 +185,10 @@ Es el paso final donde se agrupan los agregados que est√°n relacionados entre s√
     </br>
 </div>
 
+**link del miro completo**
+
+https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925
+
 
 
 ## 4.6.2. Software Architecture Context Diagram
