@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# 5.2. Landing Page Implementation
+# 5.2. Landing Page, Services & Applications Implementation.
 
 ## 5.2.1. Sprint 1
 
