@@ -561,5 +561,61 @@
       <td>- <b>Dado que</b> un producto o kit tiene una ruta de imagen local, <b>Cuando</b> se renderiza su carta, <b>Entonces</b> se muestra la imagen correspondiente.<br><br>- <b>Dado que</b> una imagen esta ubicada en assets publicos, <b>Cuando</b> el navegador solicita la ruta, <b>Entonces</b> el recurso carga sin depender de servicios externos.</td>
       <td>EP06</td>
     </tr>
+    <tr>
+      <td><b>TS13</b></td>
+      <td>Configuracion base del backend Spring Boot</td>
+      <td><b>Como</b> developer, <b>quiero</b> configurar el backend con Spring Boot, Maven, Java y perfiles de ambiente, <b>para</b> contar con una base estable para los Web Services.</td>
+      <td>- <b>Dado que</b> el proyecto backend tiene sus dependencias configuradas, <b>Cuando</b> se ejecuta Maven, <b>Entonces</b> el proyecto compila correctamente.<br><br>- <b>Dado que</b> se inicia el backend en ambiente local, <b>Cuando</b> Spring Boot arranca, <b>Entonces</b> el API queda disponible en el puerto configurado.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS14</b></td>
+      <td>Arquitectura backend por bounded contexts</td>
+      <td><b>Como</b> developer, <b>quiero</b> organizar el backend por bounded contexts y capas, <b>para</b> mantener una estructura alineada con la arquitectura del curso.</td>
+      <td>- <b>Dado que</b> se revisa la estructura del backend, <b>Cuando</b> se inspecciona cada bounded context, <b>Entonces</b> existen capas de domain, application, infrastructure e interfaces.<br><br>- <b>Dado que</b> se agrega una nueva funcionalidad, <b>Cuando</b> se ubica su codigo, <b>Entonces</b> comandos, queries, resources, controllers y servicios pertenecen a la capa correspondiente.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS15</b></td>
+      <td>Seguridad backend con JWT y roles</td>
+      <td><b>Como</b> developer, <b>quiero</b> implementar autenticacion con JWT y roles, <b>para</b> proteger los endpoints que dependen de un usuario autenticado.</td>
+      <td>- <b>Dado que</b> un usuario ingresa credenciales validas, <b>Cuando</b> ejecuta el endpoint de sign-in, <b>Entonces</b> el backend devuelve un token JWT.<br><br>- <b>Dado que</b> un endpoint requiere autenticacion, <b>Cuando</b> se llama sin token valido, <b>Entonces</b> el backend rechaza la solicitud.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS16</b></td>
+      <td>Persistencia backend con PostgreSQL y JPA</td>
+      <td><b>Como</b> developer, <b>quiero</b> configurar persistencia con PostgreSQL y Spring Data JPA, <b>para</b> almacenar datos reales de usuarios, simulaciones, compras y progreso.</td>
+      <td>- <b>Dado que</b> PostgreSQL esta disponible, <b>Cuando</b> el backend inicia, <b>Entonces</b> se conecta correctamente a la base de datos configurada.<br><br>- <b>Dado que</b> un endpoint guarda o consulta informacion, <b>Cuando</b> se ejecuta la operacion, <b>Entonces</b> los datos se leen o persisten mediante repositorios JPA.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS17</b></td>
+      <td>RESTful API por bounded context</td>
+      <td><b>Como</b> developer, <b>quiero</b> exponer endpoints REST por bounded context, <b>para</b> que el frontend pueda consumir datos reales de SafeStep.</td>
+      <td>- <b>Dado que</b> un modulo del frontend necesita informacion, <b>Cuando</b> consume el endpoint correspondiente, <b>Entonces</b> el backend devuelve una respuesta JSON consistente.<br><br>- <b>Dado que</b> una operacion modifica datos, <b>Cuando</b> el endpoint recibe un request valido, <b>Entonces</b> el backend ejecuta el comando correspondiente y devuelve el estado esperado.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS18</b></td>
+      <td>Documentacion OpenAPI y Swagger</td>
+      <td><b>Como</b> developer, <b>quiero</b> documentar los endpoints con OpenAPI y Swagger UI, <b>para</b> facilitar pruebas, revision e integracion del API.</td>
+      <td>- <b>Dado que</b> el backend esta ejecutandose, <b>Cuando</b> se abre Swagger UI, <b>Entonces</b> se muestran los controllers y endpoints disponibles.<br><br>- <b>Dado que</b> un integrante necesita probar un endpoint, <b>Cuando</b> usa Swagger, <b>Entonces</b> puede revisar metodo HTTP, ruta, parametros y respuesta esperada.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS19</b></td>
+      <td>Seed data para pruebas del backend</td>
+      <td><b>Como</b> developer, <b>quiero</b> cargar datos iniciales en el backend, <b>para</b> probar flujos principales sin registrar toda la informacion manualmente.</td>
+      <td>- <b>Dado que</b> la base de datos esta vacia, <b>Cuando</b> el backend inicia con seed habilitado, <b>Entonces</b> se cargan datos iniciales de simulaciones, comercio, gamificacion y analitica.<br><br>- <b>Dado que</b> los datos ya fueron cargados, <b>Cuando</b> el backend se reinicia, <b>Entonces</b> no duplica registros existentes.</td>
+      <td>EP09</td>
+    </tr>
+    <tr>
+      <td><b>TS20</b></td>
+      <td>Pruebas y validacion del backend con Maven</td>
+      <td><b>Como</b> developer, <b>quiero</b> ejecutar pruebas y validaciones con Maven, <b>para</b> asegurar que el backend compile y funcione antes de integrarlo con el frontend.</td>
+      <td>- <b>Dado que</b> el equipo ejecuta las pruebas del backend, <b>Cuando</b> se corre Maven test, <b>Entonces</b> las pruebas finalizan sin errores.<br><br>- <b>Dado que</b> se realizan cambios en el backend, <b>Cuando</b> se ejecuta el build, <b>Entonces</b> el proyecto genera el artefacto correspondiente sin fallas de compilacion.</td>
+      <td>EP09</td>
+    </tr>
   </tbody>
 </table>

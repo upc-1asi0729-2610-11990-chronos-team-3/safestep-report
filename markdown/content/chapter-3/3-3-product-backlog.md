@@ -421,7 +421,7 @@
             <td align="center">2</td>
             <td align="center">M</td>
         </tr>
-        <!-- EP09 - Soporte técnico y arquitectura (TS01 a TS12) -->
+        <!-- EP09 - Soporte técnico y arquitectura (TS01 a TS20) -->
         <tr>
             <td align="center"><b>PB57</b></td>
             <td align="center">TS01</td>
@@ -505,6 +505,62 @@
             <td>Como developer, quiero referenciar imágenes locales desde los datos del proyecto para que las cartas y detalles muestren recursos visuales consistentes.</td>
             <td align="center">3</td>
             <td align="center">S</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB69</b></td>
+            <td align="center">TS13</td>
+            <td>Como developer, quiero configurar el backend con Spring Boot, Maven, Java y perfiles de ambiente para contar con una base estable para los Web Services.</td>
+            <td align="center">5</td>
+            <td align="center">M</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB70</b></td>
+            <td align="center">TS14</td>
+            <td>Como developer, quiero organizar el backend por bounded contexts y capas para mantener una estructura alineada con la arquitectura del curso.</td>
+            <td align="center">5</td>
+            <td align="center">M</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB71</b></td>
+            <td align="center">TS15</td>
+            <td>Como developer, quiero implementar autenticación con JWT y roles para proteger los endpoints que dependen de un usuario autenticado.</td>
+            <td align="center">5</td>
+            <td align="center">M</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB72</b></td>
+            <td align="center">TS16</td>
+            <td>Como developer, quiero configurar persistencia con PostgreSQL y Spring Data JPA para almacenar datos reales de usuarios, simulaciones, compras y progreso.</td>
+            <td align="center">5</td>
+            <td align="center">M</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB73</b></td>
+            <td align="center">TS17</td>
+            <td>Como developer, quiero exponer endpoints REST por bounded context para que el frontend pueda consumir datos reales de SafeStep.</td>
+            <td align="center">8</td>
+            <td align="center">M</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB74</b></td>
+            <td align="center">TS18</td>
+            <td>Como developer, quiero documentar los endpoints con OpenAPI y Swagger UI para facilitar pruebas, revisión e integración del API.</td>
+            <td align="center">3</td>
+            <td align="center">M</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB75</b></td>
+            <td align="center">TS19</td>
+            <td>Como developer, quiero cargar datos iniciales en el backend para probar flujos principales sin registrar toda la información manualmente.</td>
+            <td align="center">3</td>
+            <td align="center">S</td>
+        </tr>
+        <tr>
+            <td align="center"><b>PB76</b></td>
+            <td align="center">TS20</td>
+            <td>Como developer, quiero ejecutar pruebas y validaciones con Maven para asegurar que el backend compile y funcione antes de integrarlo con el frontend.</td>
+            <td align="center">3</td>
+            <td align="center">M</td>
         </tr>
     </tbody>
 </table>
