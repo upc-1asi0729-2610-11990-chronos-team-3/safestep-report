@@ -632,7 +632,7 @@ Este workflow se activa automáticamente con cada push a `main`, elimina la nece
 Una vez completada la configuración y ejecutado el workflow por primera vez, se verificó el acceso a la Landing Page a través de la URL pública proporcionada por GitHub Pages:
 
 ```
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
 ```
 
 Se realizaron pruebas de navegación para confirmar que todas las secciones se cargaran correctamente, que los enlaces funcionaran, y que el diseño responsivo se comportara adecuadamente en diferentes tamaños de pantalla. Adicionalmente, se verificó que la página cargara correctamente en los navegadores Chrome, Firefox y Edge.
@@ -655,7 +655,7 @@ GitHub Pages proporciona automáticamente un certificado SSL/TLS válido para to
 
 La Landing Page de SafeStep se encuentra actualmente en producción y accesible públicamente a través de la siguiente URL:
 
-**https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/**
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
 
 El despliegue en GitHub Pages desde la rama `gh-pages` ha resultado ser una solución eficiente y sin costos para alojar la presencia digital inicial de SafeStep. Esta plataforma ofrece alta disponibilidad, CDN global para entrega de contenido, y escalabilidad automática, lo que garantiza una experiencia de usuario óptima independientemente del volumen de visitantes.
 

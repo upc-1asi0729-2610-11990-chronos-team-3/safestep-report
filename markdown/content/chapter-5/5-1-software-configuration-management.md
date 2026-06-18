@@ -72,8 +72,8 @@ A continuación se presentan las herramientas y tecnologías seleccionadas para 
 
 | Herramienta | Propósito |URL de Referencia | URL de Despliegue | Tipo |
 |-------------|-----------|------------------|-------------------|------|
-| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/ | SaaS |
-| Firebase Hosting | Plataforma de despliegue para la aplicación frontend Angular | https://firebase.google.com/products/hosting | https://safestep-11990.web.app/ | SaaS |
+| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page | SaaS |
+| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend | SaaS |
 | my-json-server | Plataforma de despliegue para la API REST simulada del backend | https://my-json-server.typicode.com | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server | SaaS |
 
 ### 5.1.1.8. Herramientas de Testing
@@ -292,7 +292,7 @@ El equipo SafeStep adopta una estrategia de despliegue progresivo que permite en
 
 El proyecto cuenta con tres productos desplegados en plataformas independientes. El primer producto es la Landing Page, desplegada en GitHub Pages como sitio estático, permitiendo una presentación pública del producto SafeStep con alta disponibilidad y sin costos operativos.
 
-El segundo producto es el Frontend Angular, desplegado en Firebase Hosting. Esta plataforma fue seleccionada por su integración nativa con el ecosistema Google, su CDN global para distribución de contenido, y su soporte para aplicaciones web progresivas (PWA).
+El segundo producto es el Frontend Angular, desplegado en GitHub Pages como aplicación web estática. Esta plataforma fue seleccionada por su integración con GitHub, su disponibilidad pública mediante HTTPS y su facilidad para publicar builds frontend desde el repositorio.
 
 El tercer producto es el Backend API, desplegado en my-json-server como una API REST simulada que permite prototipado rápido y validación del frontend sin necesidad de un servidor backend completo.
 
@@ -300,7 +300,7 @@ El tercer producto es el Backend API, desplegado en my-json-server como una API 
 
 El equipo implementa pipelines de Integración Continua y Entrega Continua (CI/CD) utilizando GitHub Actions. Cada repositorio cuenta con su propio pipeline de CI/CD adaptado a sus características específicas.
 
-Para el repositorio de Frontend (Angular), el pipeline de CI/CD incluye las siguientes etapas: instalación de dependencias con npm install, verificación de código con ESLint y análisis estático, ejecución de pruebas unitarias con Karma o Jest, construcción de la aplicación para producción, y despliegue automático a Firebase Hosting si las pruebas pasan exitosamente.
+Para el repositorio de Frontend (Angular), el pipeline de CI/CD incluye las siguientes etapas: instalación de dependencias con npm install, verificación de código con ESLint y análisis estático, ejecución de pruebas unitarias con Karma o Jest, construcción de la aplicación para producción, y despliegue automático a GitHub Pages si las pruebas pasan exitosamente.
 
 Para el repositorio de Web Services (Spring Boot), el pipeline incluye: verificación de código con herramientas de análisis estático, compilación del proyecto con Maven, ejecución de pruebas unitarias y de integración, y construcción del artefacto JAR.
 
@@ -316,28 +316,23 @@ La Landing Page de SafeStep se despliega en GitHub Pages, una plataforma de host
 
 Para configurar el despliegue, se debe habilitar GitHub Pages en la configuración del repositorio, seleccionando la rama `gh-pages` como fuente. Los archivos estáticos generados tras el build se almacenan en esta rama y GitHub Pages los sirve automáticamente.
 
-La URL pública del landing page es: `https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/`
+La URL pública del landing page es:
 
-#### 5.1.4.2.2. Configuración de Frontend en Firebase Hosting
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
 
-El Frontend Angular se despliega en Firebase Hosting, un servicio de hosting para aplicaciones web con CDN global. Los pasos de configuración incluyen la instalación de Firebase CLI, la inicialización del proyecto con `firebase init hosting`, y la configuración del directorio de salida del build de Angular (`dist/safestep-frontend`).
+#### 5.1.4.2.2. Configuración de Frontend en GitHub Pages
 
-El archivo `firebase.json` se configura con el directorio público y las reglas de redireccionamiento para aplicaciones Angular SPA, asegurando que todas las rutas sean manejadas por `index.html`:
+El Frontend Angular se despliega en GitHub Pages como aplicación web estática. Los pasos de configuración incluyen generar el build de Angular, configurar la ruta base del proyecto y publicar los archivos generados en el repositorio correspondiente.
 
-```json
-{
-  "hosting": {
-    "public": "dist/safestep-frontend",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "rewrites": [{
-      "source": "**",
-      "destination": "/index.html"
-    }]
-  }
-}
+El despliegue publica los archivos estáticos generados por Angular. Para ello, el workflow toma el directorio de salida del build y lo envía a GitHub Pages:
+
+```bash
+npm run build
 ```
 
-El despliegue se realiza mediante el comando `firebase deploy --only hosting` y se automatiza a través de GitHub Actions. La URL pública del frontend es: `https://safestep-11990.web.app/`
+La URL pública del frontend es:
+
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend
 
 #### 5.1.4.2.3. Configuración de API en my-json-server
 
@@ -355,7 +350,7 @@ El equipo establece procedimientos detallados para ejecutar despliegues, asegura
 
 Cada componente tiene su propio procedimiento de despliegue a producción. Para la Landing Page en GitHub Pages, el despliegue se activa automáticamente mediante GitHub Actions al hacer push a la rama `main`, ejecutando el build estático y publicando en la rama `gh-pages`.
 
-Para el Frontend en Firebase Hosting, el despliegue se realiza mediante GitHub Actions, donde el pipeline ejecuta las pruebas, construye la aplicación y despliega a Firebase. Se utiliza el token de Firebase CI configurado como secreto en el repositorio.
+Para el Frontend en GitHub Pages, el despliegue se realiza mediante GitHub Actions, donde el pipeline ejecuta las pruebas, construye la aplicación y publica los archivos estáticos generados.
 
 Para el Backend en my-json-server, el despliegue es inmediato: cualquier cambio en el archivo `db.json` en la rama `main` del repositorio se refleja automáticamente en la API.
 
@@ -365,8 +360,8 @@ Después de cada despliegue, el equipo debe verificar el correcto funcionamiento
 
 #### 5.1.4.3.3. Rollback
 
-En caso de problemas en producción, el equipo puede realizar un rollback a la versión anterior. GitHub Pages permite revertir el despliegue restaurando el contenido anterior de la rama `gh-pages`. Firebase Hosting permite listar versiones anteriores desde la consola y desplegar una versión específica con el comando `firebase hosting:clone`. Para my-json-server, el rollback se realiza revirtiendo el commit del archivo `db.json` en el repositorio.
+En caso de problemas en producción, el equipo puede realizar un rollback a la versión anterior. GitHub Pages permite revertir el despliegue restaurando el contenido anterior de la rama `gh-pages`. Para my-json-server, el rollback se realiza revirtiendo el commit del archivo `db.json` en el repositorio.
 
 ### 5.1.4.4. Monitoreo y Logging
 
-El equipo implementa capacidades de monitoreo y logging para mantener visibilidad sobre el estado de la aplicación en producción. Firebase Hosting proporciona analytics integrados que permiten monitorear el tráfico y el rendimiento del frontend. Para el tracking de errores, se puede integrar servicios como Sentry. GitHub Pages expone métricas básicas de uso a través de GitHub Insights. Estas herramientas permiten identificar y resolver problemas rápidamente, asegurando la disponibilidad y calidad del servicio para los usuarios finales.
+El equipo implementa capacidades de monitoreo y logging para mantener visibilidad sobre el estado de la aplicación en producción. GitHub Pages expone métricas básicas de uso a través de GitHub Insights. Para el tracking de errores, se puede integrar servicios como Sentry. Estas herramientas permiten identificar y resolver problemas rápidamente, asegurando la disponibilidad y calidad del servicio para los usuarios finales.

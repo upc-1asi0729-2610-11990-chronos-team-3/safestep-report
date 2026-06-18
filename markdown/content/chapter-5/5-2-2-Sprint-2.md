@@ -14,7 +14,7 @@
 
 ### 5.2.2.1. Sprint Planning 2
 
-En esta sección se especifica los aspectos principales del Sprint Planning Meeting. SafeStep inicia su segundo Sprint con el objetivo de implementar la aplicación frontend Angular con todos los bounded contexts siguiendo una arquitectura Domain-Driven Design, integrada con json-server para datos de prueba y desplegada en Firebase Hosting. Este Sprint representa la iteración donde se construye la aplicación transaccional de SafeStep.
+En esta sección se especifica los aspectos principales del Sprint Planning Meeting. SafeStep inicia su segundo Sprint con el objetivo de implementar la aplicación frontend Angular con todos los bounded contexts siguiendo una arquitectura Domain-Driven Design, integrada con json-server para datos de prueba y desplegada en GitHub Pages. Este Sprint representa la iteración donde se construye la aplicación transaccional de SafeStep.
 
 La aplicación frontend Angular cumple un rol fundamental como núcleo de la experiencia de usuario, permitiendo a los usuarios autenticarse, visualizar su dashboard, practicar simulaciones médicas interactivas, y navegar por los diferentes módulos de la plataforma.
 
@@ -49,7 +49,7 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
         </tr>
         <tr>
             <td>Sprint n - 1 Review Summary</td>
-            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</td>
+            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</td>
         </tr>
         <tr>
             <td>Sprint n - 1 Retrospective Summary</td>
@@ -60,7 +60,7 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
         </tr>
         <tr>
             <td>Sprint 2 Goal</td>
-            <td>Implementar la aplicación frontend Angular de SafeStep con dashboard principal, catálogo y ejecución de simulaciones médicas, progreso y estadísticas, gamificación, tienda y carrito de compras, sistema de navegación por módulos y diseño responsivo, utilizando una arquitectura Domain-Driven Design con bounded contexts, datos de prueba en json-server, y despliegue en Firebase Hosting.</td>
+            <td>Implementar la aplicación frontend Angular de SafeStep con dashboard principal, catálogo y ejecución de simulaciones médicas, progreso y estadísticas, gamificación, tienda y carrito de compras, sistema de navegación por módulos y diseño responsivo, utilizando una arquitectura Domain-Driven Design con bounded contexts, datos de prueba en json-server, y despliegue en GitHub Pages.</td>
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
@@ -100,7 +100,7 @@ La selección de estos User Stories para el Sprint 2 responde a la necesidad de 
 
 ### 5.2.2.2. Aspect Leaders and Collaborators
 
-En esta sección el equipo elabora el artefacto Leadership-and-Collaboration Matrix (LACX) para el Sprint 2. Los aspectos están centrados en el desarrollo de la aplicación frontend Angular con arquitectura Domain-Driven Design, incluyendo la configuración del proyecto, implementación de bounded contexts, y despliegue en Firebase Hosting.
+En esta sección el equipo elabora el artefacto Leadership-and-Collaboration Matrix (LACX) para el Sprint 2. Los aspectos están centrados en el desarrollo de la aplicación frontend Angular con arquitectura Domain-Driven Design, incluyendo la configuración del proyecto, implementación de bounded contexts, y despliegue en GitHub Pages.
 
 El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustados según las necesidades técnicas del Sprint 2, que requiere mayor especialización en el desarrollo de los bounded contexts de statistics, gamification y ecommerce.
 
@@ -199,7 +199,7 @@ El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustado
 
 ### 5.2.2.3. Sprint Backlog 2
 
-El Sprint Backlog 2 resume el objetivo principal del Sprint: implementar la aplicación frontend Angular de SafeStep con arquitectura Domain-Driven Design, integración con json-server y despliegue en Firebase Hosting. Para corregir la trazabilidad del Sprint, las tareas se organizaron como descomposición directa de las User Stories seleccionadas, evitando tareas demasiado generales que mezclen varias funcionalidades no relacionadas.
+El Sprint Backlog 2 resume el objetivo principal del Sprint: implementar la aplicación frontend Angular de SafeStep con arquitectura Domain-Driven Design, integración con json-server y despliegue en GitHub Pages. Para corregir la trazabilidad del Sprint, las tareas se organizaron como descomposición directa de las User Stories seleccionadas, evitando tareas demasiado generales que mezclen varias funcionalidades no relacionadas.
 
 Las User Stories mantienen su estimación en Story Points dentro del Sprint Planning. En cambio, los Work-items o Tasks se estiman en horas, porque representan trabajo operativo concreto dentro del Sprint. Estas horas permiten monitorear avance diario, pero no reemplazan los Story Points de las historias.
 
@@ -679,43 +679,34 @@ La URL base de la API desplegada es: `https://my-json-server.typicode.com/upc-1a
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
-En esta sección se resumen los procesos realizados en relación con Deployment durante el Sprint 2. Las actividades de despliegue incluyeron la configuración de Firebase Hosting para la aplicación frontend Angular y la configuración de my-json-server para la API de datos de prueba.
+En esta sección se resumen los procesos realizados en relación con Deployment durante el Sprint 2. Las actividades de despliegue incluyeron la configuración de GitHub Pages para la aplicación frontend Angular y la configuración de my-json-server para la API de datos de prueba.
 
-**Despliegue del Frontend en Firebase Hosting:**
+**Despliegue del Frontend en GitHub Pages:**
 
-El frontend Angular se desplegó en Firebase Hosting, una plataforma de Google que ofrece hosting rápido y seguro para aplicaciones web. A continuación se detallan los pasos realizados:
+El frontend Angular se desplegó en GitHub Pages como aplicación web estática. A continuación se detallan los pasos realizados:
 
-**Paso 1: Instalación y configuración de Firebase CLI**
+**Paso 1: Preparación del proyecto Angular**
 
-Se instaló Firebase CLI a través de npm y se inició sesión con la cuenta de Google del equipo. Luego se ejecutó `firebase init hosting` en la raíz del proyecto Angular para generar los archivos de configuración necesarios.
+Se verificó la configuración del proyecto Angular y se preparó el build de producción, considerando la ruta base del repositorio `safestep-frontend` para que la aplicación pueda ejecutarse correctamente desde GitHub Pages.
 
-**Paso 2: Configuración de firebase.json**
+**Paso 2: Configuración del build**
 
-Se configuró el archivo `firebase.json` para definir el directorio de publicación (`dist/safestep-frontend-v2/browser`) y las reglas de redireccionamiento necesarias para una aplicación Angular SPA (Single Page Application), donde todas las rutas se redirigen a `index.html`:
+Se generó el build de producción de Angular. Los archivos estáticos resultantes fueron preparados para su publicación en GitHub Pages:
 
-```json
-{
-  "hosting": {
-    "public": "dist/safestep-frontend-v2/browser",
-    "ignore": ["firebase.json", "**/.*", "**/node_modules/**"],
-    "rewrites": [{
-      "source": "**",
-      "destination": "/index.html"
-    }]
-  }
-}
+```bash
+npm run build
 ```
 
-**Paso 3: Configuración del proyecto Firebase**
+**Paso 3: Configuración de GitHub Pages**
 
-Se configuró el archivo `.firebaserc` para asociar el proyecto local con el proyecto Firebase `safestep-11990`, permitiendo ejecutar comandos de despliegue sin especificar el proyecto cada vez.
+Se configuró GitHub Pages en el repositorio del frontend para publicar la aplicación desde la rama de despliegue correspondiente.
 
 **Paso 4: Automatización del despliegue con GitHub Actions**
 
-Se implementó un workflow de GitHub Actions que ejecuta el build de producción y despliega automáticamente a Firebase Hosting cuando se realizan pushes a la rama `main`:
+Se implementó un workflow de GitHub Actions que ejecuta el build de producción y publica automáticamente la aplicación en GitHub Pages cuando se realizan pushes a la rama `main`:
 
 ```yaml
-name: Deploy to Firebase Hosting
+name: Deploy Frontend to GitHub Pages
 
 on:
   push:
@@ -734,27 +725,26 @@ jobs:
         run: npm ci
       - name: Build Angular app
         run: npm run build
-      - name: Deploy to Firebase
-        uses: w9jds/firebase-action@v13
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          args: deploy --only hosting
-        env:
-          FIREBASE_TOKEN: \${{ secrets.FIREBASE_TOKEN }}
+          github_token: \${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist/safestep-frontend/browser
 ```
 
 **Paso 5: Verificación del despliegue**
 
-Se verificó el acceso a la aplicación frontend a través de la URL pública proporcionada por Firebase:
+Se verificó el acceso a la aplicación frontend a través de la URL pública de despliegue:
 
 ```
-https://safestep-11990.web.app/
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend
 ```
 
 <div align="center">
   <p>
-    <b>Gráfico 1</b>: Frontend Angular desplegado en Firebase Hosting
+    <b>Gráfico 1</b>: Frontend Angular desplegado en GitHub Pages
   </p>
-  <img src="../../assets/images/chapter-5/firebase-deploy.png" alt="Firebase Deployment" width="600" />
+  <img src="../../assets/images/chapter-5/firebase-deploy.png" alt="Frontend Deployment" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -780,7 +770,7 @@ https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safes
   <p>
     <b>Gráfico 1</b>: Data desplegado en my-json-server
   </p>
-  <img src="../../assets/images/chapter-5/json-server-deploy.png" alt="Firebase Deployment" width="600" />
+  <img src="../../assets/images/chapter-5/json-server-deploy.png" alt="my-json-server Deployment" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -790,7 +780,7 @@ https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safes
 
 | Producto | Plataforma | URL |
 |----------|-----------|-----|
-| Frontend Angular | Firebase Hosting | https://safestep-11990.web.app/ |
+| Frontend Angular | GitHub Pages | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend |
 | API de datos | my-json-server | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server |
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -898,5 +888,5 @@ Todos los miembros del equipo participaron activamente en la implementación del
 
 4. **El lazy loading mejora el rendimiento:** La configuración de rutas con carga diferida redujo el tamaño inicial del bundle y mejoró los tiempos de carga.
 
-5. **Firebase Hosting simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
+5. **GitHub Pages simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
 

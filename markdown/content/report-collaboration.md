@@ -14,11 +14,11 @@ https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report
 
 **URL del landing page de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page
+https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git
 
 **URL del frontend de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend
+https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
 
 **URL del backend de SafeStep**:
 
