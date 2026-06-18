@@ -381,102 +381,294 @@ En esta seccion se explica y presenta los avances de implementacion realizados d
         </tr>
         <tr>
             <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>chore: initialize SafeStep backend project</td>
-            <td>Initialize Spring Boot project with Maven, Java configuration and base resources.</td>
-            <td>2026-05-03</td>
+            <td>feature/sign-in</td>
+            <td>7f4c2a1</td>
+            <td>feat(auth): implement signIn endpoint</td>
+            <td>Add authentication controller, sign-in command and JWT response for registered users.</td>
+            <td>2026-06-07</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>9a18d3e</td>
+            <td>merge: feature/sign-in into develop</td>
+            <td>Integrate the signIn endpoint with the development branch.</td>
+            <td>2026-06-07</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/sign-up</td>
+            <td>2b63f0c</td>
+            <td>feat(auth): implement signUp endpoint</td>
+            <td>Add user registration flow with profile creation and default role assignment.</td>
+            <td>2026-06-07</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>4c81a95</td>
+            <td>merge: feature/sign-up into develop</td>
+            <td>Integrate the signUp endpoint with the authentication module.</td>
+            <td>2026-06-07</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-products</td>
+            <td>e02b7d4</td>
+            <td>feat(commerce): implement getProducts endpoint</td>
+            <td>Add product query, resource assembler and REST controller method for catalog listing.</td>
+            <td>2026-06-08</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-product-by-id</td>
+            <td>1f9e6ba</td>
+            <td>feat(commerce): implement getProductById endpoint</td>
+            <td>Add product detail query and response mapping for product lookup by identifier.</td>
+            <td>2026-06-08</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-emergency-kits</td>
+            <td>8c52d11</td>
+            <td>feat(commerce): implement getEmergencyKits endpoint</td>
+            <td>Add emergency kit query, resource and controller method for kit recommendations.</td>
+            <td>2026-06-08</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>bb34e7f</td>
+            <td>merge: feature/get-products into develop</td>
+            <td>Integrate product catalog endpoint into the commerce context.</td>
+            <td>2026-06-08</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>0d91a6c</td>
+            <td>merge: feature/get-product-by-id into develop</td>
+            <td>Integrate product detail endpoint into the commerce context.</td>
+            <td>2026-06-08</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>6a8c30b</td>
+            <td>merge: feature/get-emergency-kits into develop</td>
+            <td>Integrate emergency kits endpoint into the commerce context.</td>
+            <td>2026-06-08</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/add-cart-item</td>
+            <td>a7310df</td>
+            <td>feat(commerce): implement addCartItem endpoint</td>
+            <td>Add command, handler and REST operation to add products to the authenticated user's cart.</td>
+            <td>2026-06-09</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/create-order</td>
+            <td>d5e9b42</td>
+            <td>feat(commerce): implement createOrder endpoint</td>
+            <td>Add order creation command and persistence mapping from current cart items.</td>
+            <td>2026-06-09</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>51c2f89</td>
+            <td>merge: feature/add-cart-item into develop</td>
+            <td>Integrate cart item creation endpoint into commerce operations.</td>
+            <td>2026-06-09</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>f07a62d</td>
+            <td>merge: feature/create-order into develop</td>
+            <td>Integrate order creation endpoint into commerce operations.</td>
+            <td>2026-06-09</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-simulation-by-id</td>
+            <td>3c6f80a</td>
+            <td>feat(simulation): implement getSimulationById endpoint</td>
+            <td>Add simulation detail query with steps and product suggestions mapping.</td>
+            <td>2026-06-10</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/create-attempt</td>
+            <td>74e2c9f</td>
+            <td>feat(simulation): implement createAttempt endpoint</td>
+            <td>Add attempt command, validation and persistence for completed medical simulations.</td>
+            <td>2026-06-10</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>ac29d70</td>
+            <td>merge: feature/get-simulation-by-id into develop</td>
+            <td>Integrate simulation detail endpoint into the simulation context.</td>
+            <td>2026-06-10</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>5b1e8a4</td>
+            <td>merge: feature/create-attempt into develop</td>
+            <td>Integrate attempt creation endpoint into the simulation context.</td>
+            <td>2026-06-10</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-missions</td>
+            <td>91fd3b8</td>
+            <td>feat(gamification): implement getMissions endpoint</td>
+            <td>Add mission query, resource and REST response for gamification objectives.</td>
+            <td>2026-06-11</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-my-badges</td>
+            <td>0b7e4c2</td>
+            <td>feat(gamification): implement getMyBadges endpoint</td>
+            <td>Add authenticated badge lookup for completed user achievements.</td>
+            <td>2026-06-11</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>c83a1e6</td>
+            <td>merge: feature/get-missions into develop</td>
+            <td>Integrate missions endpoint into the gamification context.</td>
+            <td>2026-06-11</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>68d0f35</td>
+            <td>merge: feature/get-my-badges into develop</td>
+            <td>Integrate user badges endpoint into the gamification context.</td>
+            <td>2026-06-11</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-my-analytics-summary</td>
+            <td>ad4f729</td>
+            <td>feat(analytics): implement getMyAnalyticsSummary endpoint</td>
+            <td>Add authenticated analytics summary query for dashboard indicators.</td>
+            <td>2026-06-12</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-my-progress</td>
+            <td>41e9c0d</td>
+            <td>feat(analytics): implement getMyProgress endpoint</td>
+            <td>Add progress query and resource mapping for simulation performance indicators.</td>
+            <td>2026-06-12</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>e7b2931</td>
+            <td>merge: feature/get-my-analytics-summary into develop</td>
+            <td>Integrate analytics summary endpoint into the analytics context.</td>
+            <td>2026-06-12</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>5f34b9e</td>
+            <td>merge: feature/get-my-progress into develop</td>
+            <td>Integrate progress endpoint into the analytics context.</td>
+            <td>2026-06-12</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-my-profile</td>
+            <td>bc90412</td>
+            <td>feat(profiles): implement getMyProfile endpoint</td>
+            <td>Add authenticated profile query and REST response for current user data.</td>
+            <td>2026-06-13</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/update-my-profile</td>
+            <td>29d7e4a</td>
+            <td>feat(profiles): implement updateMyProfile endpoint</td>
+            <td>Add profile update command and mapper for editable personal information.</td>
+            <td>2026-06-13</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>f63a88d</td>
+            <td>merge: feature/get-my-profile into develop</td>
+            <td>Integrate current profile endpoint into the profiles context.</td>
+            <td>2026-06-13</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>36bca91</td>
+            <td>merge: feature/update-my-profile into develop</td>
+            <td>Integrate profile update endpoint into the profiles context.</td>
+            <td>2026-06-13</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-all-users</td>
+            <td>84d12af</td>
+            <td>feat(iam): implement getAllUsers endpoint</td>
+            <td>Add user listing query and secured controller operation for IAM administration.</td>
+            <td>2026-06-14</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>feature/get-leaderboard</td>
+            <td>db7a316</td>
+            <td>feat(gamification): implement getLeaderboard endpoint</td>
+            <td>Add leaderboard query and resource mapping for ranking visualization.</td>
+            <td>2026-06-14</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>a1c950e</td>
+            <td>merge: feature/get-all-users into develop</td>
+            <td>Integrate user listing endpoint into the IAM context.</td>
+            <td>2026-06-14</td>
+        </tr>
+        <tr>
+            <td>safestep-backend</td>
+            <td>develop</td>
+            <td>19f7dc3</td>
+            <td>merge: feature/get-leaderboard into develop</td>
+            <td>Integrate leaderboard endpoint into the gamification context.</td>
+            <td>2026-06-14</td>
         </tr>
         <tr>
             <td>safestep-backend</td>
             <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(shared): add common backend infrastructure</td>
-            <td>Add shared result, error, response, security, OpenAPI and persistence support.</td>
-            <td>2026-05-04</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(iam): add authentication and authorization context</td>
-            <td>Implement sign-in, sign-up, roles, users and JWT support.</td>
-            <td>2026-05-05</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(profiles): add user profiles context</td>
-            <td>Implement profile aggregate, commands, queries, persistence and REST endpoints.</td>
-            <td>2026-05-06</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(commerce): add commerce catalog endpoints</td>
-            <td>Implement products, categories, emergency kits, coupons and recommendations endpoints.</td>
-            <td>2026-05-07</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(commerce): add cart and order endpoints</td>
-            <td>Implement cart item management, current user orders, shipping addresses and payment methods.</td>
-            <td>2026-05-08</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(simulation): add medical simulation endpoints</td>
-            <td>Implement simulation catalog, detail lookup, attempt creation and attempt history.</td>
-            <td>2026-05-09</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(gamification): add gamification query endpoints</td>
-            <td>Implement summary, missions, badges, leaderboard and coin transactions endpoints.</td>
-            <td>2026-05-10</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>feat(analytics): add analytics endpoints</td>
-            <td>Implement summary, progress and certificates endpoints for current user.</td>
-            <td>2026-05-11</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>chore(seed): add SafeStep initial data</td>
-            <td>Add seed JSON and event handlers for initial backend data.</td>
-            <td>2026-05-12</td>
-        </tr>
-        <tr>
-            <td>safestep-backend</td>
-            <td>main</td>
-            <td>[Insertar commit id]</td>
-            <td>docs(api): add Swagger evidence and backend architecture notes</td>
-            <td>Document OpenAPI endpoints, backend architecture and local execution requirements.</td>
-            <td>2026-05-13</td>
+            <td>ca5e7d9</td>
+            <td>merge: develop into main</td>
+            <td>Merge completed Sprint 3 backend endpoints from develop into the main branch.</td>
+            <td>2026-06-15</td>
         </tr>
     </tbody>
 </table>
 
 **Repositorio de Backend:**
 
-[Insertar URL del repositorio de backend]
+https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git
 
-**Repositorio de Frontend relacionado:**
+**Repositorio de Frontend :**
 
-[Insertar URL del repositorio de frontend]
+https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
 
 **Referencia de Swagger local o desplegado:**
 
@@ -500,65 +692,60 @@ El Sprint 3 permitio construir el RESTful API real de SafeStep, habilitando la c
 
 **Capturas de Pantalla - Backend API:**
 
-1. **Swagger UI:** Vista general de los controllers y endpoints documentados.
+**Swagger UI:** Vista general de los controllers y endpoints documentados.
 
 <div align="center">
   <p>
-    <b>Grafico 1</b>: Swagger UI del backend SafeStep
+    <b>Captura:</b> Swagger UI del backend SafeStep
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-swagger].png" alt="Swagger UI SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/BackendSwagger.png" alt="Swagger UI SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
 </div>
 
-2. **Authentication endpoint:** Evidencia de prueba de `POST /api/v1/authentication/sign-in`.
-
 <div align="center">
   <p>
-    <b>Grafico 2</b>: Ejecucion del endpoint de autenticacion
+    <b>Captura:</b> Swagger UI del backend SafeStep
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-authentication].png" alt="Authentication endpoint" width="600" />
+  <img src="../../assets/images/chapter-5/BackendSwagger2.png" alt="Swagger UI SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
 </div>
 
-3. **Commerce endpoints:** Evidencia de consulta de productos, kits o carrito.
-
 <div align="center">
   <p>
-    <b>Grafico 3</b>: Ejecucion de endpoints de commerce
+    <b>Captura:</b> Swagger UI del backend SafeStep
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-commerce].png" alt="Commerce endpoint" width="600" />
+  <img src="../../assets/images/chapter-5/BackendSwagger3.png" alt="Swagger UI SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
 </div>
 
-4. **Simulation endpoints:** Evidencia de consulta de simulaciones o registro de intento.
-
 <div align="center">
   <p>
-    <b>Grafico 4</b>: Ejecucion de endpoints de simulaciones
+    <b>Captura:</b> Swagger UI del backend SafeStep
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-simulation].png" alt="Simulation endpoint" width="600" />
+  <img src="../../assets/images/chapter-5/BackendSwagger4.png" alt="Swagger UI SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
 </div>
 
-5. **Maven test/build:** Evidencia de pruebas y compilacion exitosa.
-
 <div align="center">
   <p>
-    <b>Grafico 5</b>: Ejecucion de pruebas Maven
+    <b>Captura:</b> Swagger UI del backend SafeStep
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-maven-test].png" alt="Maven test" width="600" />
+  <img src="../../assets/images/chapter-5/BackendSwagger5.png" alt="Swagger UI SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
 </div>
+
+
+
 
 **Comandos utilizados para ejecucion local:**
 
@@ -588,9 +775,9 @@ En esta seccion se incluye la relacion de endpoints documentados con OpenAPI, re
 
 La documentacion de servicios permite que los integrantes del equipo frontend y backend comprendan la sintaxis de cada llamada, los metodos HTTP disponibles, los parametros requeridos y el tipo de respuesta esperada. La URL de Swagger utilizada durante el Sprint fue:
 
-**Swagger UI:** [Insertar URL de Swagger UI local o desplegado]
+**Swagger UI:** [Insertar URL de Swagger UI desplegado]
 
-**OpenAPI JSON:** [Insertar URL de OpenAPI JSON local o desplegado]
+**OpenAPI JSON:** [Insertar URL de OpenAPI JSON desplegado]
 
 | Bounded Context | Endpoint | Metodo | Descripcion | Parametros | Ejemplo Response |
 |-----------------|----------|--------|-------------|------------|------------------|
@@ -696,7 +883,7 @@ El equipo verifico los endpoints principales utilizando Swagger UI y peticiones 
   <p>
     <b>Grafico 1</b>: Backend ejecutandose localmente
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-backend-running].png" alt="Backend running" width="600" />
+  <img src="../../assets/images/chapter-5/BackendSwagger.png" alt="Backend running" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
@@ -736,34 +923,34 @@ Durante este Sprint, el equipo realizo revisiones internas de estructura para as
         <tr>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>safestep-backend</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
+            <td>27</td>
+            <td>16666</td>
+            <td>16006</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>safestep-backend</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
+            <td>12</td>
+            <td>2858</td>
+            <td>2</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>safestep-backend</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
+            <td>81</td>
+            <td>10155</td>
+            <td>696</td>
+            <td>5</td>
         </tr>
         <tr>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>safestep-backend</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
-            <td>[Insertar cantidad]</td>
+            <td>48</td>
+            <td>3174</td>
+            <td>1</td>
+            <td>5</td>
         </tr>
     </tbody>
 </table>
@@ -774,7 +961,7 @@ Durante este Sprint, el equipo realizo revisiones internas de estructura para as
   <p>
     <b>Grafico 1</b>: Analytics Sprint 3 Backend
   </p>
-  <img src="../../assets/images/chapter-5/[insertar-imagen-github-analytics-sprint-3].png" alt="Analytics Sprint 3" width="500" />
+  <img src="../../assets/images/chapter-5/MetricasCommits.png" alt="Analytics Sprint 3" width="500" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
