@@ -460,59 +460,69 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2">
-            Bueno, esta es una entrevista para el proyecto de Open Source, una entrevista de validación de nuestro proyecto. 
-            Y bueno, acá estamos con el entrevistado.
-            Por favor, ¿te podrías presentar?
-            Sí, claro. ¿Cómo estás? Mi nombre es Juan Barrios, soy de la ciudad de Lima y me especializo en lo que es primeros auxilios. 
-            En ese caso, yo ahorita me encuentro trabajando con la Municipalidad de Lima. 
-            Ok, Juan, muchas gracias por la entrevista. Primero, bueno, anteriormente te mostré la página web y también te mostré la aplicación. 
-            Y bueno, quería hacerte unas preguntas. ¿Cuál fue tu primera impresión al ver nuestro producto Safe Steps? 
-            Mi primera impresión fue de asombro, ya que me pareció un proyecto innovador y, bueno, una forma bastante interesante de poder enseñar primeros auxilios.
-            Ok. Después de revisar la landing page, como en este caso, la página web, ¿qué entendiste sobre lo que ofrece Safe Steps? 
-            Lo que yo pude entender al ver la página web fue que, bueno, buscan enseñar lo que es primeros auxilios a gente que no conozca o tal vez necesite mejorar. 
-            Y también ofrecen, en este caso, el equipo que alguien pueda requerir para hacer correctamente los primeros auxilios.
-            Ok, muchas gracias. ¿La landing page te pareció clara y fácil de entender? 
-            Sí, me pareció muy clara y también me parece que está bien distribuida. 
-            Ok. ¿Los botones, o digamos, la acción, como te dije anteriormente, call to action, los botones call to action, ¿fueron fáciles de identificar? 
-            Sí, me parece que los botones call to action estaban bien posicionados dentro de la página web para poder identificarlos de una manera más sencilla. 
-            Ok. ¿La landing page le transmitió algún tipo de confianza para poder probar la aplicación, nuestro proyecto? 
-            Sí, la verdad que sí. Fue una aplicación que en primera instancia sí me dieron muchas ganas de seguir utilizándola. 
-            Ok. ¿Te resultó fácil navegar dentro de la aplicación web? 
-            Sí, estuvo muy sencillo, la verdad. Los apartados estaban bien organizados y todo era muy claro. 
-            Ok, es un buen punto. ¿Pudiste identificar rápidamente las secciones principales de la aplicación? 
-            Sí, como comenté, la aplicación está muy bien distribuida y fue muy rápido el poder identificar las secciones principales.
-            Ok, ok. ¿La organización de la información dentro de la aplicación web te pareció ordenada o desordenada? 
-            Me pareció que estaba ordenada, la verdad. No tenía tal vez alguna duda sobre de dónde ir primero. Me parece que era muy intuitivo el orden que tenías que seguir para ver todo lo que ofrecía la aplicación. 
-            Ok. ¿Hubo alguna pantalla o sección que te pareciera algo confusa? 
-            No, la verdad que no. Me parece que todo estaba muy bien distribuido dentro de la aplicación. 
-            Ok. ¿Qué funcionalidad te pareció más útil dentro de nuestra aplicación SafeStack? 
-            Lo más útil me parecieron las simulaciones de las clases, en este caso de primeros auxilios. Me parece que son fáciles de entender, están bien centradas en los temas y son bastante bien explicadas. 
-            Ok. ¿Las simulaciones médicas te parecieron útiles para aprender primeros auxilios? 
-            Sí, me parecieron útiles. Me parece que los temas que han elegido están bien centrados en los temas que alguien que quisiera aprender a realizar primeros auxilios necesita aprender. 
-            Gracias. ¿Las preguntas y opciones de las simulaciones fueron claras, concisas? 
-            Sí, me parece que todas las preguntas que se hacían y las opciones que te daban las simulaciones estaban muy bien planteadas y estaban bien logradas.
-            Ok. ¿La retroalimentación, después de responder las simulaciones, te ayudó a entender mejor qué hacer en las situaciones de emergencia? 
-            Sí, es una forma muy acertada de cómo lograr hacer que alguien termine de entender, hacer una explicación un poco más detallada del tema que se está presentando. 
-            ¿Las preguntas y opciones de las simulaciones, en este caso, fueron claras? 
-            Sí, estuvieron muy bien logradas.
-            Ok. ¿La retroalimentación, después de responder, te ayudó a entender mejor qué hacer? 
-            Sí, estuvo bastante acertado la retroalimentación después de terminarla. 
-            ¿Las misiones, insignias, puntos o monedas te motivarían a seguir usando la aplicación? 
-            Sí, me parece que es una forma bastante innovadora de mantener a la gente enganchada a la aplicación, a seguir utilizándola, a recomendarla, ya que, en este caso, estas misiones y objetos que se pueden conseguir despiertan la competitividad en la gente y eso atrae más público.
-            La tienda de productos de emergencia, donde costaban los kits y otros productos médicos, ¿te pareció útil dentro de la aplicación? 
-            Sí, me parece que es un apartado bastante útil, ya que la gente que busca aprender primeros auxilios también querrá saber cómo y qué cosas debería comprar para el objetivo que esté buscando. 
-            ¿Los productos y kits mostrados en la tienda se relacionan bien con el objetivo de SafeState? 
-            Sí, me parece que está bien relacionado, ya que el objetivo de SafeState es más que nada enseñar el tema de primeros auxilios y dentro de la tienda es los productos que han incorporado y los kits que han implementado en esta están bien relacionados con los temas. 
-            ¿Usaría usted SafeState para aprender o practicar primeros auxilios y por qué? 
-            Sí la usaría, ya que me parece que es bastante sencillo el aprender y es una forma también bastante entretenida.
-            ¿Recomendaría nuestro producto SafeState a otra persona y por qué? 
-            Sí lo recomendaría, ya que me parece un producto innovador y por el momento me parece que está muy bien elaborada la aplicación.
-            ¿Del 1 al 5, qué tan fácil, útil y confiable le pareció SafeState? 
-            Yo te diría un 5, ya que al menos para lo que es como me la ha presentado por primera vez la aplicación está todo bastante acertado en cuanto a temas, en cuanto a explicaciones y todo me parece que está muy bien elaborado. 
-            Si pudieras cambiar o mejorar una sola cosa de nuestro producto SafeState, ¿qué cambiaría? 
-            Yo te diría que tal vez la duración de las simulaciones, ya que me parece que está con un poquito más de tiempo, sin exagerar podría abarcar algunos detalles más importantes de los temas que se trata.
-            Ok, eso es interesante la verdad. Bueno, muchas gracias por tu análisis sobre nuestro proyecto, el producto que ofrecemos y bueno muchas gracias por la entrevista también. 
-            Gracias.
+
+<b>Presentación del entrevistado:</b><br/>
+Mi nombre es Juan Barrios, soy de la ciudad de Lima y me especializo en primeros auxilios. Actualmente trabajo con la Municipalidad de Lima.
+
+<b>1. ¿Cuál fue tu primera impresión al ver SafeStep?</b><br/>
+Mi primera impresión fue de asombro, ya que me pareció un proyecto innovador y una forma bastante interesante de enseñar primeros auxilios.
+
+<b>2. Después de revisar la landing page, ¿qué entendiste que ofrece SafeStep?</b><br/>
+Entendí que busca enseñar primeros auxilios a personas que no conocen el tema o que necesitan mejorar. También ofrece el equipamiento que una persona puede requerir para aplicar correctamente los primeros auxilios.
+
+<b>3. ¿La landing page te pareció clara y fácil de entender?</b><br/>
+Sí, me pareció muy clara y bien distribuida.
+
+<b>4. ¿Los botones o llamados a la acción fueron fáciles de identificar?</b><br/>
+Sí, me parece que los botones call to action estaban bien posicionados dentro de la página web y se podían identificar de manera sencilla.
+
+<b>5. ¿La landing page te transmitió confianza para probar la aplicación?</b><br/>
+Sí, la verdad que sí. Desde una primera impresión me dieron ganas de seguir utilizando la aplicación.
+
+<b>6. ¿Te resultó fácil navegar dentro de la aplicación web?</b><br/>
+Sí, estuvo muy sencillo. Los apartados estaban bien organizados y todo era muy claro.
+
+<b>7. ¿Pudiste identificar rápidamente las secciones principales de la aplicación?</b><br/>
+Sí, la aplicación está muy bien distribuida y fue rápido identificar sus secciones principales.
+
+<b>8. ¿La organización de la información te pareció ordenada?</b><br/>
+Me pareció ordenada. No tuve dudas sobre a dónde ir primero y el orden era intuitivo para ver todo lo que ofrecía la aplicación.
+
+<b>9. ¿Hubo alguna pantalla o sección que te pareciera confusa?</b><br/>
+No, la verdad que no. Me parece que todo estaba muy bien distribuido dentro de la aplicación.
+
+<b>10. ¿Qué funcionalidad te pareció más útil dentro de SafeStep?</b><br/>
+Lo más útil me parecieron las simulaciones de primeros auxilios. Son fáciles de entender, están bien centradas en los temas y son bastante bien explicadas.
+
+<b>11. ¿Las simulaciones médicas te parecieron útiles para aprender primeros auxilios?</b><br/>
+Sí, me parecieron útiles. Los temas elegidos están bien centrados en lo que alguien que quiere aprender primeros auxilios necesita conocer.
+
+<b>12. ¿Las preguntas y opciones de las simulaciones fueron claras?</b><br/>
+Sí, todas las preguntas y opciones estaban muy bien planteadas y bien logradas.
+
+<b>13. ¿La retroalimentación después de responder te ayudó a entender mejor qué hacer?</b><br/>
+Sí, la retroalimentación estuvo bastante acertada. Es una forma adecuada de ayudar a que una persona termine de entender el tema presentado.
+
+<b>14. ¿Las misiones, insignias, puntos o monedas te motivarían a seguir usando la aplicación?</b><br/>
+Sí, me parece una forma innovadora de mantener a la gente enganchada, seguir utilizando la aplicación y recomendarla. Las misiones y objetos que se pueden conseguir despiertan la competitividad y eso puede atraer más público.
+
+<b>15. ¿La tienda de productos de emergencia te pareció útil dentro de la aplicación?</b><br/>
+Sí, me parece un apartado bastante útil, ya que la gente que busca aprender primeros auxilios también querrá saber qué cosas debería comprar para el objetivo que está buscando.
+
+<b>16. ¿Los productos y kits mostrados se relacionan bien con el objetivo de SafeStep?</b><br/>
+Sí, están bien relacionados. El objetivo de SafeStep es enseñar primeros auxilios y los productos y kits de la tienda están relacionados con esos temas.
+
+<b>17. ¿Usarías SafeStep para aprender o practicar primeros auxilios? ¿Por qué?</b><br/>
+Sí la usaría, porque me parece bastante sencillo aprender con la aplicación y también es una forma entretenida de practicar.
+
+<b>18. ¿Recomendarías SafeStep a otra persona? ¿Por qué?</b><br/>
+Sí lo recomendaría, porque me parece un producto innovador y, por lo que vi, la aplicación está muy bien elaborada.
+
+<b>19. Del 1 al 5, ¿qué tan fácil, útil y confiable te pareció SafeStep?</b><br/>
+Le daría un 5, ya que en esta primera presentación la aplicación me pareció acertada en los temas, las explicaciones y la forma en que está elaborada.
+
+<b>20. Si pudieras cambiar o mejorar una sola cosa del producto, ¿qué cambiarías?</b><br/>
+Mejoraría la duración de las simulaciones. Con un poco más de tiempo, sin exagerar, podrían abarcar algunos detalles importantes adicionales sobre los temas tratados.
         </td>
     </tr>
 </table>
