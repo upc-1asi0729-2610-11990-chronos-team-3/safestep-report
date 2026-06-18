@@ -202,7 +202,21 @@ El equipo organizo las tareas tomando como referencia las funcionalidades ya imp
 **Trello Board:**
 El equipo utiliza un Trello Board con las listas estandar de Scrum: "Sprint Goal", "To Do", "In Progress", "To Review" y "Done". Para este Sprint, las tarjetas se organizaron por bounded context y por endpoint, facilitando el seguimiento del avance de cada modulo.
 
-**Referencia del Trello Board:** [Insertar URL del board de Sprint 3]
+**Referencia del Trello Board:** 
+
+https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3
+
+<div align="center">
+  <p>
+    <b>Captura:</b> Trello
+  </p>
+  <img src="../../assets/images/chapter-5/TrelloSprin3.png" alt="Swagger UI SafeStep" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboracion propia.</i>
+  </p>
+</div>
+
+
 
 A continuacion, la tabla de control de estado para el Sprint 3:
 
