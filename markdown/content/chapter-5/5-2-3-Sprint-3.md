@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -195,30 +195,28 @@ Para este Sprint, el equipo distribuyo el trabajo segun la complejidad de cada b
 
 ### 5.2.3.3. Sprint Backlog 3
 
-El Sprint Backlog 3 resume el objetivo principal del Sprint: implementar el backend RESTful API de SafeStep utilizando Spring Boot, PostgreSQL, JWT, OpenAPI y una arquitectura organizada por bounded contexts. Este Sprint Backlog representa el compromiso del equipo para completar los Web Services necesarios para soportar los flujos principales de la aplicacion.
+El Sprint Backlog 3 resume el objetivo principal del Sprint: implementar el backend RESTful API de SafeStep utilizando Spring Boot, PostgreSQL, JWT, OpenAPI y una arquitectura organizada por bounded contexts. Para mejorar la trazabilidad, las tareas se descomponen por technical story, endpoint o componente técnico verificable, evitando agrupar demasiado trabajo en una sola tarjeta.
 
-El equipo organizo las tareas tomando como referencia las funcionalidades ya implementadas en el frontend durante el Sprint 2. De esta manera, cada endpoint del backend responde a una necesidad concreta de la Web Application, permitiendo que la futura integracion frontend-backend sea directa y mantenible.
+Las Technical Stories mantienen sus Story Points dentro del Sprint Planning. Las tareas del Sprint Backlog se estiman en horas, porque representan actividades concretas de implementación, validación o documentación dentro del Sprint.
 
 **Trello Board:**
-El equipo utiliza un Trello Board con las listas estandar de Scrum: "Sprint Goal", "To Do", "In Progress", "To Review" y "Done". Para este Sprint, las tarjetas se organizaron por bounded context y por endpoint, facilitando el seguimiento del avance de cada modulo.
+El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goal", "To Do", "In Progress", "To Review" y "Done". Para este Sprint, las tarjetas se organizaron por bounded context y por endpoint, facilitando el seguimiento del avance de cada módulo.
 
-**Referencia del Trello Board:** 
+**URL pública del Trello Board del Sprint 3:**
 
 https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3
 
 <div align="center">
   <p>
-    <b>Captura:</b> Trello
+    <b>Figura X</b>: Board de Trello correspondiente al Sprint 3
   </p>
-  <img src="../../assets/images/chapter-5/TrelloSprin3.png" alt="Swagger UI SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/TrelloSprin3.png" alt="Trello Board Sprint 3" width="600" />
   <p>
-    <i><b>Fuente</b>: Elaboracion propia.</i>
+    <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
 
-
-
-A continuacion, la tabla de control de estado para el Sprint 3:
+A continuación, la tabla de control de estado para el Sprint 3:
 
 <table align="center" border="1" cellpadding="8" cellspacing="0" style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif;">
     <tbody>
@@ -227,7 +225,7 @@ A continuacion, la tabla de control de estado para el Sprint 3:
             <td colspan="7">Sprint 3</td>
         </tr>
         <tr>
-            <td colspan="2">User Story</td>
+            <td colspan="2">User Story / Technical Story</td>
             <td colspan="6">Work-Item / Task</td>
         </tr>
         <tr>
@@ -241,127 +239,249 @@ A continuacion, la tabla de control de estado para el Sprint 3:
             <td>Status (To-do / In-Process / To-Review / Done)</td>
         </tr>
         <tr>
-            <td>TS13/TS14/TS16</td>
-            <td>Configuracion backend</td>
+            <td>TS13</td>
+            <td>Configuración base backend</td>
             <td>T001</td>
-            <td>Configurar proyecto Spring Boot</td>
-            <td>Inicializar proyecto backend con Maven, Java, dependencias Spring Boot, estructura base y configuracion de perfiles.</td>
+            <td>Crear proyecto Spring Boot</td>
+            <td>Configurar Maven, Java, dependencias principales y estructura inicial del proyecto backend.</td>
+            <td>3</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS13</td>
+            <td>Configuración base backend</td>
+            <td>T002</td>
+            <td>Configurar perfiles de ambiente</td>
+            <td>Definir configuración local para puerto, datasource, JWT y variables necesarias de ejecución.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS14</td>
+            <td>Arquitectura por bounded contexts</td>
+            <td>T003</td>
+            <td>Crear estructura de paquetes</td>
+            <td>Organizar contexts iam, profiles, commerce, simulation, gamification y analytics por capas.</td>
+            <td>3</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS14</td>
+            <td>Arquitectura por bounded contexts</td>
+            <td>T004</td>
+            <td>Crear shared infrastructure</td>
+            <td>Implementar componentes comunes de errores, responses, configuración y soporte transversal.</td>
             <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US01/US02/TS15</td>
-            <td>Autenticacion segura</td>
-            <td>T002</td>
-            <td>Implementar IAM context</td>
-            <td>Crear usuarios, roles, comandos, queries, servicios y endpoints de sign-in/sign-up.</td>
-            <td>7</td>
-            <td>Flores Eusebio, Angel Thyago</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US03</td>
-            <td>Perfil de usuario</td>
-            <td>T003</td>
-            <td>Implementar Profiles context</td>
-            <td>Crear agregado Profile, comandos, queries, repositorios, recursos REST y endpoints de consulta/actualizacion.</td>
-            <td>5</td>
-            <td>Flores Eusebio, Angel Thyago</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US30/US42</td>
-            <td>Catalogo de comercio</td>
-            <td>T004</td>
-            <td>Implementar Commerce catalog</td>
-            <td>Crear endpoints de productos, categorias, kits, cupones y recomendaciones personalizadas.</td>
-            <td>8</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US36/US37/US38/US40/US41</td>
-            <td>Carrito y ordenes</td>
+            <td>TS15</td>
+            <td>Seguridad JWT y roles</td>
             <td>T005</td>
-            <td>Implementar Commerce operations</td>
-            <td>Crear endpoints para carrito, agregar item, actualizar item, eliminar item, consultar ordenes y crear orden.</td>
-            <td>8</td>
+            <td>Implementar sign-in</td>
+            <td>Crear comando, servicio y endpoint para autenticación de usuarios registrados.</td>
+            <td>3</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS15</td>
+            <td>Seguridad JWT y roles</td>
+            <td>T006</td>
+            <td>Implementar sign-up</td>
+            <td>Crear flujo de registro con usuario, rol inicial y respuesta de autenticación.</td>
+            <td>3</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS15</td>
+            <td>Seguridad JWT y roles</td>
+            <td>T007</td>
+            <td>Proteger endpoints privados</td>
+            <td>Configurar filtros JWT y reglas para endpoints que requieren usuario autenticado.</td>
+            <td>4</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS16</td>
+            <td>Persistencia PostgreSQL/JPA</td>
+            <td>T008</td>
+            <td>Configurar conexión PostgreSQL</td>
+            <td>Configurar datasource, dialecto, credenciales locales y generación de esquema.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>TS16</td>
+            <td>Persistencia PostgreSQL/JPA</td>
+            <td>T009</td>
+            <td>Crear entidades JPA base</td>
+            <td>Crear entidades persistentes para usuarios, perfiles, productos, simulaciones y progreso.</td>
+            <td>5</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US10/US12</td>
-            <td>Catalogo de simulaciones</td>
-            <td>T006</td>
-            <td>Implementar Simulation catalog</td>
-            <td>Crear modelo de simulaciones medicas, pasos, opciones, sugerencias y endpoints de consulta.</td>
-            <td>6</td>
-            <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>US30/TS17</td>
+            <td>Catálogo de comercio</td>
+            <td>T010</td>
+            <td>Implementar getProducts</td>
+            <td>Crear query, resource, assembler y controller para listar productos.</td>
+            <td>3</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US14/US15</td>
-            <td>Intentos de simulacion</td>
-            <td>T007</td>
-            <td>Implementar Simulation attempts</td>
-            <td>Crear comando y endpoint para registrar intentos de simulacion y consultar intentos del usuario autenticado.</td>
+            <td>US30/TS17</td>
+            <td>Catálogo de comercio</td>
+            <td>T011</td>
+            <td>Implementar getProductById</td>
+            <td>Crear endpoint de detalle de producto por identificador.</td>
+            <td>2</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US30/TS17</td>
+            <td>Catálogo de comercio</td>
+            <td>T012</td>
+            <td>Implementar kits y cupones</td>
+            <td>Exponer endpoints de emergency kits, coupons, categories y recommendations.</td>
+            <td>4</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US36/US37/US38/TS17</td>
+            <td>Carrito</td>
+            <td>T013</td>
+            <td>Implementar endpoints de carrito</td>
+            <td>Crear operaciones getMyCart, addCartItem, updateCartItem y deleteCartItem.</td>
+            <td>5</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US40/US41/TS17</td>
+            <td>Órdenes</td>
+            <td>T014</td>
+            <td>Implementar createOrder y getMyOrders</td>
+            <td>Crear flujo de generación de órdenes y consulta del historial del usuario.</td>
+            <td>4</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US10/US12/TS17</td>
+            <td>Simulaciones médicas</td>
+            <td>T015</td>
+            <td>Implementar catálogo de simulaciones</td>
+            <td>Crear endpoints getAllSimulations y getSimulationById con pasos y sugerencias.</td>
             <td>5</td>
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US23/US26/US27/US29</td>
-            <td>Gamificacion</td>
-            <td>T008</td>
-            <td>Implementar Gamification context</td>
-            <td>Crear endpoints para resumen de gamificacion, misiones, insignias, leaderboard y transacciones de monedas.</td>
-            <td>7</td>
+            <td>US14/US15/TS17</td>
+            <td>Intentos de simulación</td>
+            <td>T016</td>
+            <td>Implementar createAttempt</td>
+            <td>Registrar intentos de simulación con resultado, precisión, XP y SafeCoins.</td>
+            <td>4</td>
+            <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US14/TS17</td>
+            <td>Historial de intentos</td>
+            <td>T017</td>
+            <td>Implementar getMyAttempts</td>
+            <td>Permitir que el usuario consulte sus intentos anteriores.</td>
+            <td>2</td>
+            <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23/US27/TS17</td>
+            <td>Gamificación</td>
+            <td>T018</td>
+            <td>Implementar resumen, misiones e insignias</td>
+            <td>Crear endpoints de summary, missions y my badges para la vista de gamificación.</td>
+            <td>5</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US26/US29/TS17</td>
+            <td>Ranking y monedas</td>
+            <td>T019</td>
+            <td>Implementar leaderboard y transacciones</td>
+            <td>Crear endpoints de leaderboard y coin transactions para seguimiento competitivo.</td>
+            <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US18/TS17</td>
-            <td>Analitica</td>
-            <td>T009</td>
-            <td>Implementar Analytics context</td>
-            <td>Crear endpoints de summary, progress y certificates para presentar metricas del usuario.</td>
-            <td>6</td>
+            <td>Analítica</td>
+            <td>T020</td>
+            <td>Implementar analytics summary</td>
+            <td>Crear endpoint de resumen de progreso para dashboard y estadísticas.</td>
+            <td>3</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US18/TS17</td>
+            <td>Analítica</td>
+            <td>T021</td>
+            <td>Implementar progress y certificates</td>
+            <td>Crear endpoints de progreso visual y certificados del usuario.</td>
+            <td>3</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>TS19</td>
             <td>Seed data</td>
-            <td>T010</td>
-            <td>Implementar seed inicial</td>
-            <td>Crear archivo JSON de datos iniciales y handlers para cargar datos de simulaciones, comercio, gamificacion y analytics.</td>
+            <td>T022</td>
+            <td>Cargar datos iniciales</td>
+            <td>Implementar seed JSON y handlers para simulaciones, comercio, gamificación y analítica.</td>
             <td>5</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>TS18</td>
-            <td>Documentacion Swagger</td>
-            <td>T011</td>
+            <td>Documentación Swagger</td>
+            <td>T023</td>
             <td>Configurar OpenAPI</td>
-            <td>Configurar SpringDoc, documentar controllers y verificar visualizacion de endpoints en Swagger UI.</td>
+            <td>Configurar SpringDoc y verificar documentación de controllers en Swagger UI.</td>
             <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>TS20</td>
-            <td>Validacion tecnica</td>
-            <td>T012</td>
+            <td>Validación técnica</td>
+            <td>T024</td>
             <td>Ejecutar pruebas y build</td>
-            <td>Ejecutar pruebas con Maven, validar compilacion, revisar Swagger y probar endpoints principales localmente.</td>
+            <td>Ejecutar mvn test, validar compilación y probar endpoints principales desde Swagger.</td>
             <td>4</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
     </tbody>
 </table>
+
+El Sprint Backlog 3 refleja 24 tareas derivadas de las Technical Stories de backend y de las User Stories funcionales que el API debía soportar. Las estimaciones suman 86 horas de trabajo operativo y fueron usadas para seguimiento del avance por bounded context y endpoint. Los Story Points permanecen asociados a las Technical Stories seleccionadas durante el Sprint Planning.
 
 ### 5.2.3.4. Development Evidence for Sprint Review
 
@@ -1042,3 +1162,5 @@ Durante este Sprint, el equipo realizo revisiones internas de estructura para as
 4. **El seed data acelera las pruebas iniciales:** Contar con datos precargados permitio validar endpoints sin depender de carga manual desde base de datos.
 
 5. **La consistencia de nombres ayuda a evitar errores:** Mantener convenciones similares en commands, queries, resources, controllers y services hizo que el equipo pudiera moverse entre bounded contexts con menor dificultad.
+
+

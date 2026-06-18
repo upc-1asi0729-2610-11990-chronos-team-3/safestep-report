@@ -177,12 +177,26 @@ La organización de líderes y colaboradores tiene relación directa con las for
 
 ### 5.2.1.3. Sprint Backlog 1
 
-El Sprint Backlog 1 inicia con una introducción que resume el objetivo principal del Sprint: establecer la presencia digital de SafeStep mediante una Landing Page funcional que cubra la Épica 08 del Product Backlog. Este documento representa el compromiso del equipo para completar las tareas identificadas durante el Sprint Planning y constituye la base para el seguimiento del progreso durante la iteración.
+El Sprint Backlog 1 resume el objetivo principal del Sprint: establecer la presencia digital de SafeStep mediante una Landing Page funcional que cubra las primeras User Stories de la Épica 08 del Product Backlog. Este documento representa el compromiso del equipo para completar las tareas identificadas durante el Sprint Planning y permite hacer seguimiento del avance de cada historia durante la iteración.
 
-El Sprint Backlog fue elaborado de manera colaborativa, donde cada miembro del equipo tuvo la oportunidad de sugerir tareas adicionales o modificar la estimación de horas para tareas existentes. Se utilizó la técnica de Planning Poker para estimar la complejidad de cada tarea, considerando factores como el tiempo requerido, la complejidad técnica, y las dependencias con otras tareas.
+El Sprint Backlog fue elaborado de manera colaborativa. Primero se seleccionaron las User Stories de mayor valor para el Sprint 1 y luego cada una fue descompuesta en Work-items o Tasks concretos. Las User Stories mantienen su estimación en Story Points, mientras que las tareas se estiman en horas para facilitar el seguimiento operativo dentro del Sprint. Estas horas no reemplazan los Story Points; únicamente representan el esfuerzo aproximado requerido para ejecutar cada tarea.
 
 **Trello Board:**
 El equipo utiliza un Trello Board para gestionar visualmente el Sprint Backlog. El Board contiene las listas estándar de Scrum: "Sprint Goal", "To Do", "In Progress", "To Review" y "Done". El uso de Trello permite una visualización clara del estado de cada tarea y facilita la identificación de cuellos de botella en el flujo de trabajo.
+
+**URL pública del Trello Board del Sprint 1:**
+
+https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource
+
+<div align="center">
+  <p>
+    <b>Captura</b>: Board de Trello correspondiente al Sprint 1
+  </p>
+  <img src="../../assets/images/chapter-5/TrelloSprint1.png" alt="Trello Board Sprint 1" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
 
 **Estructura del Trello Board:**
 
@@ -218,19 +232,19 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>US47</td>
             <td>Propuesta de valor</td>
             <td>T001</td>
-            <td>Crear estructura HTML base</td>
-            <td>Crear estructura base del documento HTML con DOCTYPE, meta tags, y vinculación de archivos CSS/JS</td>
+            <td>Definir contenido principal del hero</td>
+            <td>Redactar el mensaje principal, subtítulo y llamada a la acción que explican de forma inmediata qué es SafeStep.</td>
             <td>2</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US47</td>
             <td>Propuesta de valor</td>
             <td>T002</td>
-            <td>Implementar Hero Section</td>
-            <td>Crear sección hero con headline, propuesta de valor de SafeStep, y call-to-action para registro</td>
-            <td>4</td>
+            <td>Implementar sección hero</td>
+            <td>Construir la primera sección de la landing con logo, título, descripción, imagen principal y botón de inicio.</td>
+            <td>3</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
@@ -238,19 +252,19 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>US47</td>
             <td>Propuesta de valor</td>
             <td>T003</td>
-            <td>Implementar sección de características</td>
-            <td>Crear sección que muestre las características principales de SafeStep: simulaciones, gamificación y tienda</td>
-            <td>4</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Validar legibilidad inicial</td>
+            <td>Revisar contraste, jerarquía visual y claridad del mensaje en desktop y mobile para asegurar que el visitante entienda la propuesta.</td>
+            <td>1</td>
+            <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US48</td>
             <td>Navegación por secciones</td>
             <td>T004</td>
-            <td>Implementar menú de navegación</td>
-            <td>Crear menú de navegación con enlaces a las secciones de la landing: funcionalidades, simulaciones, gamificación, tienda y FAQ</td>
-            <td>3</td>
+            <td>Crear barra de navegación</td>
+            <td>Implementar menú superior con enlaces a las secciones principales de la landing page.</td>
+            <td>2</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
@@ -258,86 +272,126 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>US48</td>
             <td>Navegación por secciones</td>
             <td>T005</td>
-            <td>Implementar scroll suave</td>
-            <td>Agregar desplazamiento suave (smooth scroll) al hacer clic en los enlaces del menú de navegación</td>
+            <td>Configurar navegación entre secciones</td>
+            <td>Agregar desplazamiento suave y verificar que cada enlace lleve a la sección correcta.</td>
             <td>2</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
+            <td>US48</td>
+            <td>Navegación por secciones</td>
+            <td>T006</td>
+            <td>Adaptar navegación móvil</td>
+            <td>Asegurar que el menú sea usable en pantallas pequeñas y que no oculte el contenido principal.</td>
+            <td>2</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
             <td>US49</td>
             <td>Simulaciones ofrecidas</td>
-            <td>T006</td>
-            <td>Implementar sección de simulaciones</td>
-            <td>Crear sección con tarjetas informativas de las simulaciones disponibles: RCP, quemaduras, atragantamiento y sismos</td>
-            <td>5</td>
+            <td>T007</td>
+            <td>Definir contenido de simulaciones</td>
+            <td>Organizar los textos e imágenes de las emergencias que se mostrarán como ejemplos en la landing.</td>
+            <td>2</td>
             <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US49</td>
+            <td>Simulaciones ofrecidas</td>
+            <td>T008</td>
+            <td>Implementar tarjetas de simulaciones</td>
+            <td>Crear las tarjetas de RCP, quemaduras, atragantamiento y sismos con título, descripción e imagen.</td>
+            <td>3</td>
+            <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US49</td>
+            <td>Simulaciones ofrecidas</td>
+            <td>T009</td>
+            <td>Validar visualización de tarjetas</td>
+            <td>Revisar que las tarjetas se visualicen correctamente en desktop y mobile, sin cortes de texto ni desorden visual.</td>
+            <td>1</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US52</td>
             <td>Testimonios</td>
-            <td>T007</td>
-            <td>Implementar sección de testimonios</td>
-            <td>Crear sección con testimonios de usuarios mostrando experiencias positivas con SafeStep</td>
-            <td>3</td>
+            <td>T010</td>
+            <td>Crear sección de testimonios</td>
+            <td>Implementar bloque de testimonios con nombre, comentario y presentación visual consistente con la landing.</td>
+            <td>2</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US52</td>
+            <td>Testimonios</td>
+            <td>T011</td>
+            <td>Revisar confianza del contenido</td>
+            <td>Validar que los testimonios refuercen la utilidad de SafeStep y no generen ruido visual en la página.</td>
+            <td>1</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US53</td>
+            <td>Preguntas frecuentes</td>
+            <td>T012</td>
+            <td>Redactar preguntas frecuentes</td>
+            <td>Definir preguntas y respuestas sobre funcionamiento, acceso, primeros auxilios y uso de la plataforma.</td>
+            <td>1</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US53</td>
             <td>Preguntas frecuentes</td>
-            <td>T008</td>
-            <td>Implementar sección FAQ</td>
-            <td>Crear sección de preguntas frecuentes con formato acordeón para resolver dudas comunes de los visitantes</td>
-            <td>3</td>
+            <td>T013</td>
+            <td>Implementar acordeón FAQ</td>
+            <td>Crear el comportamiento desplegable de las preguntas frecuentes y validar su uso en desktop y mobile.</td>
+            <td>2</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US54</td>
+            <td>Acceso a registro</td>
+            <td>T014</td>
+            <td>Implementar botones de registro</td>
+            <td>Agregar botones principales y secundarios que lleven al usuario hacia el registro o acceso.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US54</td>
+            <td>Acceso a registro</td>
+            <td>T015</td>
+            <td>Validar redirección de CTAs</td>
+            <td>Probar que los llamados a la acción funcionen correctamente desde hero, secciones internas y final de la página.</td>
+            <td>1</td>
+            <td>Ayala Fernandez, Jorge Brayan</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US54</td>
+            <td>Acceso a registro</td>
+            <td>T016</td>
+            <td>Implementar footer de cierre</td>
+            <td>Crear footer con marca, enlaces relevantes, contacto y derechos reservados para cerrar la experiencia de navegación.</td>
+            <td>2</td>
             <td>Flores Eusebio, Angel Thyago</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US54</td>
-            <td>Acceso a registro</td>
-            <td>T009</td>
-            <td>Implementar enlaces de registro</td>
-            <td>Agregar botones de "Comenzar" y "Registrarse" que redirijan a la pantalla de registro o acceso</td>
-            <td>2</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US54</td>
-            <td>Acceso a registro</td>
-            <td>T010</td>
-            <td>Implementar footer con información de contacto</td>
-            <td>Crear footer con marca, enlaces relevantes, información de contacto y derechos reservados</td>
-            <td>3</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US47/US48</td>
-            <td>General</td>
-            <td>T011</td>
-            <td>Aplicar estilos responsive</td>
-            <td>Asegurar que la landing se visualice correctamente en dispositivos móviles y tablets</td>
-            <td>3</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US47</td>
-            <td>Propuesta de valor</td>
-            <td>T012</td>
-            <td>Configurar repositorio Git</td>
-            <td>Inicializar repositorio en GitHub con estructura de archivos y README</td>
-            <td>2</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
     </tbody>
 </table>
 
-El Sprint Backlog refleja 12 tareas que totalizando las horas estimadas representan aproximadamente 36 horas de trabajo del equipo, equivalente a los 21 Story Points calculados para el Sprint 1. Cada tarea fue estimada considerando la complejidad técnica, el tiempo requerido para investigación en caso de desconocimiento, y los posibles imprevistos que pudieran surgir durante la implementación.
+El Sprint Backlog refleja 16 tareas que descomponen directamente las User Stories seleccionadas para el Sprint 1. Las estimaciones suman 29 horas de trabajo operativo y fueron asignadas en función del esfuerzo necesario para implementar, revisar y validar cada parte de la Landing Page. Los Story Points se mantienen a nivel de User Story, mientras que las horas permiten hacer seguimiento detallado dentro del Sprint.
 
 El equipo se compromete a completar todas las tareas del Sprint Backlog antes de la fecha de Sprint Review programada para el final de la iteración. Se realizará seguimiento diario del progreso mediante las daily standups y se tomarán acciones correctivas en caso de identificar desviaciones significativas del plan.
 

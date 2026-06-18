@@ -10,6 +10,10 @@
 
 # 3.1. User Stories
 
+En esta sección se presentan las épicas, user stories y technical stories que guían el desarrollo de SafeStep. Las historias se redactan desde la perspectiva del usuario o del equipo de desarrollo, siguiendo la estructura **Como [rol], quiero [necesidad], para [beneficio]**, con el fin de relacionar cada requerimiento con un valor concreto para el producto.
+
+Los criterios de aceptación se expresan bajo el formato **Gherkin**, utilizando la estructura **Dado que / Cuando / Entonces**. De esta manera, cada historia cuenta con condiciones verificables que permiten validar su cumplimiento durante el desarrollo, las pruebas funcionales y la revisión de cada Sprint. Las filas identificadas como épicas no incluyen criterios de aceptación específicos, debido a que funcionan como agrupadores de historias relacionadas.
+
 
 <table>
   <thead>
@@ -17,7 +21,7 @@
       <th>Epic / Story ID</th>
       <th>Titulo</th>
       <th>Descripcion</th>
-      <th>Criterios de Aceptacion</th>
+      <th>Criterios de Aceptacion (Gherkin)</th>
       <th>Relacionado con (Epic ID)</th>
     </tr>
   </thead>
@@ -26,7 +30,7 @@
       <td><b>EP02</b></td>
       <td>Dashboard principal</td>
       <td><b>Como</b> usuario de SafeStep, <b>quiero</b> visualizar un dashboard principal con mi avance, entrenamientos, misiones y productos sugeridos, <b>para</b> decidir rapidamente que hacer despues.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -61,7 +65,7 @@
       <td><b>EP03</b></td>
       <td>Simulaciones medicas</td>
       <td><b>Como</b> usuario en entrenamiento, <b>quiero</b> practicar emergencias mediante simulaciones medicas interactivas, <b>para</b> aprender a tomar mejores decisiones en primeros auxilios.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -124,7 +128,7 @@
       <td><b>EP04</b></td>
       <td>Progreso y estadisticas</td>
       <td><b>Como</b> usuario, <b>quiero</b> consultar estadisticas reales de mi aprendizaje, <b>para</b> identificar avances, errores y acciones de mejora.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -166,7 +170,7 @@
       <td><b>EP05</b></td>
       <td>Gamificacion</td>
       <td><b>Como</b> usuario, <b>quiero</b> acceder a niveles, misiones, insignias, ranking y SafeCoins, <b>para</b> mantenerme motivado a practicar primeros auxilios.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -222,7 +226,7 @@
       <td><b>EP06</b></td>
       <td>Tienda, carrito y compras</td>
       <td><b>Como</b> usuario comprador, <b>quiero</b> explorar productos, kits, cupones, carrito, pago e historial de compras, <b>para</b> equiparme ante emergencias.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -327,7 +331,7 @@
       <td><b>EP07</b></td>
       <td>Navegacion y experiencia general de la aplicacion</td>
       <td><b>Como</b> usuario de la aplicacion, <b>quiero</b> navegar por una interfaz clara y responsiva, <b>para</b> usar SafeStep desde diferentes dispositivos.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -355,7 +359,7 @@
       <td><b>EP01</b></td>
       <td>Identidad, acceso y perfil de usuario</td>
       <td><b>Como</b> usuario de SafeStep, <b>quiero</b> gestionar mi acceso, perfil, idioma y saldo de SafeCoins, <b>para</b> usar la aplicacion con una identidad personalizada.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -397,7 +401,7 @@
       <td><b>EP08</b></td>
       <td>Landing page publica</td>
       <td><b>Como</b> visitante interesado, <b>quiero</b> conocer la propuesta de valor de SafeStep en una landing page publica, <b>para</b> decidir si me registro en la plataforma.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>
@@ -474,7 +478,7 @@
       <td><b>EP09</b></td>
       <td>Soporte tecnico y arquitectura de la aplicacion</td>
       <td><b>Como</b> equipo de desarrollo, <b>quiero</b> mantener una base tecnica ordenada, modular y verificable, <b>para</b> sostener la evolucion de SafeStep sin afectar la experiencia del usuario.</td>
-      <td>No aplica</td>
+      <td>No aplica por tratarse de una epica agrupadora.</td>
       <td>No aplica</td>
     </tr>
     <tr>

@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -199,12 +199,26 @@ El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustado
 
 ### 5.2.2.3. Sprint Backlog 2
 
-El Sprint Backlog 2 resume el objetivo principal del Sprint: implementar la aplicación frontend Angular de SafeStep con arquitectura Domain-Driven Design, integración con json-server y despliegue en Firebase Hosting. Este documento representa el compromiso del equipo para completar las tareas identificadas durante el Sprint Planning.
+El Sprint Backlog 2 resume el objetivo principal del Sprint: implementar la aplicación frontend Angular de SafeStep con arquitectura Domain-Driven Design, integración con json-server y despliegue en Firebase Hosting. Para corregir la trazabilidad del Sprint, las tareas se organizaron como descomposición directa de las User Stories seleccionadas, evitando tareas demasiado generales que mezclen varias funcionalidades no relacionadas.
 
-El Sprint Backlog fue elaborado de manera colaborativa utilizando la técnica de Planning Poker para estimar la complejidad de cada tarea. Se consideraron las lecciones aprendidas del Sprint 1, ajustando las estimaciones para reflejar con mayor precisión el esfuerzo requerido.
+Las User Stories mantienen su estimación en Story Points dentro del Sprint Planning. En cambio, los Work-items o Tasks se estiman en horas, porque representan trabajo operativo concreto dentro del Sprint. Estas horas permiten monitorear avance diario, pero no reemplazan los Story Points de las historias.
 
 **Trello Board:**
 El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goal", "To Do", "In Progress", "To Review" y "Done".
+
+**URL pública del Trello Board del Sprint 2:**
+
+https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource
+
+<div align="center">
+  <p>
+    <b>Figura X</b>: Board de Trello correspondiente al Sprint 2
+  </p>
+  <img src="../../assets/images/chapter-5/TrelloSprint2.png" alt="Trello Board Sprint 2" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
 
 A continuación, la tabla de control de estado para el Sprint 2:
 
@@ -230,260 +244,220 @@ A continuación, la tabla de control de estado para el Sprint 2:
         </tr>
         <tr>
             <td>US18</td>
-            <td>Progreso y estadísticas</td>
+            <td>Visualizar resumen general de progreso</td>
             <td>T001</td>
-            <td>Crear proyecto Angular con estructura DDD</td>
-            <td>Inicializar proyecto Angular CLI con módulos, dependencias y estructura de carpetas por bounded context</td>
-            <td>4</td>
+            <td>Definir indicadores de progreso</td>
+            <td>Identificar métricas visibles: simulaciones completadas, intentos, precisión promedio, XP, SafeCoins y tiempo entrenado.</td>
+            <td>2</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US18</td>
-            <td>Progreso y estadísticas</td>
+            <td>Visualizar resumen general de progreso</td>
             <td>T002</td>
-            <td>Implementar entidades de dominio de statistics</td>
-            <td>Crear entidad statistics.entity con propiedades de progreso, rendimiento y métricas de aprendizaje</td>
-            <td>3</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US18</td>
-            <td>Progreso y estadísticas</td>
-            <td>T003</td>
-            <td>Implementar store de statistics</td>
-            <td>Crear store de estado para manejo de estadísticas, rendimiento por simulación y métricas de progreso</td>
+            <td>Implementar vista de estadísticas</td>
+            <td>Construir la página de progreso con tarjetas de indicadores y estados vacíos cuando no existan intentos.</td>
             <td>4</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US18</td>
-            <td>Progreso y estadísticas</td>
-            <td>T004</td>
-            <td>Implementar página de estadísticas</td>
-            <td>Crear stats-page con indicadores generales, simulaciones completadas, precisión, XP y tiempo entrenado</td>
-            <td>5</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US18</td>
-            <td>Progreso y estadísticas</td>
-            <td>T005</td>
-            <td>Implementar API de statistics</td>
-            <td>Crear API service, assembler y resources para comunicación con json-server</td>
+            <td>Visualizar resumen general de progreso</td>
+            <td>T003</td>
+            <td>Conectar estadísticas con datos simulados</td>
+            <td>Consumir json-server desde el store correspondiente para mostrar métricas reales a partir de intentos y transacciones.</td>
             <td>3</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US23</td>
-            <td>Gamificación</td>
-            <td>T006</td>
+            <td>Visualizar resumen de gamificación</td>
+            <td>T004</td>
+            <td>Diseñar resumen de gamificación</td>
+            <td>Definir la información principal de nivel, XP, racha, ranking y SafeCoins para la vista de gamificación.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US23</td>
+            <td>Visualizar resumen de gamificación</td>
+            <td>T005</td>
             <td>Implementar página de gamificación</td>
-            <td>Crear gamification-page con nivel, XP, racha, ranking semanal y SafeCoins</td>
+            <td>Construir la página con resumen de progreso competitivo, misiones visibles e insignias principales.</td>
             <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US44</td>
-            <td>Navegación por módulos</td>
+            <td>US30</td>
+            <td>Visualizar productos relevantes en tienda</td>
+            <td>T006</td>
+            <td>Definir estructura del catálogo</td>
+            <td>Organizar productos, categorías, kits y recomendaciones necesarias para la vista inicial de tienda.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US30</td>
+            <td>Visualizar productos relevantes en tienda</td>
             <td>T007</td>
-            <td>Implementar app shell con menú lateral</td>
-            <td>Crear componente app-shell con toolbar, menú lateral responsivo y router-outlet</td>
+            <td>Implementar vista de tienda</td>
+            <td>Construir catálogo con tarjetas de producto, imagen, categoría, rating, stock y precio.</td>
             <td>5</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US44</td>
-            <td>Navegación por módulos</td>
+            <td>US30</td>
+            <td>Visualizar productos relevantes en tienda</td>
             <td>T008</td>
-            <td>Configurar rutas y lazy loading</td>
-            <td>Configurar routing principal con lazy loading para cada bounded context</td>
+            <td>Conectar tienda con json-server</td>
+            <td>Cargar productos y recomendaciones desde el store de ecommerce usando los endpoints simulados.</td>
             <td>3</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US06</td>
-            <td>Dashboard</td>
+            <td>Visualizar resumen general de entrenamiento</td>
             <td>T009</td>
-            <td>Implementar página de dashboard</td>
-            <td>Crear dashboard-page con resumen de progreso, métricas principales y accesos rápidos</td>
-            <td>5</td>
+            <td>Definir tarjetas del dashboard</td>
+            <td>Seleccionar métricas, acciones rápidas y secciones que aparecerán al entrar a la aplicación.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US06</td>
+            <td>Visualizar resumen general de entrenamiento</td>
+            <td>T010</td>
+            <td>Implementar dashboard principal</td>
+            <td>Construir dashboard con resumen de progreso, SafeCoins, actividad reciente y accesos a módulos principales.</td>
+            <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US07</td>
-            <td>Siguiente entrenamiento</td>
-            <td>T010</td>
-            <td>Implementar sección de siguiente simulación</td>
-            <td>Agregar tarjeta en dashboard con la siguiente simulación sugerida y botón de acceso directo</td>
-            <td>3</td>
+            <td>Continuar con el siguiente entrenamiento</td>
+            <td>T011</td>
+            <td>Seleccionar siguiente simulación sugerida</td>
+            <td>Definir la lógica para mostrar una simulación pendiente o recomendada desde el dashboard.</td>
+            <td>2</td>
+            <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US07</td>
+            <td>Continuar con el siguiente entrenamiento</td>
+            <td>T012</td>
+            <td>Agregar acceso a práctica</td>
+            <td>Implementar botón de práctica que navegue desde el dashboard hacia el detalle de la simulación recomendada.</td>
+            <td>2</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US10</td>
-            <td>Catálogo de simulaciones</td>
-            <td>T011</td>
-            <td>Implementar entidades de dominio de medical-simulation</td>
-            <td>Crear entidad medical-simulation.entity con propiedades de simulación médica</td>
-            <td>3</td>
-            <td>Sanchez Espinoza, Mathias Enrique</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US10</td>
-            <td>Catálogo de simulaciones</td>
-            <td>T012</td>
-            <td>Implementar store de medical-simulation</td>
-            <td>Crear store de estado para manejo de simulaciones, selección y resultados</td>
-            <td>4</td>
-            <td>Sanchez Espinoza, Mathias Enrique</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US10</td>
-            <td>Catálogo de simulaciones</td>
+            <td>Visualizar catálogo de simulaciones</td>
             <td>T013</td>
-            <td>Implementar API de medical-simulation</td>
-            <td>Crear API service, assembler y resources para simulaciones médicas</td>
-            <td>3</td>
+            <td>Preparar datos de simulaciones</td>
+            <td>Definir estructura de simulaciones con título, imagen, dificultad, duración, XP y SafeCoins.</td>
+            <td>2</td>
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US10</td>
-            <td>Catálogo de simulaciones</td>
+            <td>Visualizar catálogo de simulaciones</td>
             <td>T014</td>
-            <td>Implementar página de catálogo de simulaciones</td>
-            <td>Crear simulations-page con tarjetas de simulación, imagen, dificultad, duración y XP</td>
-            <td>5</td>
+            <td>Implementar listado de simulaciones</td>
+            <td>Construir la vista con tarjetas de simulación y estado visual para simulaciones completadas.</td>
+            <td>4</td>
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US12</td>
-            <td>Detalle de simulación</td>
+            <td>Revisar detalle de una simulación</td>
             <td>T015</td>
-            <td>Implementar página de detalle de simulación</td>
-            <td>Crear simulation-detail-page con objetivos, requisitos, recompensas y botón de inicio</td>
+            <td>Implementar detalle de simulación</td>
+            <td>Mostrar objetivos, dificultad, duración, XP disponible, SafeCoins base y botón para iniciar.</td>
             <td>4</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US13</td>
-            <td>Responder pasos</td>
+            <td>Responder pasos de una simulación</td>
             <td>T016</td>
-            <td>Implementar flujo de ejecución de simulación</td>
-            <td>Crear componente de pasos interactivos con selección de respuestas y feedback visual</td>
-            <td>8</td>
-            <td>Sanchez Espinoza, Mathias Enrique</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US13</td>
-            <td>Responder pasos</td>
-            <td>T017</td>
-            <td>Implementar cálculo de resultados</td>
-            <td>Implementar lógica de cálculo de respuestas correctas, precisión, XP y SafeCoins</td>
-            <td>5</td>
-            <td>Sanchez Espinoza, Mathias Enrique</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US13</td>
-            <td>Responder pasos</td>
-            <td>T018</td>
-            <td>Implementar página de resumen final</td>
-            <td>Crear pantalla de resultados con respuestas, XP ganado, monedas y productos sugeridos</td>
+            <td>Implementar selección de respuestas</td>
+            <td>Permitir que el usuario seleccione una opción por paso y registrar la respuesta elegida.</td>
             <td>4</td>
+            <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US13</td>
+            <td>Responder pasos de una simulación</td>
+            <td>T017</td>
+            <td>Agregar feedback visual</td>
+            <td>Diferenciar visualmente respuestas correctas e incorrectas después de que el usuario responde.</td>
+            <td>3</td>
+            <td>Sanchez Espinoza, Mathias Enrique</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US13</td>
+            <td>Responder pasos de una simulación</td>
+            <td>T018</td>
+            <td>Validar avance entre pasos</td>
+            <td>Controlar que el usuario avance por la simulación sin saltar preguntas requeridas.</td>
+            <td>2</td>
             <td>Flores Eusebio, Angel Thyago</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US44</td>
+            <td>Navegar por los módulos principales</td>
+            <td>T019</td>
+            <td>Implementar app shell</td>
+            <td>Crear layout principal con toolbar, sidebar, rutas y contenedor de vistas.</td>
+            <td>4</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
+            <td>Done</td>
+        </tr>
+        <tr>
+            <td>US44</td>
+            <td>Navegar por los módulos principales</td>
+            <td>T020</td>
+            <td>Resaltar sección activa</td>
+            <td>Marcar visualmente la opción seleccionada dentro del menú lateral.</td>
+            <td>2</td>
+            <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
             <td>US46</td>
-            <td>Responsive</td>
-            <td>T019</td>
-            <td>Implementar diseño responsivo</td>
-            <td>Asegurar que todas las páginas se visualicen correctamente en dispositivos móviles y tablets</td>
-            <td>5</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US30</td>
-            <td>Tienda</td>
-            <td>T020</td>
-            <td>Implementar entidades de dominio de ecommerce</td>
-            <td>Crear entidad ecommerce.entity con propiedades de productos, kits, categorías y carrito</td>
-            <td>3</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US30</td>
-            <td>Tienda</td>
+            <td>Usar la aplicación en pantallas pequeñas</td>
             <td>T021</td>
-            <td>Implementar store de ecommerce</td>
-            <td>Crear store de estado para manejo de productos, carrito y proceso de compra</td>
-            <td>4</td>
+            <td>Adaptar shell a mobile</td>
+            <td>Configurar comportamiento tipo drawer para pantallas pequeñas sin generar desplazamiento horizontal.</td>
+            <td>3</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
         <tr>
-            <td>US30</td>
-            <td>Tienda</td>
+            <td>US46</td>
+            <td>Usar la aplicación en pantallas pequeñas</td>
             <td>T022</td>
-            <td>Implementar API de ecommerce</td>
-            <td>Crear API service, assembler y resources para productos y carrito</td>
-            <td>3</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US30</td>
-            <td>Tienda</td>
-            <td>T023</td>
-            <td>Implementar página de tienda</td>
-            <td>Crear store-page con catálogo de productos, categorías y vista de productos relevantes</td>
-            <td>5</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US23</td>
-            <td>General</td>
-            <td>T024</td>
-            <td>Configurar json-server con datos de prueba</td>
-            <td>Crear archivos db.json y routes.json con datos mock para todos los bounded contexts</td>
-            <td>4</td>
-            <td>Melgarejo Quiroz, Josep Eliu</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US18</td>
-            <td>General</td>
-            <td>T025</td>
-            <td>Configurar i18n para español e inglés</td>
-            <td>Configurar @ngx-translate con archivos de traducción ES/EN y selector de idioma</td>
-            <td>3</td>
-            <td>Ayala Fernandez, Jorge Brayan</td>
-            <td>Done</td>
-        </tr>
-        <tr>
-            <td>US18</td>
-            <td>General</td>
-            <td>T026</td>
-            <td>Configurar despliegue en Firebase</td>
-            <td>Configurar Firebase Hosting con firebase.json, .firebaserc y GitHub Actions para CI/CD</td>
+            <td>Validar tarjetas responsivas</td>
+            <td>Revisar que productos, simulaciones y misiones se muestren en columnas legibles en mobile.</td>
             <td>3</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
@@ -491,7 +465,7 @@ A continuación, la tabla de control de estado para el Sprint 2:
     </tbody>
 </table>
 
-El Sprint Backlog refleja 26 tareas que totalizan aproximadamente 102 horas de trabajo del equipo. Cada tarea fue estimada considerando la complejidad técnica de la arquitectura DDD y la integración con json-server.
+El Sprint Backlog 2 refleja 22 tareas derivadas directamente de las User Stories comprometidas para la aplicación frontend. Las estimaciones suman 66 horas de trabajo operativo y fueron usadas para seguimiento diario dentro del Trello Board. Los Story Points se mantienen a nivel de User Story y no se convierten directamente a horas.
 
 ### 5.2.2.4. Development Evidence for Sprint Review
 
@@ -925,3 +899,4 @@ Todos los miembros del equipo participaron activamente en la implementación del
 4. **El lazy loading mejora el rendimiento:** La configuración de rutas con carga diferida redujo el tamaño inicial del bundle y mejoró los tiempos de carga.
 
 5. **Firebase Hosting simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
+
