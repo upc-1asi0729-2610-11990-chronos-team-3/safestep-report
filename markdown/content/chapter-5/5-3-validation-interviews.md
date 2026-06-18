@@ -350,18 +350,18 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
             <img src="../../assets/images/chapter-5/validation-interview-3.png" width="180">
         </td>
         <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
-            <b>Duración</b>: [Completar duración] <br/>
-            <b>Género</b>: [Completar género] <br/>
-            <b>Edad</b>: [Completar edad] <br/>
-            <b>Segmento</b>: [Estudiante universitario / Comunidad vecinal / Brigadista] <br/>
-            <b>Lugar de Residencia</b>: [Completar lugar de residencia] <br/>
+            <b>Entrevistado</b>: Rodrigo Andres Gonzales Portugal <br/>
+            <b>Entrevistador</b>: Angel Thyago Flores Eusebio <br/>
+            <b>Duración</b>: 6:24 <br/>
+            <b>Género</b>: Masculino <br/>
+            <b>Edad</b>: 20 <br/>
+            <b>Segmento</b>: Comunidad vecinal <br/>
+            <b>Lugar de Residencia</b>: Lima <br/>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="[Insertar URL de la entrevista]" target="_blank" rel="noopener noreferrer">[Insertar URL de la entrevista]</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss" target="_blank" rel="noopener noreferrer">[Entrevista a Rodrigo]</a>
         </td>
     </tr>
     <tr>
@@ -431,26 +431,26 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td width="30%" align="center">
-            <img src="../../assets/images/chapter-5/validation-interview-5.png" width="180">
+            <img src="../../assets/images/chapter-5/Juan.jpg" width="180">
         </td>
         <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
-            <b>Duración</b>: [Completar duración] <br/>
-            <b>Género</b>: [Completar género] <br/>
-            <b>Edad</b>: [Completar edad] <br/>
-            <b>Segmento</b>: [Estudiante universitario / Comunidad vecinal / Brigadista] <br/>
-            <b>Lugar de Residencia</b>: [Completar lugar de residencia] <br/>
+            <b>Entrevistado</b>: Juan Miguel Barrios Casanova <br/>
+            <b>Entrevistador</b>: Mathias Enrique Sánchez Espinoza <br/>
+            <b>Duración</b>: 09:38 <br/>
+            <b>Género</b>: Masculino <br/>
+            <b>Edad</b>: 20 <br/>
+            <b>Segmento</b>: Brigadista <br/>
+            <b>Lugar de Residencia</b>: Lima - San Miguel <br/>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="[Insertar URL de la entrevista]" target="_blank" rel="noopener noreferrer">[Insertar URL de la entrevista]</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9" target="_blank" rel="noopener noreferrer">Entrevista de Validación 5</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/validation-evidence-5.png">
+            <img src="../../assets/images/chapter-5/JuanInterview.jpg">
         </td>
     </tr>
     <tr>
@@ -460,7 +460,59 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2">
-            [Completar transcripción de la entrevista de validación N° 5]
+            Bueno, esta es una entrevista para el proyecto de Open Source, una entrevista de validación de nuestro proyecto. 
+            Y bueno, acá estamos con el entrevistado.
+            Por favor, ¿te podrías presentar?
+            Sí, claro. ¿Cómo estás? Mi nombre es Juan Barrios, soy de la ciudad de Lima y me especializo en lo que es primeros auxilios. 
+            En ese caso, yo ahorita me encuentro trabajando con la Municipalidad de Lima. 
+            Ok, Juan, muchas gracias por la entrevista. Primero, bueno, anteriormente te mostré la página web y también te mostré la aplicación. 
+            Y bueno, quería hacerte unas preguntas. ¿Cuál fue tu primera impresión al ver nuestro producto Safe Steps? 
+            Mi primera impresión fue de asombro, ya que me pareció un proyecto innovador y, bueno, una forma bastante interesante de poder enseñar primeros auxilios.
+            Ok. Después de revisar la landing page, como en este caso, la página web, ¿qué entendiste sobre lo que ofrece Safe Steps? 
+            Lo que yo pude entender al ver la página web fue que, bueno, buscan enseñar lo que es primeros auxilios a gente que no conozca o tal vez necesite mejorar. 
+            Y también ofrecen, en este caso, el equipo que alguien pueda requerir para hacer correctamente los primeros auxilios.
+            Ok, muchas gracias. ¿La landing page te pareció clara y fácil de entender? 
+            Sí, me pareció muy clara y también me parece que está bien distribuida. 
+            Ok. ¿Los botones, o digamos, la acción, como te dije anteriormente, call to action, los botones call to action, ¿fueron fáciles de identificar? 
+            Sí, me parece que los botones call to action estaban bien posicionados dentro de la página web para poder identificarlos de una manera más sencilla. 
+            Ok. ¿La landing page le transmitió algún tipo de confianza para poder probar la aplicación, nuestro proyecto? 
+            Sí, la verdad que sí. Fue una aplicación que en primera instancia sí me dieron muchas ganas de seguir utilizándola. 
+            Ok. ¿Te resultó fácil navegar dentro de la aplicación web? 
+            Sí, estuvo muy sencillo, la verdad. Los apartados estaban bien organizados y todo era muy claro. 
+            Ok, es un buen punto. ¿Pudiste identificar rápidamente las secciones principales de la aplicación? 
+            Sí, como comenté, la aplicación está muy bien distribuida y fue muy rápido el poder identificar las secciones principales.
+            Ok, ok. ¿La organización de la información dentro de la aplicación web te pareció ordenada o desordenada? 
+            Me pareció que estaba ordenada, la verdad. No tenía tal vez alguna duda sobre de dónde ir primero. Me parece que era muy intuitivo el orden que tenías que seguir para ver todo lo que ofrecía la aplicación. 
+            Ok. ¿Hubo alguna pantalla o sección que te pareciera algo confusa? 
+            No, la verdad que no. Me parece que todo estaba muy bien distribuido dentro de la aplicación. 
+            Ok. ¿Qué funcionalidad te pareció más útil dentro de nuestra aplicación SafeStack? 
+            Lo más útil me parecieron las simulaciones de las clases, en este caso de primeros auxilios. Me parece que son fáciles de entender, están bien centradas en los temas y son bastante bien explicadas. 
+            Ok. ¿Las simulaciones médicas te parecieron útiles para aprender primeros auxilios? 
+            Sí, me parecieron útiles. Me parece que los temas que han elegido están bien centrados en los temas que alguien que quisiera aprender a realizar primeros auxilios necesita aprender. 
+            Gracias. ¿Las preguntas y opciones de las simulaciones fueron claras, concisas? 
+            Sí, me parece que todas las preguntas que se hacían y las opciones que te daban las simulaciones estaban muy bien planteadas y estaban bien logradas.
+            Ok. ¿La retroalimentación, después de responder las simulaciones, te ayudó a entender mejor qué hacer en las situaciones de emergencia? 
+            Sí, es una forma muy acertada de cómo lograr hacer que alguien termine de entender, hacer una explicación un poco más detallada del tema que se está presentando. 
+            ¿Las preguntas y opciones de las simulaciones, en este caso, fueron claras? 
+            Sí, estuvieron muy bien logradas.
+            Ok. ¿La retroalimentación, después de responder, te ayudó a entender mejor qué hacer? 
+            Sí, estuvo bastante acertado la retroalimentación después de terminarla. 
+            ¿Las misiones, insignias, puntos o monedas te motivarían a seguir usando la aplicación? 
+            Sí, me parece que es una forma bastante innovadora de mantener a la gente enganchada a la aplicación, a seguir utilizándola, a recomendarla, ya que, en este caso, estas misiones y objetos que se pueden conseguir despiertan la competitividad en la gente y eso atrae más público.
+            La tienda de productos de emergencia, donde costaban los kits y otros productos médicos, ¿te pareció útil dentro de la aplicación? 
+            Sí, me parece que es un apartado bastante útil, ya que la gente que busca aprender primeros auxilios también querrá saber cómo y qué cosas debería comprar para el objetivo que esté buscando. 
+            ¿Los productos y kits mostrados en la tienda se relacionan bien con el objetivo de SafeState? 
+            Sí, me parece que está bien relacionado, ya que el objetivo de SafeState es más que nada enseñar el tema de primeros auxilios y dentro de la tienda es los productos que han incorporado y los kits que han implementado en esta están bien relacionados con los temas. 
+            ¿Usaría usted SafeState para aprender o practicar primeros auxilios y por qué? 
+            Sí la usaría, ya que me parece que es bastante sencillo el aprender y es una forma también bastante entretenida.
+            ¿Recomendaría nuestro producto SafeState a otra persona y por qué? 
+            Sí lo recomendaría, ya que me parece un producto innovador y por el momento me parece que está muy bien elaborada la aplicación.
+            ¿Del 1 al 5, qué tan fácil, útil y confiable le pareció SafeState? 
+            Yo te diría un 5, ya que al menos para lo que es como me la ha presentado por primera vez la aplicación está todo bastante acertado en cuanto a temas, en cuanto a explicaciones y todo me parece que está muy bien elaborado. 
+            Si pudieras cambiar o mejorar una sola cosa de nuestro producto SafeState, ¿qué cambiaría? 
+            Yo te diría que tal vez la duración de las simulaciones, ya que me parece que está con un poquito más de tiempo, sin exagerar podría abarcar algunos detalles más importantes de los temas que se trata.
+            Ok, eso es interesante la verdad. Bueno, muchas gracias por tu análisis sobre nuestro proyecto, el producto que ofrecemos y bueno muchas gracias por la entrevista también. 
+            Gracias.
         </td>
     </tr>
 </table>
