@@ -361,7 +361,7 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="[Insertar URL de la entrevista]" target="_blank" rel="noopener noreferrer">[Insertar URL de la entrevista]</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss" target="_blank" rel="noopener noreferrer">[Entrevista a Rodrigo]</a>
         </td>
     </tr>
     <tr>
