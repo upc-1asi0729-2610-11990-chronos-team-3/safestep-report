@@ -106,8 +106,8 @@ A continuación, se presentan los cuadros de registro para las entrevistas de va
             <img src="../../assets/images/chapter-5/validation-interview-1.png" width="180">
         </td>
         <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
+            <b>Entrevistado</b>: Luciana Celeste Sanchez Silva <br/>
+            <b>Entrevistador</b>: Josep Melgarejo <br/>
             <b>Duración</b>: [Completar duración] <br/>
             <b>Género</b>: [Completar género] <br/>
             <b>Edad</b>: [Completar edad] <br/>
@@ -148,8 +148,8 @@ A continuación, se presentan los cuadros de registro para las entrevistas de va
             <img src="../../assets/images/chapter-5/validation-interview-2.png" width="180">
         </td>
         <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
+            <b>Entrevistado</b>: Vivian Paredes <br/>
+            <b>Entrevistador</b>: Josep Melgarejo <br/>
             <b>Duración</b>: [Completar duración] <br/>
             <b>Género</b>: [Completar género] <br/>
             <b>Edad</b>: [Completar edad] <br/>
