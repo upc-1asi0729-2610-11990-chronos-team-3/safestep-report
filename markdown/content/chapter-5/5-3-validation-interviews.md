@@ -439,52 +439,11 @@ Agregaría más simulaciones sobre emergencias comunes en el hogar y el vecindar
     </tr>
 </table>
 
-<table align="center">
-    <tr>
-        <td colspan="2" align="center">
-            <b>Entrevista de Validación N° 4</b>
-        </td>
-    </tr>
-    <tr>
-        <td width="30%" align="center">
-            <img src="../../assets/images/chapter-5/validation-interview-4.png" width="180">
-        </td>
-        <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
-            <b>Duración</b>: [Completar duración] <br/>
-            <b>Género</b>: [Completar género] <br/>
-            <b>Edad</b>: [Completar edad] <br/>
-            <b>Segmento</b>: [Estudiante universitario / Comunidad vecinal / Brigadista] <br/>
-            <b>Lugar de Residencia</b>: [Completar lugar de residencia] <br/>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            Link de la entrevista: <a href="[Insertar URL de la entrevista]" target="_blank" rel="noopener noreferrer">[Insertar URL de la entrevista]</a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/validation-evidence-4.png">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <b>Transcripción:</b>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            [Completar transcripción de la entrevista de validación N° 4]
-        </td>
-    </tr>
-</table>
 
 <table align="center">
     <tr>
         <td colspan="2" align="center">
-            <b>Entrevista de Validación N° 5</b>
+            <b>Entrevista de Validación N° 4</b>
         </td>
     </tr>
     <tr>
@@ -575,47 +534,6 @@ Agregaría más simulaciones sobre emergencias comunes en el hogar y el vecindar
     </tr>
 </table>
 
-<table align="center">
-    <tr>
-        <td colspan="2" align="center">
-            <b>Entrevista de Validación N° 6</b>
-        </td>
-    </tr>
-    <tr>
-        <td width="30%" align="center">
-            <img src="../../assets/images/chapter-5/validation-interview-6.png" width="180">
-        </td>
-        <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
-            <b>Duración</b>: [Completar duración] <br/>
-            <b>Género</b>: [Completar género] <br/>
-            <b>Edad</b>: [Completar edad] <br/>
-            <b>Segmento</b>: [Estudiante universitario / Comunidad vecinal / Brigadista] <br/>
-            <b>Lugar de Residencia</b>: [Completar lugar de residencia] <br/>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            Link de la entrevista: <a href="[Insertar URL de la entrevista]" target="_blank" rel="noopener noreferrer">[Insertar URL de la entrevista]</a>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/validation-evidence-6.png">
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2" align="center">
-            <b>Transcripción:</b>
-        </td>
-    </tr>
-    <tr>
-        <td colspan="2">
-            [Completar transcripción de la entrevista de validación N° 6]
-        </td>
-    </tr>
-</table>
 
 ## 5.3.3. Evaluaciones según heurísticas
 
