@@ -545,6 +545,112 @@ Mejoraría la duración de las simulaciones. Con un poco más de tiempo, sin exa
 </table>
 
 
-## 5.3.3. Evaluaciones según heurísticas
+## 5.3.3. Análisis de entrevistas
 
-Esta sección será completada después de registrar las seis entrevistas de validación. El análisis considerará las respuestas obtenidas sobre claridad, utilidad, confianza, facilidad de navegación, comprensión de las simulaciones, motivación por gamificación y percepción de la tienda de productos de emergencia.
+El presente análisis se realizó a partir de las cuatro entrevistas de validación registradas hasta el momento. La muestra considerada está compuesta por dos participantes del segmento comunidad vecinal, una participante del segmento estudiantes universitarios y un participante del segmento brigadistas. Debido a que aún no se cuenta con las seis entrevistas completas, los porcentajes presentados corresponden únicamente a esta muestra parcial de cuatro entrevistados.
+
+### Distribución de entrevistados por segmento
+
+| Segmento objetivo | Cantidad de entrevistados | Porcentaje de la muestra |
+| --- | ---: | ---: |
+| Comunidad vecinal | 2 | 50% |
+| Estudiantes universitarios | 1 | 25% |
+| Brigadistas | 1 | 25% |
+| **Total** | **4** | **100%** |
+
+### Hallazgos generales de la muestra
+
+| Característica identificada | Entrevistas relacionadas | Frecuencia | Porcentaje |
+| --- | --- | ---: | ---: |
+| Primera impresión positiva del producto | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Comprensión clara de que SafeStep enseña primeros auxilios mediante simulaciones | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Percepción positiva de la landing page como clara y fácil de entender | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Identificación clara de botones o llamados a la acción | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Confianza inicial para probar la aplicación | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Navegación percibida como sencilla | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Secciones principales identificadas rápidamente | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Organización de información percibida como ordenada | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Simulaciones médicas consideradas como la funcionalidad más útil | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Retroalimentación de las simulaciones considerada útil para aprender | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Gamificación considerada motivadora | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Tienda de emergencia considerada útil y relacionada con el propósito de SafeStep | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Intención de uso de SafeStep | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Intención de recomendar SafeStep | Entrevistas 1, 2, 3 y 4 | 4 de 4 | 100% |
+| Necesidad de explicar mejor monedas, recompensas o progreso inicial | Entrevistas 1, 2 y 3 | 3 de 4 | 75% |
+| Necesidad de ampliar o mejorar las simulaciones | Entrevistas 3 y 4 | 2 de 4 | 50% |
+| Necesidad de mayor respaldo, referencias o elementos de confianza | Entrevista 1 | 1 de 4 | 25% |
+
+En términos generales, los entrevistados mostraron una aceptación alta hacia la propuesta de SafeStep. El 100% de la muestra comprendió que el producto busca enseñar primeros auxilios mediante una experiencia práctica, y también el 100% identificó las simulaciones médicas como la funcionalidad más útil. Esto evidencia que el valor principal del producto fue entendido correctamente por los usuarios después de revisar la landing page y la aplicación web.
+
+Respecto a la facilidad de uso, el 100% de los entrevistados señaló que la landing page era clara, que los botones principales eran fáciles de identificar y que la navegación dentro de la aplicación resultaba sencilla. Sin embargo, el 75% mencionó que la sección de recompensas, monedas o progreso podría explicarse mejor al inicio. Este hallazgo no representa un rechazo a la gamificación, ya que el 100% indicó que las misiones, insignias, puntos o monedas sí motivarían a seguir usando la aplicación. Más bien, evidencia la necesidad de una introducción inicial o guía breve para comprender mejor el sistema de progreso.
+
+En cuanto a la percepción de utilidad, el 100% afirmó que usaría SafeStep para aprender o practicar primeros auxilios y que recomendaría el producto a otras personas. Además, las calificaciones otorgadas se ubicaron entre 4 y 5 puntos sobre 5, con un promedio aproximado de 4.4/5 considerando las respuestas disponibles sobre facilidad, utilidad y confianza. Esto refleja una valoración positiva del producto, aunque con oportunidades de mejora relacionadas con explicaciones iniciales, respaldo de confianza y ampliación de escenarios de simulación.
+
+### Análisis del segmento comunidad vecinal
+
+El segmento comunidad vecinal está representado por dos entrevistas, correspondientes a Luciana Celeste Sánchez Silva y Rodrigo Andrés Gonzales Portugal. Este grupo representa el 50% de la muestra analizada.
+
+| Característica del segmento | Evidencia en entrevistas | Frecuencia | Porcentaje dentro del segmento |
+| --- | --- | ---: | ---: |
+| Interés por aprender primeros auxilios para contextos cotidianos, familiares o comunitarios | Entrevistas 1 y 3 | 2 de 2 | 100% |
+| Valoración de las simulaciones como funcionalidad principal | Entrevistas 1 y 3 | 2 de 2 | 100% |
+| Percepción de la tienda como apoyo para preparar el hogar o la comunidad | Entrevistas 1 y 3 | 2 de 2 | 100% |
+| Necesidad de explicar mejor recompensas, monedas o progreso | Entrevistas 1 y 3 | 2 de 2 | 100% |
+| Interés por más simulaciones de emergencias comunes | Entrevista 3 | 1 de 2 | 50% |
+| Solicitud de mayor respaldo o referencias de confianza | Entrevista 1 | 1 de 2 | 50% |
+
+En este segmento, los entrevistados percibieron SafeStep como una herramienta útil para situaciones del entorno familiar, vecinal y cotidiano. Luciana indicó que la aplicación permite prepararse mejor ante emergencias y destacó que los productos de la tienda podrían ser útiles en casa, universidad o trabajo. Rodrigo, por su parte, relacionó el uso de SafeStep con emergencias comunes en el hogar y el vecindario, mencionando caídas, quemaduras, atragantamientos y sismos como posibles casos a incluir.
+
+La característica objetiva más relevante del segmento es que el 100% identificó las simulaciones como la funcionalidad más útil. Esto muestra que, para usuarios de comunidades vecinales, el aprendizaje práctico tiene mayor valor que una explicación solamente teórica. La característica subjetiva más repetida es la necesidad de sentirse acompañados durante el uso inicial de la aplicación: el 100% sugirió explicar mejor el funcionamiento de recompensas, monedas o progreso, lo cual indica que este segmento valora la claridad y la orientación paso a paso.
+
+Para la construcción del arquetipo de comunidad vecinal, estas respuestas sugieren un usuario que busca aprender de forma práctica, necesita confianza y claridad, y espera que la aplicación le ayude a actuar mejor en emergencias cercanas a su vida diaria. También se evidencia interés por contar con productos o kits que complementen el aprendizaje.
+
+### Análisis del segmento estudiantes universitarios
+
+El segmento estudiantes universitarios está representado por una entrevista, correspondiente a Vivian Paredes. Este grupo representa el 25% de la muestra analizada.
+
+| Característica del segmento | Evidencia en entrevista | Frecuencia | Porcentaje dentro del segmento |
+| --- | --- | ---: | ---: |
+| Percepción de SafeStep como aplicación seria, ordenada y útil | Entrevista 2 | 1 de 1 | 100% |
+| Comprensión de la propuesta: simulaciones, progreso y productos de emergencia | Entrevista 2 | 1 de 1 | 100% |
+| Valoración de las simulaciones como forma práctica de aprendizaje | Entrevista 2 | 1 de 1 | 100% |
+| Motivación por gamificación para seguir practicando | Entrevista 2 | 1 de 1 | 100% |
+| Necesidad de una guía inicial para monedas, misiones y recompensas | Entrevista 2 | 1 de 1 | 100% |
+| Intención de recomendar el producto a familiares, amigos o estudiantes | Entrevista 2 | 1 de 1 | 100% |
+
+La entrevistada universitaria señaló que SafeStep se percibe como una aplicación seria, ordenada y útil, especialmente por abordar un tema importante como los primeros auxilios. También comprendió que la plataforma permite aprender mediante simulaciones, ejercicios prácticos, seguimiento del progreso y recomendaciones de productos de emergencia.
+
+La característica objetiva principal de este segmento es la valoración del aprendizaje práctico: el 100% de las entrevistadas de este segmento indicó que las simulaciones ayudan a recordar mejor qué hacer en una emergencia. Además, la gamificación fue percibida como un elemento positivo, porque hace que el aprendizaje sea más dinámico y genera motivación para seguir practicando.
+
+Como característica subjetiva, se identificó la necesidad de una explicación inicial sobre monedas, misiones y recompensas. Esto indica que, aunque la estudiante valora la gamificación, necesita comprender rápidamente sus reglas para aprovecharla desde el primer uso. Para la construcción del arquetipo de estudiantes universitarios, se puede considerar un usuario que valora la practicidad, la organización visual, el aprendizaje rápido y la posibilidad de practicar de forma interactiva sin depender únicamente de teoría.
+
+### Análisis del segmento brigadistas
+
+El segmento brigadistas está representado por una entrevista, correspondiente a Juan Miguel Barrios Casanova. Este grupo representa el 25% de la muestra analizada.
+
+| Característica del segmento | Evidencia en entrevista | Frecuencia | Porcentaje dentro del segmento |
+| --- | --- | ---: | ---: |
+| Percepción de SafeStep como propuesta innovadora para enseñar primeros auxilios | Entrevista 4 | 1 de 1 | 100% |
+| Valoración positiva de la claridad de la landing page y la aplicación | Entrevista 4 | 1 de 1 | 100% |
+| Reconocimiento de la utilidad de las simulaciones y sus temas | Entrevista 4 | 1 de 1 | 100% |
+| Valoración de la retroalimentación como apoyo para comprender el tema | Entrevista 4 | 1 de 1 | 100% |
+| Percepción de gamificación como mecanismo para mantener usuarios enganchados | Entrevista 4 | 1 de 1 | 100% |
+| Recomendación de ampliar la duración o detalle de las simulaciones | Entrevista 4 | 1 de 1 | 100% |
+
+El entrevistado del segmento brigadistas mostró una percepción especialmente positiva hacia SafeStep, calificándolo como un proyecto innovador y una forma interesante de enseñar primeros auxilios. A diferencia de los segmentos con menor especialización, el brigadista puso énfasis en que los temas de las simulaciones estaban bien centrados en lo que una persona necesita aprender para realizar primeros auxilios.
+
+La característica objetiva más importante del segmento es la validación técnica de las simulaciones: el 100% de los brigadistas entrevistados consideró que las preguntas, opciones y retroalimentación estaban bien planteadas. Esto aporta valor al producto porque proviene de una persona vinculada directamente con primeros auxilios y atención de emergencias.
+
+Como característica subjetiva, el entrevistado sugirió mejorar la duración de las simulaciones para abarcar detalles adicionales. Esto indica que el segmento brigadista puede tener expectativas más altas respecto a profundidad, precisión y cobertura de contenido. Para la construcción del arquetipo de brigadista, se debe considerar un usuario con mayor conocimiento previo, que valora la claridad y la utilidad práctica, pero que también espera más detalle en los escenarios de entrenamiento.
+
+### Características relevantes para la construcción de arquetipos
+
+Con base en las cuatro entrevistas registradas, se identifican las siguientes características comunes y diferenciales para los arquetipos:
+
+| Segmento | Características objetivas | Características subjetivas | Implicancia para el arquetipo |
+| --- | --- | --- | --- |
+| Comunidad vecinal | 100% valora simulaciones, tienda y aprendizaje práctico para emergencias cotidianas. | 100% necesita mayor explicación de recompensas/progreso; 50% pide más casos del hogar o vecindario. | Usuario preventivo, familiar o vecinal, que busca saber cómo actuar ante situaciones comunes y necesita orientación clara. |
+| Estudiantes universitarios | 100% comprende la propuesta, valora navegación, simulaciones y gamificación. | 100% desea una guía inicial para entender monedas, misiones y recompensas. | Usuario joven, práctico y digital, motivado por progreso visible y aprendizaje interactivo. |
+| Brigadistas | 100% valida la utilidad de simulaciones, preguntas, opciones y retroalimentación. | 100% espera simulaciones con mayor duración o detalle técnico. | Usuario con experiencia previa, interesado en contenido preciso, entrenamiento más completo y utilidad real en emergencias. |
+
+En conclusión, SafeStep fue validado positivamente por los tres segmentos representados en las entrevistas. La propuesta resulta clara, útil y confiable para usuarios con distintos niveles de conocimiento en primeros auxilios. Las simulaciones médicas son el elemento central de valor para el 100% de la muestra, mientras que la gamificación y la tienda funcionan como complementos relevantes. Las principales oportunidades de mejora son incorporar una explicación inicial sobre monedas, recompensas y progreso, ampliar la variedad o duración de las simulaciones y reforzar la confianza mediante referencias, respaldo o información adicional.
