@@ -347,7 +347,7 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td width="30%" align="center">
-            <img src="../../assets/images/chapter-5/validation-interview-3.png" width="180">
+            <img src="../../assets/images/chapter-5/validation-entrevista-rodrigo.png" width="180">
         </td>
         <td width="70%">
             <b>Entrevistado</b>: Rodrigo Andres Gonzales Portugal <br/>
@@ -366,7 +366,7 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/validation-evidence-3.png">
+            <img src="../../assets/images/chapter-5/validation-entrevista-rodrigo2.png">
         </td>
     </tr>
     <tr>
@@ -376,7 +376,65 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2">
-            [Completar transcripción de la entrevista de validación N° 3]
+<b>1. ¿Cuál fue tu primera impresión al ver SafeStep?</b><br/>
+Mi primera impresión fue positiva. Me pareció una aplicación moderna, amigable y enfocada en un tema importante para cualquier familia o comunidad, como saber actuar correctamente durante una emergencia.
+
+<b>2. ¿Qué entendiste que ofrece SafeStep?</b><br/>
+Entendí que SafeStep ayuda a aprender y practicar primeros auxilios mediante simulaciones, preguntas y actividades. También ofrece misiones, recompensas y una tienda con productos para emergencias.
+
+<b>3. ¿La landing page te pareció clara y fácil de entender?</b><br/>
+Sí, me pareció bastante clara. Desde el inicio pude entender que la aplicación busca preparar a las personas para responder mejor ante accidentes o emergencias cotidianas.
+
+<b>4. ¿Los botones o llamados a la acción fueron fáciles de identificar?</b><br/>
+Sí, los botones se distinguen bien y tienen textos comprensibles. En general, pude saber dónde debía hacer clic para registrarme, ingresar o conocer mejor las funciones.
+
+<b>5. ¿La landing page te transmitió confianza para probar la aplicación?</b><br/>
+Sí, porque tiene una presentación ordenada y profesional. Además, el tema que aborda es útil para la comunidad y eso genera interés por conocer lo que ofrece.
+
+<b>6. ¿Te resultó fácil navegar dentro de la aplicación web?</b><br/>
+En general, sí. Las opciones principales están visibles y pude pasar de una sección a otra sin perderme, aunque al inicio necesité unos minutos para familiarizarme.
+
+<b>7. ¿Pudiste identificar rápidamente las secciones principales?</b><br/>
+Sí, pude reconocer las simulaciones, misiones, recompensas, estadísticas y la tienda. Los nombres de las secciones ayudan a entender qué se puede hacer en cada una.
+
+<b>8. ¿La organización de la información te pareció ordenada?</b><br/>
+Sí, la información está distribuida de una forma bastante ordenada. No sentí que hubiera demasiado contenido junto y pude concentrarme en cada función.
+
+<b>9. ¿Hubo alguna pantalla o sección que te pareciera confusa?</b><br/>
+Algunas partes relacionadas con los puntos, monedas y recompensas podrían explicarse un poco mejor. Sería útil indicar desde el comienzo cómo se consiguen y para qué sirven.
+
+<b>10. ¿Qué funcionalidad te pareció más útil?</b><br/>
+Las simulaciones médicas me parecieron lo más útil, porque permiten enfrentarse a una situación parecida a una emergencia y pensar qué acción debería realizarse.
+
+<b>11. ¿Las simulaciones médicas te parecieron útiles?</b><br/>
+Sí, porque ayudan a aprender primeros auxilios de una manera más práctica que solamente leyendo información. También permiten comprobar si realmente entendimos qué hacer.
+
+<b>12. ¿Las preguntas y opciones de las simulaciones fueron claras?</b><br/>
+En general, sí. Las preguntas fueron fáciles de comprender y las opciones estaban relacionadas con la situación presentada, aunque algunas podrían incluir palabras más sencillas.
+
+<b>13. ¿La retroalimentación te ayudó a entender mejor qué hacer?</b><br/>
+Sí, especialmente cuando una respuesta era incorrecta. La explicación permite comprender el error y recordar cuál sería la acción adecuada en una emergencia real.
+
+<b>14. ¿Las misiones, insignias, puntos o monedas te motivarían?</b><br/>
+Sí, porque hacen que el aprendizaje sea más entretenido y permiten ver el progreso. Creo que completar misiones también podría motivar a jóvenes y familias de la comunidad.
+
+<b>15. ¿La tienda de productos de emergencia te pareció útil?</b><br/>
+Sí, porque permite conocer productos que podrían ser necesarios en casa, como botiquines o kits de emergencia. Algunos vecinos quizá no sabemos qué elementos deberíamos tener preparados.
+
+<b>16. ¿Los productos y kits se relacionan con SafeStep?</b><br/>
+Sí, porque complementan lo aprendido en las simulaciones. La aplicación enseña cómo actuar y la tienda muestra algunos recursos que podrían ayudar en esas situaciones.
+
+<b>17. ¿Usarías SafeStep para aprender o practicar primeros auxilios?</b><br/>
+Sí, la usaría porque en una emergencia muchas veces uno no sabe cómo reaccionar. Practicar con anticipación podría ayudarme a mantener la calma y apoyar a un familiar o vecino.
+
+<b>18. ¿Recomendarías SafeStep a otra persona?</b><br/>
+Sí, especialmente a familiares, vecinos y jóvenes. Considero que aprender primeros auxilios es importante y la aplicación presenta el tema de una manera accesible y entretenida.
+
+<b>19. Del 1 al 5, ¿qué tan fácil, útil y confiable te pareció?</b><br/>
+Le daría un 4 de 5. Me pareció fácil de utilizar, útil para aprender y bastante confiable, aunque todavía podría mejorar algunas explicaciones y agregar más situaciones.
+
+<b>20. ¿Qué cambiarías o mejorarías?</b><br/>
+Agregaría más simulaciones sobre emergencias comunes en el hogar y el vecindario, como caídas, quemaduras, atragantamientos o sismos. También incluiría instrucciones breves con imágenes o videos.
         </td>
     </tr>
 </table>
