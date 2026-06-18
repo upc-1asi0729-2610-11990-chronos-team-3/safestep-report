@@ -806,7 +806,7 @@ https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
 
 **Referencia de Swagger desplegado:**
 
-[Insertar URL de Swagger UI]
+https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -867,9 +867,13 @@ En esta seccion se incluye la relacion de endpoints documentados con OpenAPI, re
 
 La documentacion de servicios permite que los integrantes del equipo frontend y backend comprendan la sintaxis de cada llamada, los metodos HTTP disponibles, los parametros requeridos y el tipo de respuesta esperada. La URL de Swagger utilizada durante el Sprint fue:
 
-**Swagger UI:** [Insertar URL de Swagger UI desplegado]
+**Swagger UI:** 
 
-**OpenAPI JSON:** [Insertar URL de OpenAPI JSON desplegado]
+https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+
+**OpenAPI JSON:** 
+
+https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
 
 
 | Bounded Context | Endpoint | Metodo | Descripcion | Parametros | Ejemplo Response |
@@ -1061,7 +1065,7 @@ El equipo verifico los endpoints principales utilizando Swagger UI y peticiones 
 | Backend Spring Boot | Local environment | http://localhost:8092 |
 | Swagger UI | Local environment | http://localhost:8092/swagger-ui/index.html |
 | OpenAPI JSON | Local environment | http://localhost:8092/v3/api-docs |
-| Backend desplegado | [Insertar plataforma] | [Insertar URL del backend desplegado] |
+| Backend desplegado | https://render.com/ | https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html |
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
