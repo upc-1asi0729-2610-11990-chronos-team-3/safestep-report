@@ -350,13 +350,13 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
             <img src="../../assets/images/chapter-5/validation-interview-3.png" width="180">
         </td>
         <td width="70%">
-            <b>Entrevistado</b>: [Completar nombre del entrevistado] <br/>
-            <b>Entrevistador</b>: [Completar nombre del entrevistador] <br/>
-            <b>Duración</b>: [Completar duración] <br/>
-            <b>Género</b>: [Completar género] <br/>
-            <b>Edad</b>: [Completar edad] <br/>
-            <b>Segmento</b>: [Estudiante universitario / Comunidad vecinal / Brigadista] <br/>
-            <b>Lugar de Residencia</b>: [Completar lugar de residencia] <br/>
+            <b>Entrevistado</b>: Rodrigo Andres Gonzales Portugal <br/>
+            <b>Entrevistador</b>: Angel Thyago Flores Eusebio <br/>
+            <b>Duración</b>: 6:24 <br/>
+            <b>Género</b>: Masculino <br/>
+            <b>Edad</b>: 20 <br/>
+            <b>Segmento</b>: Comunidad vecinal <br/>
+            <b>Lugar de Residencia</b>: Lima <br/>
         </td>
     </tr>
     <tr>
