@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -671,3 +671,5 @@ Los User Flows de SafeStep consideran:
 - Similar estructura de flows
 - Patrones familiares
 - Terminología consistente
+
+

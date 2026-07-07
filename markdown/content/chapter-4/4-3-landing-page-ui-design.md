@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -472,3 +472,5 @@ El mock-up aplica diseño responsivo a través de:
 - srcset para diferentes anchos
 - Lazy loading en imágenes below fold
 - Placeholder durante carga
+
+

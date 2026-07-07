@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -117,7 +117,7 @@ A continuación, se presentan los cuadros de registro para las entrevistas de va
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte" target="_blank" rel="noopener noreferrer">Entrevista a luciana</a>
+            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte
         </td>
     </tr>
     <tr>
@@ -238,7 +238,7 @@ Agregaría una sección inicial de explicación rápida, como un pequeño tutori
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee" target="_blank" rel="noopener noreferrer">Entrevista a Vivian</a>
+            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee
         </td>
     </tr>
     <tr>
@@ -361,7 +361,7 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss" target="_blank" rel="noopener noreferrer">[Entrevista a Rodrigo]</a>
+            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss
         </td>
     </tr>
     <tr>
@@ -462,7 +462,7 @@ Agregaría más simulaciones sobre emergencias comunes en el hogar y el vecindar
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9" target="_blank" rel="noopener noreferrer">Entrevista de Validación 5</a>
+            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9
         </td>
     </tr>
     <tr>
@@ -685,3 +685,5 @@ Mostrar recomendaciones contextualizadas después de completar simulaciones, ind
 La evaluación heurística evidencia que SafeStep presenta una experiencia clara, útil y comprensible para los usuarios entrevistados. Las principales tareas, como comprender la propuesta, navegar por la aplicación, resolver simulaciones, revisar progreso y explorar la tienda, pudieron ser entendidas sin bloqueos críticos. No se identificaron problemas de severidad 3 o 4.
 
 Las oportunidades de mejora se concentran en fortalecer la explicación inicial del sistema de gamificación, ampliar la profundidad de las simulaciones para usuarios con mayor experiencia, reforzar la confianza del contenido médico, simplificar ciertos textos y conectar mejor las recomendaciones de productos con los escenarios de aprendizaje. Estos ajustes permitirán mejorar la usabilidad, la arquitectura de información y la inclusión de la experiencia propuesta.
+
+

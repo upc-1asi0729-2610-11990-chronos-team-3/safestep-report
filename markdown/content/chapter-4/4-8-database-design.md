@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -31,4 +31,6 @@ Maneja el flujo de conversión, desde el carrito de compras persistente, validac
 **link del diagrama de base de datos para una mejor vista**
 
 https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476
+
+
 

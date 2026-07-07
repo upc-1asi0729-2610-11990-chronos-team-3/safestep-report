@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -683,3 +683,5 @@ SafeStep proporciona feedback claro durante la navegación.
 - Spinners para acciones cortas.
 - Progress bars para descargas/cargas largas.
 - Niveles de progreso en contenido sequential.
+
+

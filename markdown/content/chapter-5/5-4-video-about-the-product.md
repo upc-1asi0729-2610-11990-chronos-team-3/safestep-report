@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -51,3 +51,5 @@ Este testimonio refuerza que SafeStep responde a una necesidad identificada en l
 **Resumen del valor comunicado:**
 
 El video concluye destacando que SafeStep busca mejorar la preparación de las personas ante emergencias mediante una experiencia digital completa. Para ello, conecta una landing page informativa, una aplicación web con simulaciones, progreso, gamificación y tienda, además de un backend real que permite gestionar autenticación, datos de usuario, pagos y persistencia. De esta manera, SafeStep aporta valor al convertir el aprendizaje de primeros auxilios en una experiencia práctica, motivadora y orientada a la acción.
+
+

@@ -1,4 +1,4 @@
-# Project Report Collaboration Insights
+﻿# Project Report Collaboration Insights
 
 **Nombre de la organización**: Chronos
 
@@ -37,3 +37,5 @@ En esta sección se hizo el avance de las 5 secciones importantes del informe do
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
+
+

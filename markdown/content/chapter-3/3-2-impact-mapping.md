@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -21,3 +21,5 @@ Este impact mapping representa el resumen de todo lo obtenido por las historias 
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
+
+

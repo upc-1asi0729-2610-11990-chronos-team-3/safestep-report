@@ -890,3 +890,4 @@ Todos los miembros del equipo participaron activamente en la implementación del
 
 5. **GitHub Pages simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
 
+

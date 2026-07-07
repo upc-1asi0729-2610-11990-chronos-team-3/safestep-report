@@ -1168,3 +1168,4 @@ Durante este Sprint, el equipo realizo revisiones internas de estructura para as
 5. **La consistencia de nombres ayuda a evitar errores:** Mantener convenciones similares en commands, queries, resources, controllers y services hizo que el equipo pudiera moverse entre bounded contexts con menor dificultad.
 
 
+

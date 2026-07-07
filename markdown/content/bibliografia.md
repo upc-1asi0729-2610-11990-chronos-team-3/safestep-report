@@ -1,4 +1,4 @@
-# Bibliografía
+﻿# Bibliografía
 
 Caicedo Vega, J. L., & Zumbado Fernández, H. M. (2023). *Conocimiento sobre primeros auxilios en docentes de educación básica de la ciudad de Portoviejo, Ecuador*. Revista Eugenio Espejo, 17(2), 22-32. https://www.redalyc.org/journal/5728/572874846004/html/ 
 
@@ -23,3 +23,5 @@ Ramírez-Torres, C. A., Andrade-Gómez, E., Lozano-Ochoa, C., Caparrós-Civera, 
 Rodríguez-García, A., Ruiz-García, G., Navarro-Patón, R., & Mecías-Calvo, M. (2024). Attitudes and Skills in Basic Life Support after Two Types of Training: Traditional vs. Gamification, of Compulsory Secondary Education Students: A Simulation Study. *Pediatric Reports*, 16(3), 631–643. https://doi.org/10.3390/pediatric16030053
 
 White, L. (2024). First Aid Training and CPR Skills Retention (Informe de investigación). *CSA Group*. https://www.csagroup.org/wp-content/uploads/CSA-Group-Research-First-Aid-Training-and-CPR-Skill-Retention.pdf 
+
+

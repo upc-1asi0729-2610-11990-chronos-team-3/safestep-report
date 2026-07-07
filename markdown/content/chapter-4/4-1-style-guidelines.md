@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -454,3 +454,5 @@ Las animaciones de SafeStep mejoran la experiencia sin distraer mucho:
 - Transiciones de color suave
 - Efectos de presión (escala reducida) en buttons
 - Pull-to-refresh en mobile
+
+

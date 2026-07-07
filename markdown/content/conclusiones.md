@@ -1,4 +1,4 @@
-# Conclusiones del Avance 1
+﻿# Conclusiones del Avance 1
 
 El Avance 1 del proyecto SafeStep ha permitido establecer las bases fundamentales de la startup, consolidando un equipo multidisciplinario de cinco estudiantes de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Cada integrante aportó conocimientos especializados en frontend, backend, diseño UI/UX y bases de datos, logrando una integración sinergética de competencias para abordar el desarrollo de la plataforma educativa.
 
@@ -9,3 +9,5 @@ El diseño del Solution Profile estableció un modelo de negocio innovador que c
 Se establecieron las técnicas de Lean UX Process para validar las hipótesis del proyecto, incluyendo declaraciones de problema, supuestos de usuario, declaraciones de necesidad y hipótesis verificables. Estas bases metodológicas permitirán guiar el desarrollo iterativo del producto mediante retroalimentación constante de los usuarios objetivo.
 
 Para el Avance 2, el equipo deberá enfocarse en profundizar el proceso de elicitación de requisitos mediante entrevistas y needfinding con los segmentos objetivo, desarrollar el primer prototipo funcional de la plataforma con escenarios básicos de simulación, y validar la arquitectura de información diseñada. El objetivo es contar con un MVP que permita iniciar pruebas de usabilidad con usuarios representativos.
+
+

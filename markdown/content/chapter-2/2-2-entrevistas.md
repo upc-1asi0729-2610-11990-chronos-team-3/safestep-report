@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -89,7 +89,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/DEq_rtuM_Ng" target="_blank" rel="noopener noreferrer">https://youtu.be/DEq_rtuM_Ng</a>
+            Link de la entrevista: https://youtu.be/DEq_rtuM_Ng
         </td>
     </tr>
     <tr>
@@ -168,7 +168,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://www.youtube.com/watch?v=5td3gHjUBVw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=5td3gHjUBVw</a>
+            Link de la entrevista: https://www.youtube.com/watch?v=5td3gHjUBVw
         </td>
     </tr>
     <tr>
@@ -247,7 +247,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/N1L3TChMK6w" target="_blank" rel="noopener noreferrer">https://youtu.be/N1L3TChMK6w</a>
+            Link de la entrevista: https://youtu.be/N1L3TChMK6w
         </td>
     </tr>
     <tr>
@@ -326,7 +326,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/qjcDbt8-Obk" target="_blank" rel="noopener noreferrer">https://youtu.be/N1L3TChMK6w</a>
+            Link de la entrevista: https://youtu.be/qjcDbt8-Obk
         </td>
     </tr>
     <tr>
@@ -405,7 +405,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/r7HQDIlXcsA" target="_blank" rel="noopener noreferrer">https://youtu.be/r7HQDIlXcsA</a>
+            Link de la entrevista: https://youtu.be/r7HQDIlXcsA
         </td>
     </tr>
     <tr>
@@ -487,7 +487,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/tcYkW5-9Oh" target="_blank" rel="noopener noreferrer">https://youtu.be/tcYkW5-9Oh</a>
+            Link de la entrevista: https://youtu.be/tcYkW5-9Oh
         </td>
     </tr>
     <tr>
@@ -569,7 +569,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Click aquí</a>
+            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
         </td>
     </tr>
     <tr>
@@ -651,7 +651,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Click aquí</a>
+            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
         </td>
     </tr>
     <tr>
@@ -736,7 +736,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/lpGebdtVGkM" target="_blank" rel="noopener noreferrer">https://youtu.be/lpGebdtVGkM</a>
+            Link de la entrevista: https://youtu.be/lpGebdtVGkM
         </td>
     </tr>
     <tr>
@@ -821,7 +821,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/itTG0QX_dkg" target="_blank" rel="noopener noreferrer"> https://youtu.be/itTG0QX_dkg </a>
+            Link de la entrevista: https://youtu.be/itTG0QX_dkg
         </td>
     </tr>
     <tr>
@@ -974,3 +974,5 @@ Se realizaron 10 entrevistas semiestructuradas distribuidas en tres segmentos ob
 - **Elemento más valorado en una app**: simulaciones realistas y certificación oficial.
 - **Disposición de pago**: alta, con expectativa de S/20-50 mensual o S/50-100 por curso.
 - **Instituciones de respaldo requeridas**: MINSA, Cruz Roja, AHA, Defensa Civil (mencionadas por 100%).
+
+

@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -31,3 +31,5 @@ Es el lenguaje común compartido entre desarrolladores y expertos del negocio qu
 | Ventanilla única | Canal centralizado de atención donde el alumno puede resolver incidencias técnicas o administrativas. |
 <br>
 <br>
+
+

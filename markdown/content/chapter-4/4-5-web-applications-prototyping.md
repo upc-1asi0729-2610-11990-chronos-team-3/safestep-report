@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -624,3 +624,5 @@ El prototipo cumple con:
 - Responsive adaptation
 - Transiciones suaves 60fps
 - Loading states apropiados
+
+

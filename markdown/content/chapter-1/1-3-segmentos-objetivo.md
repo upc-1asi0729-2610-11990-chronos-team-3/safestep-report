@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 <br>
 
 <div align="center">
@@ -115,3 +115,5 @@ La reposición de productos es frecuente en este segmento debido al alto uso: ve
 | Brigadistas | Alto (S/ 200-1000+) | Equipos profesionales, kits de respuesta | Mensual (suscripción) |
 
 La integración de la tienda virtual con la plataforma de aprendizaje crea una propuesta de valor única donde cada segmento puede aprender los procedimientos correctos y simultáneamente adquirir los productos necesarios para aplicarlos, generando una experiencia completa de preparación ante emergencias.
+
+
