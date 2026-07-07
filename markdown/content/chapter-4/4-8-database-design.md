@@ -27,39 +27,41 @@ El siguiente Diagrama Entidad-Relación (ERD) representa la estructura de datos 
     <img src="../../assets/images/chapter-4/diagrama-basedatos-analytics_1.png" alt="Diagrama de base de datos (Analytics BC)" />
 </div>
 
-**Diagrama ERD Analytics**
+<p align="center"><strong>Diagrama ERD Analytics</strong></p>
 
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-basedatos-ecommerce.png" alt="Diagrama de base de datos (Ecommerce BC)" />
 </div>
 
-**Diagrama ERD Ecommerce**
+<p align="center"><strong>Diagrama ERD Ecommerce</strong></p>
+
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-basedatos-gamification.png" alt="Diagrama de base de datos (Gamification BC)" />
 </div>
 
-**Diagrama ERD Gamification**
+<p align="center"><strong>Diagrama ERD Gamification</strong></p>
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-basedatos-iam.png" alt="Diagrama de base de datos (IAM BC)" />
 </div>
 
-**Diagrama ERD IAM**
-
+<p align="center"><strong>Diagrama ERD IAM</strong></p>
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-basedatos-profiles.png" alt="Diagrama de base de datos (Profiles BC)" />
 </div>
 
-**Diagrama ERD Profiles**
+<p align="center"><strong>Diagrama ERD Profiles</strong></p>
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-basedatos-simulation.png" alt="Diagrama de base de datos (Simulation BC)" />
 </div>
 
-**Diagrama ERD Simulation**
+<p align="center"><strong>Diagrama ERD Simulation</strong></p>
+
+
 
 
 
