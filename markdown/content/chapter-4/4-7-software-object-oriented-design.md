@@ -42,6 +42,9 @@ En esta sección, se presenta el diseño orientado a objetos del software SafeSt
     <img src="../../assets/images/chapter-4/diagrama-clases-simulation.svg" alt="Diagrama de clases (Simulation BC)" />
 </div>
 
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-clases-shared.svg" alt="Diagrama de clases (Shared BC)" />
+</div>
 
 
 
