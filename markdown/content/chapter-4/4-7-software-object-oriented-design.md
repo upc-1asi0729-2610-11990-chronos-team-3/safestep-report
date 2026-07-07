@@ -15,13 +15,32 @@ En esta sección, se presenta el diseño orientado a objetos del software SafeSt
 ## 4.7.1. Class Diagrams
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagram-class-safestep.svg" alt="Diagrama de clases SafeStep" />
+    <img src="../../assets/images/chapter-4/diagrama-clases-completo.svg" alt="Diagrama de clases SafeStep" />
 </div>
 
 **link del miro para una mejor vista** 
 
 <a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
 
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-clases-analytics.svg" alt="Diagrama de clases (Analytics BC)" />
+</div>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-clases-ecommerce.svg" alt="Diagrama de clases (Ecommerce BC)" />
+</div>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-clases-gamification.svg" alt="Diagrama de clases (Gamification BC)" />
+</div>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-clases-iam.svg" alt="Diagrama de clases (IAM BC)" />
+</div>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-clases-simulation.svg" alt="Diagrama de clases (Simulation BC)" />
+</div>
 
 
 
