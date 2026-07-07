@@ -727,35 +727,6 @@ La base de datos PostgreSQL se configuró en Render y se utilizó desde los arch
 dpg-d8pj85v7f7vs73d1r4i0-a.oregon-postgres.render.com
 ```
 
-<div align="center">
-  <p>
-    <b>Captura:</b> Backend desplegado en Render
-  </p>
-  <img src="../../assets/images/chapter-5/Sprint4BackendDeploy.png" alt="Backend Deploy Sprint 4" width="600" />
-  <p>
-    <i><b>Fuente</b>: Elaboración propia.</i>
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    <b>Captura:</b> Frontend desplegado en GitHub Pages
-  </p>
-  <img src="../../assets/images/chapter-5/Sprint4FrontendDeploy.png" alt="Frontend Deploy Sprint 4" width="600" />
-  <p>
-    <i><b>Fuente</b>: Elaboración propia.</i>
-  </p>
-</div>
-
-<div align="center">
-  <p>
-    <b>Captura:</b> Base de datos PostgreSQL en Render
-  </p>
-  <img src="../../assets/images/chapter-5/Sprint4DatabaseDeploy.png" alt="Database Deploy Sprint 4" width="600" />
-  <p>
-    <i><b>Fuente</b>: Elaboración propia.</i>
-  </p>
-</div>
 
 **Resultado del despliegue:**
 
