@@ -22,6 +22,7 @@ El video muestra cómo SafeStep ayuda a las personas a prepararse frente a emerg
 | Duración | 19:24 minutos |
 | Público objetivo | Estudiantes, familias, comunidades vecinales, brigadistas y usuarios interesados en primeros auxilios |
 | URL publicado en YouTube | <a href="https://youtu.be/-RuGA9r1EsM">https://youtu.be/-RuGA9r1EsM</a> |
+| URL publicado en Microsoft Stream | <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241c030_upc_edu_pe/IQDvVbtNWnjaSbps57LyCEffAaNalKhJfT0l982IFtfNBuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6okM5V">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20241c030_upc_edu_pe/IQDvVbtNWnjaSbps57LyCEffAaNalKhJfT0l982IFtfNBuw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=6okM5V</a> |
 | Uso en landing page | El video puede utilizarse como material explicativo del producto dentro de la landing page o como evidencia de presentación del avance final. |
 
 **Referencia de evidencia visual:**

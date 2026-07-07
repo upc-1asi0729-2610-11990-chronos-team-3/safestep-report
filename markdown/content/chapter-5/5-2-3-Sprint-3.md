@@ -1474,9 +1474,29 @@ Durante este Sprint, el equipo realizó revisiones internas de estructura para a
 
 <div align="center">
   <p>
-    <b>Grafico 1</b>: Analytics Sprint 3 Backend
+    <b>Grafico 1</b>: Analytics Sprint 3 landing pague
   </p>
   <img src="../../assets/images/chapter-5/MetricasCommits.png" alt="Analytics Sprint 3" width="500" />
+  <p>
+    <i><b>Fuente</b>: Elaboracion propia.</i>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <b>Grafico 2</b>: Analytics Sprint 3 frontend
+  </p>
+  <img src="../../assets/images/chapter-5/CommitsSprint4front.png" alt="Analytics Sprint 3" width="500" />
+  <p>
+    <i><b>Fuente</b>: Elaboracion propia.</i>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <b>Grafico 3</b>: Analytics Sprint 3 backend
+  </p>
+  <img src="../../assets/images/chapter-5/CommitsSprint4back.png" alt="Analytics Sprint 3" width="500" />
   <p>
     <i><b>Fuente</b>: Elaboracion propia.</i>
   </p>
