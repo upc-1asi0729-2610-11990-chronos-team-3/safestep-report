@@ -26,25 +26,37 @@ En esta sección, se presenta el diseño orientado a objetos del software SafeSt
     <img src="../../assets/images/chapter-4/diagrama-clases-analytics.svg" alt="Diagrama de clases (Statistics BC)" />
 </div>
 
+<p align="center"><strong>Diagrama Clases Statistics</strong></p>
+
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-clases-ecommerce.svg" alt="Diagrama de clases (Ecommerce BC)" />
 </div>
+
+<p align="center"><strong>Diagrama Clases Ecommerce</strong></p>
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-clases-gamification.svg" alt="Diagrama de clases (Gamification BC)" />
 </div>
 
+<p align="center"><strong>Diagrama Clases Gamification</strong></p>
+
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-clases-iam.svg" alt="Diagrama de clases (IAM BC)" />
 </div>
+
+<p align="center"><strong>Diagrama Clases IAM</strong></p>
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-clases-simulation.svg" alt="Diagrama de clases (Simulation BC)" />
 </div>
 
+<p align="center"><strong>Diagrama Clases Simulation</strong></p>
+
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-clases-shared.svg" alt="Diagrama de clases (Shared BC)" />
 </div>
+
+<p align="center"><strong>Diagrama Clases Shared</strong></p>
 
 
 
