@@ -79,18 +79,7 @@ Ser la plataforma líder en capacitación en primeros auxilios en Latinoamérica
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="30%" align="center">
-      <img src="../../assets/images/chapter-1/integrante-5.png" width="180">
-    </td>
-    <td width="70%">
-      <h3>Desarrollador frontend</h3>
-      <h4>Rodrigo Jesus Miraval Pomalaya ([u202311082])</h4>
-      <p>
-        Soy estudiante de Ingeniería de Software en la UPC. Tengo conocimientos en desarrollo frontend y manejo de bases de datos con SQL Server.
-      </p>
-    </td>
-  </tr>
+
 </table>
 
 
