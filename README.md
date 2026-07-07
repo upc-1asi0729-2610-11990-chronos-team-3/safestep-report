@@ -41,14 +41,13 @@
 - **Ayala Fernandez, Jorge Brayan** — u20241c030
 - **Flores Eusebio, Angel Thyago** — u20231b781
 - **Melgarejo Quiroz Josep Eliu** — u202315165
-- **Miraval Pomalaya, Rodrigo Jesus** — u202311082
 - **Sanchez Espinoza, Mathias Enrique** — u20231c524
 
 <div align="center">
 
 ### **Ciclo Académico**: 2026 - 1
 
-### Abril - 2026
+### Julio - 2026
 
 </div>
 

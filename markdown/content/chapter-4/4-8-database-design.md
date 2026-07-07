@@ -12,25 +12,55 @@
 
 ## 4.8.1. Database Diagrams
 
-El siguiente Diagrama Entidad-Relación (ERD) representa la estructura de datos fundamental que soporta toda la lógica de la plataforma SafeStep. Este modelo relacional, compuesto por 33 entidades, ha sido diseñado aplicando las 3 fases de normalizacion. Para garantizar la escalabilidad, el mantenimiento y la separación de responsabilidades, la base de datos se ha estructurado en 5 paquetes o módulos lógicos:
-### 1. Gestión de Usuarios y Seguridad: 
-Controla la identidad, el Control de Acceso Basado en Roles (RBAC), el manejo de sesiones activas (para bloqueos de seguridad) y la libreta de direcciones de los usuarios.
-### 2. Motor de Simulaciones:
-Es el núcleo educativo. Gestiona los módulos de aprendizaje, el catálogo de escenarios interactivos (RCP, Sismos, etc.) y guarda un historial detallado de los intentos y errores específicos para generar recomendaciones personalizadas.
-### 3. Motor de Gamificación:
-Diseñado para maximizar la retención. Administra el progreso del usuario (Niveles y XP), misiones con caducidad de tiempo, insignias y el sistema de economía virtual (SafeCoins) para la adquisición de artículos cosméticos.
-### 4. Marketplace y Logística:
-Gestiona el catálogo de productos físicos (Kits de emergencia, torniquetes), permitiendo la creación de productos compuestos, el control de inventario y el sistema de reseñas y favoritos.
-### 5. Ventas y Transacciones:
-Maneja el flujo de conversión, desde el carrito de compras persistente, validación de cupones, hasta el registro de la orden final, la pasarela de pagos y el proceso de devoluciones con evidencia documentada.
+El siguiente Diagrama Entidad-Relación (ERD) representa la estructura de datos fundamental que soporta toda la lógica de la plataforma SafeStep. Este modelo relacional, compuesto por 31 entidades, ha sido diseñado aplicando las 3 fases de normalizacion. Para garantizar la escalabilidad, el mantenimiento y la separación de responsabilidades, la base de datos se ha estructurado en 5 paquetes o módulos lógicos:
+
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-base-de-datos-safestep.jpeg" alt="Diagrama de base de datos" />
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-safestep.png" alt="Diagrama de base de datos" />
 </div>
 
 **link del diagrama de base de datos para una mejor vista**
 
-<a href="https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</a>
+<a href="https://miro.com/app/board/uXjVHWa4-Tg=/?share_link_id=246922676596">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</a>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-analytics_1.png" alt="Diagrama de base de datos (Analytics BC)" />
+</div>
+
+<p align="center"><strong>Diagrama ERD Analytics</strong></p>
+
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-ecommerce.png" alt="Diagrama de base de datos (Ecommerce BC)" />
+</div>
+
+<p align="center"><strong>Diagrama ERD Ecommerce</strong></p>
+
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-gamification.png" alt="Diagrama de base de datos (Gamification BC)" />
+</div>
+
+<p align="center"><strong>Diagrama ERD Gamification</strong></p>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-iam.png" alt="Diagrama de base de datos (IAM BC)" />
+</div>
+
+<p align="center"><strong>Diagrama ERD IAM</strong></p>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-profiles.png" alt="Diagrama de base de datos (Profiles BC)" />
+</div>
+
+<p align="center"><strong>Diagrama ERD Profiles</strong></p>
+
+<div align="center">
+    <img src="../../assets/images/chapter-4/diagrama-basedatos-simulation.png" alt="Diagrama de base de datos (Simulation BC)" />
+</div>
+
+<p align="center"><strong>Diagrama ERD Simulation</strong></p>
+
 
 
 
