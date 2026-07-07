@@ -641,7 +641,7 @@ Este workflow se activa automáticamente con cada push a `main`, elimina la nece
 Una vez completada la configuración y ejecutado el workflow por primera vez, se verificó el acceso a la Landing Page a través de la URL pública proporcionada por GitHub Pages:
 
 ```
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/
 ```
 
 Se realizaron pruebas de navegación para confirmar que todas las secciones se cargaran correctamente, que los enlaces funcionaran, y que el diseño responsivo se comportara adecuadamente en diferentes tamaños de pantalla. Adicionalmente, se verificó que la página cargara correctamente en los navegadores Chrome, Firefox y Edge.
@@ -664,7 +664,7 @@ GitHub Pages proporciona automáticamente un certificado SSL/TLS válido para to
 
 La Landing Page de SafeStep se encuentra actualmente en producción y accesible públicamente a través de la siguiente URL:
 
-<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a>
 
 El despliegue en GitHub Pages desde la rama `gh-pages` ha resultado ser una solución eficiente y sin costos para alojar la presencia digital inicial de SafeStep. Esta plataforma ofrece alta disponibilidad, CDN global para entrega de contenido, y escalabilidad automática, lo que garantiza una experiencia de usuario óptima independientemente del volumen de visitantes.
 
@@ -770,6 +770,8 @@ El equipo identifica las siguientes lecciones de este Sprint 1:
 4. **Los code reviews incrementan la calidad del código:** La revisión por pares antes de hacer merge permitió identificar y corregir errores de estilo y lógica, mejorando la consistencia del código base.
 
 5. **Las estimaciones iniciales fueron acertadas pero con margen de mejora:** El equipo logró completar todas las tareas dentro del tiempo estimado, aunque algunas tareas requirieron ajuste de prioridades para cumplir con el Sprint Goal.
+
+
 
 
 

@@ -1281,8 +1281,8 @@ La validación principal del backend se realizó en entorno local y mediante Swa
 
 **URLs públicas del Sprint 3:**
 
-- Landing page: <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
-- Frontend web: <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a>
+- Landing page: <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a>
+- Frontend web: <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a>
 - Backend Swagger: <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 **Paso 1: Configuracion del entorno local**
@@ -1386,8 +1386,8 @@ La landing page fue actualizada para comunicar mejor el producto terminado. Se a
 | Swagger UI | Local environment | <a href="http://localhost:8092/swagger-ui/index.html">http://localhost:8092/swagger-ui/index.html</a> |
 | OpenAPI JSON | Local environment | <a href="http://localhost:8092/v3/api-docs">http://localhost:8092/v3/api-docs</a> |
 | Backend desplegado | <a href="https://render.com/">https://render.com/</a> | <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a> |
-| Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> |
-| Landing Page | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a> |
+| Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a> |
+| Landing Page | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a> |
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -1518,6 +1518,8 @@ Durante este Sprint, el equipo realizó revisiones internas de estructura para a
 6. **La integración frontend-backend debe validarse desde la interfaz real:** Swagger confirma que el API responde, pero la Web Application permite comprobar si las rutas, tokens, responses y estados visuales funcionan para el usuario.
 
 7. **La landing page también debe reflejar el avance del producto:** Agregar imágenes reales y videos de presentación ayuda a que la comunicación pública esté alineada con lo construido en backend y frontend.
+
+
 
 
 

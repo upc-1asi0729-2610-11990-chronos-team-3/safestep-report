@@ -691,6 +691,7 @@ En esta sección se presentan las evidencias de despliegue del Sprint 4. El obje
 
 - Backend desplegado: <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 - Frontend desplegado: <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a>
+- Landing page desplegada: <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a>
 - Base de datos desplegada en Render: `dpg-d8pj85v7f7vs73d1r4i0-a.oregon-postgres.render.com`
 
 **Configuración de backend desplegado:**
@@ -752,6 +753,7 @@ dpg-d8pj85v7f7vs73d1r4i0-a.oregon-postgres.render.com
 |----------|------------|------------|
 | Backend Spring Boot | Render | <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a> |
 | Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a> |
+| Landing Page | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a> |
 | PostgreSQL Database | Render | `dpg-d8pj85v7f7vs73d1r4i0-a.oregon-postgres.render.com` |
 
 ### 5.2.4.8. Team Collaboration Insights during Sprint
@@ -844,5 +846,6 @@ Los cuatro miembros activos del equipo participaron en el Sprint 4. El trabajo s
 3. **La base de datos desplegada cambia la validación:** Usar PostgreSQL en Render permite probar persistencia real, pero exige revisar variables de entorno, perfiles y credenciales.
 4. **Swagger sigue siendo clave para probar endpoints protegidos:** Permite validar los endpoints con token antes de probarlos desde la aplicación web.
 5. **El flujo de compra debe controlar pagos cancelados:** Una orden no debe aparecer como compra si el usuario no completó correctamente el checkout.
+
 
 

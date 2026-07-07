@@ -23,3 +23,4 @@ El Big Picture EventStorming consiste en una exploración de alto nivel que busc
 
 
 
+

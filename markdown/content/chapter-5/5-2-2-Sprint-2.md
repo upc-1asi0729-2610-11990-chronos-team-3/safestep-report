@@ -49,7 +49,7 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
         </tr>
         <tr>
             <td>Sprint n - 1 Review Summary</td>
-            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a></td>
+            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a></td>
         </tr>
         <tr>
             <td>Sprint n - 1 Retrospective Summary</td>
@@ -757,7 +757,7 @@ jobs:
 Se verificó el acceso a la aplicación frontend a través de la URL pública de despliegue:
 
 ```
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend
+https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/
 ```
 
 <div align="center">
@@ -800,7 +800,7 @@ https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safes
 
 | Producto | Plataforma | URL |
 |----------|-----------|-----|
-| Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> |
+| Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a> |
 | API de datos | my-json-server | <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a> |
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
@@ -900,6 +900,8 @@ Todos los miembros del equipo participaron activamente en la implementación del
 4. **El lazy loading mejora el rendimiento:** La configuración de rutas con carga diferida redujo el tamaño inicial del bundle y mejoró los tiempos de carga.
 
 5. **GitHub Pages simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
+
+
 
 
 

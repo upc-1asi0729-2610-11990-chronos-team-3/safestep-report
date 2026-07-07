@@ -72,9 +72,10 @@ A continuación se presentan las herramientas y tecnologías seleccionadas para 
 
 | Herramienta | Propósito |URL de Referencia | URL de Despliegue | Tipo |
 |-------------|-----------|------------------|-------------------|------|
-| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a> | SaaS |
-| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> | SaaS |
-| my-json-server | Plataforma de despliegue para la API REST simulada del backend | <a href="https://my-json-server.typicode.com">https://my-json-server.typicode.com</a> | <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a> | SaaS |
+| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a> | SaaS |
+| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a> | SaaS |
+| Render | Plataforma de despliegue para el backend Spring Boot de SafeStep | <a href="https://render.com">https://render.com</a> | <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a> | SaaS |
+| Render PostgreSQL | Base de datos PostgreSQL desplegada para persistencia del backend | <a href="https://render.com">https://render.com</a> | `dpg-d8pj85v7f7vs73d1r4i0-a.oregon-postgres.render.com` | SaaS |
 
 ### 5.1.1.8. Herramientas de Testing
 
@@ -294,7 +295,7 @@ El proyecto cuenta con tres productos desplegados en plataformas independientes.
 
 El segundo producto es el Frontend Angular, desplegado en GitHub Pages como aplicación web estática. Esta plataforma fue seleccionada por su integración con GitHub, su disponibilidad pública mediante HTTPS y su facilidad para publicar builds frontend desde el repositorio.
 
-El tercer producto es el Backend API, desplegado en my-json-server como una API REST simulada que permite prototipado rápido y validación del frontend sin necesidad de un servidor backend completo.
+El tercer producto es el Backend API, desplegado en Render como un servicio Spring Boot documentado con Swagger. Este backend se conecta a una base de datos PostgreSQL desplegada en Render, utilizada para persistir usuarios, perfiles, simulaciones, órdenes, pagos y datos principales de la aplicación.
 
 #### 5.1.4.1.2. Pipeline de CI/CD
 
@@ -318,7 +319,7 @@ Para configurar el despliegue, se debe habilitar GitHub Pages en la configuraci�
 
 La URL pública del landing page es:
 
-<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page/</a>
 
 #### 5.1.4.2.2. Configuración de Frontend en GitHub Pages
 
@@ -332,15 +333,19 @@ npm run build
 
 La URL pública del frontend es:
 
-<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a>
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend/</a>
 
-#### 5.1.4.2.3. Configuración de API en my-json-server
+#### 5.1.4.2.3. Configuración de Backend API en Render
 
-El Backend API se despliega en my-json-server, una plataforma que permite crear una API REST falsa a partir de un archivo `db.json` alojado en un repositorio de GitHub. Esta plataforma fue seleccionada para la fase de prototipado, permitiendo al equipo de frontend consumir datos reales sin necesidad de un backend completamente implementado.
+El Backend API se despliega en Render como una aplicación Spring Boot. Esta plataforma fue seleccionada porque permite publicar el servicio web, conectar variables de entorno, exponer la documentación Swagger y mantener disponible el API para el frontend desplegado.
 
-La configuración consiste en alojar el archivo `db.json` en la raíz del repositorio `safestep-backend` con la estructura de datos que la aplicación frontend necesita consumir. my-json-server genera automáticamente los endpoints REST basados en las claves del archivo JSON.
+La configuración del backend se realiza mediante los archivos `application-dev.properties` y `application-prod.properties`, donde se define la conexión a PostgreSQL, el perfil de ejecución, las credenciales mediante variables de entorno y los parámetros necesarios para JWT y Stripe.
 
-La URL base de la API es: <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
+La URL pública del backend desplegado es: <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
+
+La base de datos PostgreSQL desplegada en Render utiliza el siguiente host:
+
+`dpg-d8pj85v7f7vs73d1r4i0-a.oregon-postgres.render.com`
 
 ### 5.1.4.3. Procedimientos de Despliegue
 
@@ -352,7 +357,7 @@ Cada componente tiene su propio procedimiento de despliegue a producción. Para 
 
 Para el Frontend en GitHub Pages, el despliegue se realiza mediante GitHub Actions, donde el pipeline ejecuta las pruebas, construye la aplicación y publica los archivos estáticos generados.
 
-Para el Backend en my-json-server, el despliegue es inmediato: cualquier cambio en el archivo `db.json` en la rama `main` del repositorio se refleja automáticamente en la API.
+Para el Backend en Render, el despliegue se realiza desde el repositorio del backend. Render construye la aplicación Spring Boot, ejecuta el artefacto generado y conecta el servicio con la base de datos PostgreSQL configurada mediante variables de entorno y archivos de propiedades.
 
 #### 5.1.4.3.2. Verificación Post-Despliegue
 
@@ -360,11 +365,12 @@ Después de cada despliegue, el equipo debe verificar el correcto funcionamiento
 
 #### 5.1.4.3.3. Rollback
 
-En caso de problemas en producción, el equipo puede realizar un rollback a la versión anterior. GitHub Pages permite revertir el despliegue restaurando el contenido anterior de la rama `gh-pages`. Para my-json-server, el rollback se realiza revirtiendo el commit del archivo `db.json` en el repositorio.
+En caso de problemas en producción, el equipo puede realizar un rollback a la versión anterior. GitHub Pages permite revertir el despliegue restaurando el contenido anterior de la rama `gh-pages`. Para Render, el rollback se realiza restaurando una versión anterior del backend o revirtiendo el commit desplegado desde el repositorio.
 
 ### 5.1.4.4. Monitoreo y Logging
 
 El equipo implementa capacidades de monitoreo y logging para mantener visibilidad sobre el estado de la aplicación en producción. GitHub Pages expone métricas básicas de uso a través de GitHub Insights. Para el tracking de errores, se puede integrar servicios como Sentry. Estas herramientas permiten identificar y resolver problemas rápidamente, asegurando la disponibilidad y calidad del servicio para los usuarios finales.
+
 
 
 
