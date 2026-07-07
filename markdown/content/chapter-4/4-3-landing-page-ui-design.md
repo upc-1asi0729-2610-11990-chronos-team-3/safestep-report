@@ -474,3 +474,6 @@ El mock-up aplica diseño responsivo a través de:
 - Placeholder durante carga
 
 
+
+
+

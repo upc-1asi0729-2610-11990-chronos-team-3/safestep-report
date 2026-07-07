@@ -204,7 +204,7 @@ El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goa
 
 **URL pública del Trello Board del Sprint 3:**
 
-https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3
+<a href="https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3">https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3</a>
 
 <div align="center">
   <p>
@@ -798,15 +798,15 @@ En esta seccion se explica y presenta los avances de implementacion realizados d
 
 **Repositorio de Backend:**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git</a>
 
 **Repositorio de Frontend :**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git</a>
 
 **Referencia de Swagger desplegado:**
 
-https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+<a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -869,11 +869,11 @@ La documentacion de servicios permite que los integrantes del equipo frontend y 
 
 **Swagger UI:** 
 
-https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+<a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 **OpenAPI JSON:** 
 
-https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+<a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 
 | Bounded Context | Endpoint | Metodo | Descripcion | Parametros | Ejemplo Response |
@@ -1062,10 +1062,10 @@ El equipo verifico los endpoints principales utilizando Swagger UI y peticiones 
 
 | Producto | Plataforma | URL |
 |----------|-----------|-----|
-| Backend Spring Boot | Local environment | http://localhost:8092 |
-| Swagger UI | Local environment | http://localhost:8092/swagger-ui/index.html |
-| OpenAPI JSON | Local environment | http://localhost:8092/v3/api-docs |
-| Backend desplegado | https://render.com/ | https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html |
+| Backend Spring Boot | Local environment | <a href="http://localhost:8092">http://localhost:8092</a> |
+| Swagger UI | Local environment | <a href="http://localhost:8092/swagger-ui/index.html">http://localhost:8092/swagger-ui/index.html</a> |
+| OpenAPI JSON | Local environment | <a href="http://localhost:8092/v3/api-docs">http://localhost:8092/v3/api-docs</a> |
+| Backend desplegado | <a href="https://render.com/">https://render.com/</a> | <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a> |
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -1166,6 +1166,9 @@ Durante este Sprint, el equipo realizo revisiones internas de estructura para as
 4. **El seed data acelera las pruebas iniciales:** Contar con datos precargados permitio validar endpoints sin depender de carga manual desde base de datos.
 
 5. **La consistencia de nombres ayuda a evitar errores:** Mantener convenciones similares en commands, queries, resources, controllers y services hizo que el equipo pudiera moverse entre bounded contexts con menor dificultad.
+
+
+
 
 
 

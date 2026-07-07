@@ -21,7 +21,7 @@ En esta fase, el equipo aplica la técnica de **Design-Level Event Storming** pa
 En esta fase se realiza una lluvia de ideas masiva de los hechos significativos del negocio denominados domain events, los cuales se registran en notas naranjas y se redactan obligatoriamente en tiempo pasado, sin priorizar inicialmente el orden o la duplicidad de los mismos.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667282704465&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667282704465&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667282704465&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase1.jpg" alt="Event Storming Fase 1 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -32,7 +32,7 @@ En esta fase se realiza una lluvia de ideas masiva de los hechos significativos 
 Consiste en organizar los domain events en orden cronológico, comenzando por el "happy path" (escenario de éxito). Posteriormente, se integran los escenarios alternativos y se refina el flujo eliminando duplicados o corrigiendo eventos erróneos para asegurar la coherencia del proceso.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase2.jpg" alt="Event Storming Fase 2 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -43,7 +43,7 @@ Consiste en organizar los domain events en orden cronológico, comenzando por el
 Se analiza la línea de tiempo para identificar ineficiencias como cuellos de botella, procesos manuales o vacíos de información. Estos puntos se señalizan con notas rosadas rotadas (en forma de diamante) para asegurar que sean abordados durante el diseño técnico.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757095&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757095&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757095&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase3.jpg" alt="Event Storming Fase 3 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -54,7 +54,7 @@ Se analiza la línea de tiempo para identificar ineficiencias como cuellos de bo
 Se identifican eventos de negocio significativos que marcan un cambio de fase o contexto en el proceso. Estos se señalan con una barra vertical y son los principales indicadores para definir los límites de los Bounded Contexts (módulos del sistema).
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757655&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757655&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757655&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase4.jpg" alt="Event Storming Fase 4 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -65,7 +65,7 @@ Se identifican eventos de negocio significativos que marcan un cambio de fase o 
 Describe la acción o el desencadenante que activa un evento o flujo de eventos. Se redacta en imperativo y se representa con notas azul claro. Si el comando es ejecutado por un rol específico, se incluye la información del actor mediante una pequeña nota amarilla.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285899995&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285899995&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285899995&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase5.jpg" alt="Event Storming Fase 5 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -76,7 +76,7 @@ Describe la acción o el desencadenante que activa un evento o flujo de eventos.
 Identifica las reglas de automatización donde un domain event activa automáticamente la ejecución de un command. Estas políticas se representan con notas púrpuras y sirven para definir la lógica de reacción del sistema sin intervención directa de un actor, permitiendo especificar criterios de decisión si es necesario.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285900230&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285900230&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285900230&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase6.jpg" alt="Event Storming Fase 6 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -87,7 +87,7 @@ Identifica las reglas de automatización donde un domain event activa automátic
 Un read model es la vista de datos (pantallas, informes o notificaciones) que un actor utiliza para tomar la decisión de ejecutar un comando. Se representa con notas verdes y se coloca en el flujo antes del comando que respalda.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668346650835&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668346650835&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668346650835&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase7.jpg" alt="Event Storming Fase 7 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -98,7 +98,7 @@ Un read model es la vista de datos (pantallas, informes o notificaciones) que un
 Se refiere a cualquier sistema fuera del dominio que se está explorando. Estos sistemas pueden ejecutar comandos (entrada) o recibir notificaciones sobre eventos (salida). Se representan con notas rosadas y permiten modelar la interacción de SafeStep con servicios externos, como pasarelas de pago o proveedores de mapas.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668352244008&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668352244008&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668352244008&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase8.jpg" alt="Event Storming Fase 8 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -109,7 +109,7 @@ Se refiere a cualquier sistema fuera del dominio que se está explorando. Estos 
 En este paso, se organizan los conceptos relacionados en agregados, los cuales tienen la responsabilidad de recibir comandos y producir eventos. Se representan mediante notas adhesivas amarillas grandes, ubicando los comandos a la izquierda y los eventos resultantes a la derecha del agregado.
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668357193046&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668357193046&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668357193046&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase9.jpg" alt="Event Storming Fase 9 - SafeStep" />
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
@@ -120,58 +120,58 @@ En este paso, se organizan los conceptos relacionados en agregados, los cuales t
 Es el paso final donde se agrupan los agregados que están relacionados entre sí, ya sea por su funcionalidad o por estar vinculados a través de políticas. Estos grupos definen los límites de los Bounded Contexts, estableciendo las fronteras lógicas y técnicas de los diferentes módulos del sistema.
 
 <div align="center">
-    https://miro.com/app/board/uXjVGlN0dvA=/
+    <a href="https://miro.com/app/board/uXjVGlN0dvA=/">https://miro.com/app/board/uXjVGlN0dvA=/</a>
         <img src="../../assets/images/chapter-4/eventstorming-fase10.jpg" alt="Bounded Contexts - SafeStep" />
     <br>
-    <sub><small>link (vista de todos los BC): https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
 </div>
 
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/BD1.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     <br>
-    <sub><small>link (Identidad y acceso BC): https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Identidad y acceso BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/BD2.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     <br>
-    <sub><small>link (Simulacion medica BC): https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Simulacion medica BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/BD3.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     <br>
-    <sub><small>link (Tutoria y aprendizaje BC): https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Tutoria y aprendizaje BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/BD4.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     <br>
-    <sub><small>link (Gamificacion y lealtad BC): https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Gamificacion y lealtad BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
         <img src="../../assets/images/chapter-4/BD5.jpeg" alt="Event Storming Fase 10 - SafeStep" />
     <br>
-    <sub><small>link (Marketplace y suministros): https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
+    <sub><small>link (Marketplace y suministros): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br>
     </br>
 </div>
 
 **link del miro completo**
 
-https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925
+<a href="https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925">https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925</a>
 
 
 
@@ -199,5 +199,8 @@ Este diagrama representa el tercer nivel de detalle del modelo C4, realizando un
 <div align="center">
     <img src="../../assets/images/chapter-4/DiagramaComponeneteSafeStept.png" alt="Diagrama de Componentes de SafeStep" />
 </div>
+
+
+
 
 

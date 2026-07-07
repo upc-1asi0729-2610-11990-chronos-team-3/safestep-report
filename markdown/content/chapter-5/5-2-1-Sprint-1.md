@@ -186,7 +186,7 @@ El equipo utiliza un Trello Board para gestionar visualmente el Sprint Backlog. 
 
 **URL pública del Trello Board del Sprint 1:**
 
-https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource
+<a href="https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource">https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource</a>
 
 <div align="center">
   <p>
@@ -510,7 +510,7 @@ El equipo realizó un total de 10 commits en el repositorio de Landing Page dura
 
 **Repositorio de Landing Page:**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page</a>
 
 **Estadísticas del repositorio:**
 
@@ -655,7 +655,7 @@ GitHub Pages proporciona automáticamente un certificado SSL/TLS válido para to
 
 La Landing Page de SafeStep se encuentra actualmente en producción y accesible públicamente a través de la siguiente URL:
 
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
 
 El despliegue en GitHub Pages desde la rama `gh-pages` ha resultado ser una solución eficiente y sin costos para alojar la presencia digital inicial de SafeStep. Esta plataforma ofrece alta disponibilidad, CDN global para entrega de contenido, y escalabilidad automática, lo que garantiza una experiencia de usuario óptima independientemente del volumen de visitantes.
 
@@ -770,5 +770,8 @@ El equipo identifica las siguientes lecciones de este Sprint 1:
 4. **Los code reviews incrementan la calidad del código:** La revisión por pares antes de hacer merge permitió identificar y corregir errores de estilo y lógica, mejorando la consistencia del código base.
 
 5. **Las estimaciones iniciales fueron acertadas pero con margen de mejora:** El equipo logró completar todas las tareas dentro del tiempo estimado, aunque algunas tareas requirieron ajuste de prioridades para cumplir con el Sprint Goal.
+
+
+
 
 

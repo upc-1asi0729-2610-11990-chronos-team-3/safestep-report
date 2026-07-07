@@ -6,23 +6,23 @@
 
 **URL de la organización**: 
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3">https://github.com/upc-1asi0729-2610-11990-chronos-team-3</a>
 
 **URL del reporte de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report</a>
 
 **URL del landing page de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git</a>
 
 **URL del frontend de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git</a>
 
 **URL del backend de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend</a>
 
 ## Trabajo 1 (TB1)
 
@@ -37,5 +37,8 @@ En esta sección se hizo el avance de las 5 secciones importantes del informe do
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
+
+
+
 
 

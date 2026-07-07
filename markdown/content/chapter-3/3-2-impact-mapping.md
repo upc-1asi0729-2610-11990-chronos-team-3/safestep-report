@@ -23,3 +23,6 @@ Este impact mapping representa el resumen de todo lo obtenido por las historias 
 </div>
 
 
+
+
+

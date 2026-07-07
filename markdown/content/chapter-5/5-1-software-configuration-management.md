@@ -20,71 +20,71 @@ A continuación se presentan las herramientas y tecnologías seleccionadas para 
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | https://trello.com/b/UHs6EvyH/safestep-team-3 | SaaS |
-| GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | https://github.com/upc-1asi0729-2610-11990-chronos-team-3 | SaaS |
-| Google Drive | Almacenamiento y colaboración documentos de análisis y requerimientos | https://drive.google.com | SaaS |
-| Discord | Comunicación en tiempo real del equipo y reuniones virtuales | https://discord.com | SaaS |
+| Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | <a href="https://trello.com/b/UHs6EvyH/safestep-team-3">https://trello.com/b/UHs6EvyH/safestep-team-3</a> | SaaS |
+| GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3">https://github.com/upc-1asi0729-2610-11990-chronos-team-3</a> | SaaS |
+| Google Drive | Almacenamiento y colaboración documentos de análisis y requerimientos | <a href="https://drive.google.com">https://drive.google.com</a> | SaaS |
+| Discord | Comunicación en tiempo real del equipo y reuniones virtuales | <a href="https://discord.com">https://discord.com</a> | SaaS |
 
 ### 5.1.1.2. Herramientas de Diseño UX/UI
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Figma | Diseño de interfaces, wireframes, mockups y prototipos interactivos | https://www.figma.com | SaaS |
-| Canva | Creación de assets gráficos, presentaciones y materiales visuales | https://www.canva.com | SaaS |
+| Figma | Diseño de interfaces, wireframes, mockups y prototipos interactivos | <a href="https://www.figma.com">https://www.figma.com</a> | SaaS |
+| Canva | Creación de assets gráficos, presentaciones y materiales visuales | <a href="https://www.canva.com">https://www.canva.com</a> | SaaS |
 
 ### 5.1.1.3. Herramientas de Desarrollo Frontend
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Visual Studio Code | Editor de código principal para el desarrollo del frontend Angular | https://code.visualstudio.com | Descargable |
-| Angular CLI | Interfaz de línea de comandos para crear, desarrollar y builds de proyectos Angular | https://angular.io/cli | Descargable (npm) |
-| Node.js | Entorno de ejecución JavaScript del lado del servidor para servicios de desarrollo | https://nodejs.org | Descargable |
-| npm | Gestor de paquetes para JavaScript, utilizado para instalar dependencias de Angular | https://www.npmjs.com | Descargable |
-| TypeScript | Lenguaje de programación strongly-typed que compila a JavaScript | https://www.typescriptlang.org | Descargable (npm) |
+| Visual Studio Code | Editor de código principal para el desarrollo del frontend Angular | <a href="https://code.visualstudio.com">https://code.visualstudio.com</a> | Descargable |
+| Angular CLI | Interfaz de línea de comandos para crear, desarrollar y builds de proyectos Angular | <a href="https://angular.io/cli">https://angular.io/cli</a> | Descargable (npm) |
+| Node.js | Entorno de ejecución JavaScript del lado del servidor para servicios de desarrollo | <a href="https://nodejs.org">https://nodejs.org</a> | Descargable |
+| npm | Gestor de paquetes para JavaScript, utilizado para instalar dependencias de Angular | <a href="https://www.npmjs.com">https://www.npmjs.com</a> | Descargable |
+| TypeScript | Lenguaje de programación strongly-typed que compila a JavaScript | <a href="https://www.typescriptlang.org">https://www.typescriptlang.org</a> | Descargable (npm) |
 
 ### 5.1.1.4. Herramientas de Desarrollo Backend
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Spring Boot | Framework de desarrollo backend basado en Java | https://spring.io/projects/spring-boot | Descargable |
-| Java Development Kit (JDK 17) | Kit de desarrollo de Java necesario para compilar y ejecutar aplicaciones Spring Boot | https://www.oracle.com/java/technologies/downloads/#java17 | Descargable |
-| Apache Maven | Herramienta de gestión de proyectos y gestión de dependencias para Java | https://maven.apache.org | Descargable |
-| IntelliJ IDEA | IDE recomendado para el desarrollo backend con Spring Boot | https://www.jetbrains.com/idea | Descargable |
+| Spring Boot | Framework de desarrollo backend basado en Java | <a href="https://spring.io/projects/spring-boot">https://spring.io/projects/spring-boot</a> | Descargable |
+| Java Development Kit (JDK 17) | Kit de desarrollo de Java necesario para compilar y ejecutar aplicaciones Spring Boot | <a href="https://www.oracle.com/java/technologies/downloads/#java17">https://www.oracle.com/java/technologies/downloads/#java17</a> | Descargable |
+| Apache Maven | Herramienta de gestión de proyectos y gestión de dependencias para Java | <a href="https://maven.apache.org">https://maven.apache.org</a> | Descargable |
+| IntelliJ IDEA | IDE recomendado para el desarrollo backend con Spring Boot | <a href="https://www.jetbrains.com/idea">https://www.jetbrains.com/idea</a> | Descargable |
 
 ### 5.1.1.5. Herramientas de Control de Versiones
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Git | Sistema de control de versiones distribuido | https://git-scm.com | Descargable |
-| GitHub | Plataforma de alojamiento de repositorios Git y colaboración | https://github.com | SaaS |
-| GitHub Desktop | Aplicación GUI para gestionar repositorios Git de forma visual | https://desktop.github.com | Descargable |
+| Git | Sistema de control de versiones distribuido | <a href="https://git-scm.com">https://git-scm.com</a> | Descargable |
+| GitHub | Plataforma de alojamiento de repositorios Git y colaboración | <a href="https://github.com">https://github.com</a> | SaaS |
+| GitHub Desktop | Aplicación GUI para gestionar repositorios Git de forma visual | <a href="https://desktop.github.com">https://desktop.github.com</a> | Descargable |
 
 ### 5.1.1.6. Herramientas de Documentación y Calidad de Código
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| ESLint | Analizador de código estático para identificar patrones problemáticos en JavaScript/TypeScript | https://eslint.org | Descargable (npm) |
-| Prettier | Formateador de código Opinionated para mantener consistencia en el código | https://prettier.io | Descargable (npm) |
-| Markdown | Lenguaje de formato para documentación técnica | https://www.markdownguide.org | Referencia |
-| OpenAPI (Swagger) | Especificación para documentar APIs REST | https://swagger.io/specification | Referencia |
+| ESLint | Analizador de código estático para identificar patrones problemáticos en JavaScript/TypeScript | <a href="https://eslint.org">https://eslint.org</a> | Descargable (npm) |
+| Prettier | Formateador de código Opinionated para mantener consistencia en el código | <a href="https://prettier.io">https://prettier.io</a> | Descargable (npm) |
+| Markdown | Lenguaje de formato para documentación técnica | <a href="https://www.markdownguide.org">https://www.markdownguide.org</a> | Referencia |
+| OpenAPI (Swagger) | Especificación para documentar APIs REST | <a href="https://swagger.io/specification">https://swagger.io/specification</a> | Referencia |
 
 ### 5.1.1.7. Herramientas de Despliegue
 
 | Herramienta | Propósito |URL de Referencia | URL de Despliegue | Tipo |
 |-------------|-----------|------------------|-------------------|------|
-| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page | SaaS |
-| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend | SaaS |
-| my-json-server | Plataforma de despliegue para la API REST simulada del backend | https://my-json-server.typicode.com | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server | SaaS |
+| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a> | SaaS |
+| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> | SaaS |
+| my-json-server | Plataforma de despliegue para la API REST simulada del backend | <a href="https://my-json-server.typicode.com">https://my-json-server.typicode.com</a> | <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a> | SaaS |
 
 ### 5.1.1.8. Herramientas de Testing
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Jasmine | Framework de testing para aplicaciones Angular | https://jasmine.github.io | Descargable (npm) |
-| Karma | Test runner para Angular que permite ejecutar pruebas en múltiples navegadores | https://karma-runner.github.io | Descargable (npm) |
-| Jest | Framework de testing alternativo para aplicaciones JavaScript/TypeScript | https://jestjs.io | Descargable (npm) |
-| JUnit | Framework de testing para aplicaciones Java/Spring Boot | https://junit.org/junit5 | Descargable |
-| Postman | Herramienta para testing manual de endpoints API | https://www.postman.com | Descargable |
+| Jasmine | Framework de testing para aplicaciones Angular | <a href="https://jasmine.github.io">https://jasmine.github.io</a> | Descargable (npm) |
+| Karma | Test runner para Angular que permite ejecutar pruebas en múltiples navegadores | <a href="https://karma-runner.github.io">https://karma-runner.github.io</a> | Descargable (npm) |
+| Jest | Framework de testing alternativo para aplicaciones JavaScript/TypeScript | <a href="https://jestjs.io">https://jestjs.io</a> | Descargable (npm) |
+| JUnit | Framework de testing para aplicaciones Java/Spring Boot | <a href="https://junit.org/junit5">https://junit.org/junit5</a> | Descargable |
+| Postman | Herramienta para testing manual de endpoints API | <a href="https://www.postman.com">https://www.postman.com</a> | Descargable |
 
 ### 5.1.1.9. Requisitos del Sistema por Miembro del Equipo
 
@@ -116,10 +116,10 @@ El equipo Chronos utiliza la organización GitHub "upc-chronos-team-3" para gest
 
 | Repositorio | URL GitHub | Propósito |
 |-------------|-----------|-----------|
-| SafeStep Report | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report | Documentación del proyecto en formato markdown |
-| SafeStep Frontend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend | Aplicación web interactiva desarrollada en Angular |
-| SafeStep Backend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend | API RESTful desarrollada en Spring Boot |
-| SafeStep Landing | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page | Página landing pública de presentación del producto |
+| SafeStep Report | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report</a> | Documentación del proyecto en formato markdown |
+| SafeStep Frontend | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend</a> | Aplicación web interactiva desarrollada en Angular |
+| SafeStep Backend | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend</a> | API RESTful desarrollada en Spring Boot |
+| SafeStep Landing | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page</a> | Página landing pública de presentación del producto |
 
 ### 5.1.2.2. GitFlow Implementation
 
@@ -318,7 +318,7 @@ Para configurar el despliegue, se debe habilitar GitHub Pages en la configuraci�
 
 La URL pública del landing page es:
 
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
 
 #### 5.1.4.2.2. Configuración de Frontend en GitHub Pages
 
@@ -332,7 +332,7 @@ npm run build
 
 La URL pública del frontend es:
 
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a>
 
 #### 5.1.4.2.3. Configuración de API en my-json-server
 
@@ -340,7 +340,7 @@ El Backend API se despliega en my-json-server, una plataforma que permite crear 
 
 La configuración consiste en alojar el archivo `db.json` en la raíz del repositorio `safestep-backend` con la estructura de datos que la aplicación frontend necesita consumir. my-json-server genera automáticamente los endpoints REST basados en las claves del archivo JSON.
 
-La URL base de la API es: `https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server`
+La URL base de la API es: <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
 
 ### 5.1.4.3. Procedimientos de Despliegue
 
@@ -365,5 +365,8 @@ En caso de problemas en producción, el equipo puede realizar un rollback a la v
 ### 5.1.4.4. Monitoreo y Logging
 
 El equipo implementa capacidades de monitoreo y logging para mantener visibilidad sobre el estado de la aplicación en producción. GitHub Pages expone métricas básicas de uso a través de GitHub Insights. Para el tracking de errores, se puede integrar servicios como Sentry. Estas herramientas permiten identificar y resolver problemas rápidamente, asegurando la disponibilidad y calidad del servicio para los usuarios finales.
+
+
+
 
 

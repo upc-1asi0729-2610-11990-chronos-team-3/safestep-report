@@ -11,3 +11,6 @@ Se establecieron las técnicas de Lean UX Process para validar las hipótesis de
 Para el Avance 2, el equipo deberá enfocarse en profundizar el proceso de elicitación de requisitos mediante entrevistas y needfinding con los segmentos objetivo, desarrollar el primer prototipo funcional de la plataforma con escenarios básicos de simulación, y validar la arquitectura de información diseñada. El objetivo es contar con un MVP que permita iniciar pruebas de usabilidad con usuarios representativos.
 
 
+
+
+

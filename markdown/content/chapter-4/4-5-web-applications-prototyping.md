@@ -331,7 +331,7 @@ El video incluye:
   </p>
 </div>
 
-Enlace del video: https://youtu.be/_nZcADweJ3k
+Enlace del video: <a href="https://youtu.be/_nZcADweJ3k">https://youtu.be/_nZcADweJ3k</a>
 
 ## 4.5.3. Prototipo Mobile
 
@@ -536,7 +536,7 @@ El video incluye:
   </p>
 </div>
 
-Enlace del video: https://youtu.be/cFe5_H0TDsA
+Enlace del video: <a href="https://youtu.be/cFe5_H0TDsA">https://youtu.be/cFe5_H0TDsA</a>
 
 ## 4.5.4. Flujos de Interacción Principales
 
@@ -624,5 +624,8 @@ El prototipo cumple con:
 - Responsive adaptation
 - Transiciones suaves 60fps
 - Loading states apropiados
+
+
+
 
 

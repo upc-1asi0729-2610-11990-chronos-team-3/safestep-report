@@ -89,12 +89,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/DEq_rtuM_Ng
+            Link de la entrevista: <a href="https://youtu.be/DEq_rtuM_Ng" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/DEq_rtuM_Ng</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-1.png">
+            <img src="../../assets/images/chapter-2/entrevista-1.png" width="500">
         </td>
     </tr>
     <tr>
@@ -168,12 +168,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://www.youtube.com/watch?v=5td3gHjUBVw
+            Link de la entrevista: <a href="https://www.youtube.com/watch?v=5td3gHjUBVw" style="word-break: break-all; overflow-wrap: anywhere;">https://www.youtube.com/watch?v=5td3gHjUBVw</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-2.png">
+            <img src="../../assets/images/chapter-2/entrevista-2.png" width="500">
         </td>
     </tr>
     <tr>
@@ -247,12 +247,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/N1L3TChMK6w
+            Link de la entrevista: <a href="https://youtu.be/N1L3TChMK6w" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/N1L3TChMK6w</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-3.png">
+            <img src="../../assets/images/chapter-2/entrevista-3.png" width="500">
         </td>
     </tr>
     <tr>
@@ -326,12 +326,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/qjcDbt8-Obk
+            Link de la entrevista: <a href="https://youtu.be/qjcDbt8-Obk" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/qjcDbt8-Obk</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-4.jpeg">
+            <img src="../../assets/images/chapter-2/entrevista-4.jpeg" width="500">
         </td>
     </tr>
     <tr>
@@ -405,12 +405,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/r7HQDIlXcsA
+            Link de la entrevista: <a href="https://youtu.be/r7HQDIlXcsA" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/r7HQDIlXcsA</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-5.jpeg">
+            <img src="../../assets/images/chapter-2/entrevista-5.jpeg" width="500">
         </td>
     </tr>
     <tr>
@@ -487,12 +487,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/tcYkW5-9Oh
+            Link de la entrevista: <a href="https://youtu.be/tcYkW5-9Oh" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/tcYkW5-9Oh</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-6.png">
+            <img src="../../assets/images/chapter-2/entrevista-6.png" width="500">
         </td>
     </tr>
     <tr>
@@ -569,12 +569,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista7.png">
+            <img src="../../assets/images/chapter-2/entrevista7.png" width="500">
         </td>
     </tr>
     <tr>
@@ -651,12 +651,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista8.png">
+            <img src="../../assets/images/chapter-2/entrevista8.png" width="500">
         </td>
     </tr>
     <tr>
@@ -736,12 +736,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/lpGebdtVGkM
+            Link de la entrevista: <a href="https://youtu.be/lpGebdtVGkM" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/lpGebdtVGkM</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-9.png">
+            <img src="../../assets/images/chapter-2/entrevista-9.png" width="500">
         </td>
     </tr>
     <tr>
@@ -821,12 +821,12 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://youtu.be/itTG0QX_dkg
+            Link de la entrevista: <a href="https://youtu.be/itTG0QX_dkg" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/itTG0QX_dkg</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-2/entrevista-10.png">
+            <img src="../../assets/images/chapter-2/entrevista-10.png" width="500">
         </td>
     </tr>
     <tr>
@@ -974,5 +974,11 @@ Se realizaron 10 entrevistas semiestructuradas distribuidas en tres segmentos ob
 - **Elemento más valorado en una app**: simulaciones realistas y certificación oficial.
 - **Disposición de pago**: alta, con expectativa de S/20-50 mensual o S/50-100 por curso.
 - **Instituciones de respaldo requeridas**: MINSA, Cruz Roja, AHA, Defensa Civil (mencionadas por 100%).
+
+
+
+
+
+
 
 

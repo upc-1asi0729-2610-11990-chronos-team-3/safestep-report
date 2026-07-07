@@ -576,3 +576,6 @@ Cada elemento incluye su estimación en story points utilizando la escala Fibona
 
 
 
+
+
+

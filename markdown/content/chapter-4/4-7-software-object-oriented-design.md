@@ -20,6 +20,9 @@ En esta sección, se presenta el diseño orientado a objetos del software SafeSt
 
 **link del miro para una mejor vista** 
 
-https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640
+<a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
+
+
+
 
 

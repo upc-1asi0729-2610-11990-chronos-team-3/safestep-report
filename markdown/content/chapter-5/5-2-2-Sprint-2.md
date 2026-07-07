@@ -49,7 +49,7 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
         </tr>
         <tr>
             <td>Sprint n - 1 Review Summary</td>
-            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</td>
+            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a></td>
         </tr>
         <tr>
             <td>Sprint n - 1 Retrospective Summary</td>
@@ -208,7 +208,7 @@ El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goa
 
 **URL pública del Trello Board del Sprint 2:**
 
-https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource
+<a href="https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource">https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource</a>
 
 <div align="center">
   <p>
@@ -584,11 +584,11 @@ La aplicación frontend implementada durante el Sprint 2 cuenta con las siguient
 
 **Repositorio de Frontend:**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend</a>
 
 **Repositorio de json-server (datos de prueba):**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -675,7 +675,7 @@ La API REST simulada expone los siguientes endpoints para cada bounded context, 
 | `/ecommerce` | GET | Obtener productos del catálogo | `GET /api/v1/ecommerce` | Ninguno | `{ "products": [...], "categories": [...] }` |
 | `/statistics` | GET | Obtener estadísticas de progreso | `GET /api/v1/statistics` | Ninguno | `{ "completedSimulations": 24, "avgPrecision": 85, ... }` |
 
-La URL base de la API desplegada es: `https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server`
+La URL base de la API desplegada es: <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -780,8 +780,8 @@ https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safes
 
 | Producto | Plataforma | URL |
 |----------|-----------|-----|
-| Frontend Angular | GitHub Pages | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend |
-| API de datos | my-json-server | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server |
+| Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> |
+| API de datos | my-json-server | <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a> |
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -889,5 +889,8 @@ Todos los miembros del equipo participaron activamente en la implementación del
 4. **El lazy loading mejora el rendimiento:** La configuración de rutas con carga diferida redujo el tamaño inicial del bundle y mejoró los tiempos de carga.
 
 5. **GitHub Pages simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
+
+
+
 
 

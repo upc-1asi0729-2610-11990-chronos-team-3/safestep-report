@@ -117,12 +117,12 @@ A continuación, se presentan los cuadros de registro para las entrevistas de va
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/LucianaInterview.png">
+            <img src="../../assets/images/chapter-5/LucianaInterview.png" width="500">
         </td>
     </tr>
     <tr>
@@ -238,12 +238,12 @@ Agregaría una sección inicial de explicación rápida, como un pequeño tutori
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/VivianInterview.png">
+            <img src="../../assets/images/chapter-5/VivianInterview.png" width="500">
         </td>
     </tr>
     <tr>
@@ -361,12 +361,12 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/validation-entrevista-rodrigo2.png">
+            <img src="../../assets/images/chapter-5/validation-entrevista-rodrigo2.png" width="500">
         </td>
     </tr>
     <tr>
@@ -462,12 +462,12 @@ Agregaría más simulaciones sobre emergencias comunes en el hogar y el vecindar
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9</a>
         </td>
     </tr>
     <tr>
         <td colspan="2" align="center">
-            <img src="../../assets/images/chapter-5/JuanInterview.jpg">
+            <img src="../../assets/images/chapter-5/JuanInterview.jpg" width="500">
         </td>
     </tr>
     <tr>
@@ -685,5 +685,10 @@ Mostrar recomendaciones contextualizadas después de completar simulaciones, ind
 La evaluación heurística evidencia que SafeStep presenta una experiencia clara, útil y comprensible para los usuarios entrevistados. Las principales tareas, como comprender la propuesta, navegar por la aplicación, resolver simulaciones, revisar progreso y explorar la tienda, pudieron ser entendidas sin bloqueos críticos. No se identificaron problemas de severidad 3 o 4.
 
 Las oportunidades de mejora se concentran en fortalecer la explicación inicial del sistema de gamificación, ampliar la profundidad de las simulaciones para usuarios con mayor experiencia, reforzar la confianza del contenido médico, simplificar ciertos textos y conectar mejor las recomendaciones de productos con los escenarios de aprendizaje. Estos ajustes permitirán mejorar la usabilidad, la arquitectura de información y la inclusión de la experiencia propuesta.
+
+
+
+
+
 
 

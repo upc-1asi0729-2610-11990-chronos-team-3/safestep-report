@@ -218,7 +218,7 @@ SafeStep implementa configuración SEO robusta en todas las páginas para maximi
 
 #### Dominio Principal
 
-`https://www.safestep.com` (o el dominio final registrado)
+<a href="https://www.safestep.com">https://www.safestep.com</a> (o el dominio final registrado)
 
 ### 4.2.3.2. Landing Page SEO Tags
 
@@ -683,5 +683,8 @@ SafeStep proporciona feedback claro durante la navegación.
 - Spinners para acciones cortas.
 - Progress bars para descargas/cargas largas.
 - Niveles de progreso en contenido sequential.
+
+
+
 
 

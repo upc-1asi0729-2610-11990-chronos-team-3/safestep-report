@@ -1,4 +1,4 @@
-<br>
+﻿<br>
 
 <div align="center">
   <img src="./markdown/assets/images/upc-logo.png" alt="UPC Logo" />
@@ -335,23 +335,23 @@
 
 **URL de la organización**: 
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3">https://github.com/upc-1asi0729-2610-11990-chronos-team-3</a>
 
 **URL del reporte de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report</a>
 
 **URL del landing page de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page.git</a>
 
 **URL del frontend de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git</a>
 
 **URL del backend de SafeStep**:
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend</a>
 
 <br>
 <br>
@@ -1394,7 +1394,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/DEq_rtuM_Ng" target="_blank" rel="noopener noreferrer">https://youtu.be/DEq_rtuM_Ng</a>
+            Link de la entrevista: <a href="https://youtu.be/DEq_rtuM_Ng" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/DEq_rtuM_Ng</a>
         </td>
     </tr>
     <tr>
@@ -1473,7 +1473,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://www.youtube.com/watch?v=5td3gHjUBVw" target="_blank" rel="noopener noreferrer">https://www.youtube.com/watch?v=5td3gHjUBVw</a>
+            Link de la entrevista: <a href="https://www.youtube.com/watch?v=5td3gHjUBVw" style="word-break: break-all; overflow-wrap: anywhere;">https://www.youtube.com/watch?v=5td3gHjUBVw</a>
         </td>
     </tr>
     <tr>
@@ -1552,7 +1552,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/N1L3TChMK6w" target="_blank" rel="noopener noreferrer">https://youtu.be/N1L3TChMK6w</a>
+            Link de la entrevista: <a href="https://youtu.be/N1L3TChMK6w" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/N1L3TChMK6w</a>
         </td>
     </tr>
     <tr>
@@ -1631,7 +1631,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/qjcDbt8-Obk" target="_blank" rel="noopener noreferrer">https://youtu.be/N1L3TChMK6w</a>
+            Link de la entrevista: <a href="https://youtu.be/qjcDbt8-Obk" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/qjcDbt8-Obk</a>
         </td>
     </tr>
     <tr>
@@ -1710,7 +1710,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/r7HQDIlXcsA" target="_blank" rel="noopener noreferrer">https://youtu.be/r7HQDIlXcsA</a>
+            Link de la entrevista: <a href="https://youtu.be/r7HQDIlXcsA" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/r7HQDIlXcsA</a>
         </td>
     </tr>
     <tr>
@@ -1792,7 +1792,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/tcYkW5-9Oh" target="_blank" rel="noopener noreferrer">https://youtu.be/tcYkW5-9Oh</a>
+            Link de la entrevista: <a href="https://youtu.be/tcYkW5-9Oh" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/tcYkW5-9Oh</a>
         </td>
     </tr>
     <tr>
@@ -1874,7 +1874,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Click aquí</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQDbFlhEINQvT45Otx80J_hnAbtQ9dRFtdzn2oUHG5tSYJQ?e=AZkgmM&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
         </td>
     </tr>
     <tr>
@@ -1956,7 +1956,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank" rel="noopener noreferrer">Click aquí</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQCciLTZaWZVSo2Byxy3vkGYATEv5m3SAtT56hPzhOW7qjc?e=nUtcma&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
         </td>
     </tr>
     <tr>
@@ -2041,7 +2041,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/lpGebdtVGkM" target="_blank" rel="noopener noreferrer">https://youtu.be/lpGebdtVGkM</a>
+            Link de la entrevista: <a href="https://youtu.be/lpGebdtVGkM" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/lpGebdtVGkM</a>
         </td>
     </tr>
     <tr>
@@ -2126,7 +2126,7 @@ A continuación, se muestra la transcripción, evidencia y resumen de cada entre
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://youtu.be/itTG0QX_dkg" target="_blank" rel="noopener noreferrer"> https://youtu.be/itTG0QX_dkg </a>
+            Link de la entrevista: <a href="https://youtu.be/itTG0QX_dkg" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/itTG0QX_dkg</a>
         </td>
     </tr>
     <tr>
@@ -2651,9 +2651,7 @@ Cada mapa busca responder las preguntas centrales del diseño centrado en el usu
 El Big Picture EventStorming consiste en una exploración de alto nivel que busca alinear a los involucrados mediante el mapeo de eventos de dominio en una línea de tiempo extensa. Su propósito es capturar la narrativa completa del negocio para identificar puntos de fricción y establecer los límites preliminares de los Bounded Contexts antes de realizar un diseño técnico detallado
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=610945114680" target="_blank">
-        <img src="./markdown/assets/images/chapter-2/SafeStepOpenSource.jpg" alt="Event Storming Fase 2 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=610945114680">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=610945114680</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -4595,7 +4593,7 @@ SafeStep implementa configuración SEO robusta en todas las páginas para maximi
 
 #### Dominio Principal
 
-`https://www.safestep.com` (o el dominio final registrado)
+<a href="https://www.safestep.com">https://www.safestep.com</a> (o el dominio final registrado)
 
 ### 4.2.3.2. Landing Page SEO Tags
 
@@ -6543,7 +6541,7 @@ El video incluye:
   </p>
 </div>
 
-Enlace del video: https://youtu.be/_nZcADweJ3k
+Enlace del video: <a href="https://youtu.be/_nZcADweJ3k">https://youtu.be/_nZcADweJ3k</a>
 
 ## 4.5.3. Prototipo Mobile
 
@@ -6748,7 +6746,7 @@ El video incluye:
   </p>
 </div>
 
-Enlace del video: https://youtu.be/cFe5_H0TDsA
+Enlace del video: <a href="https://youtu.be/cFe5_H0TDsA">https://youtu.be/cFe5_H0TDsA</a>
 
 ## 4.5.4. Flujos de Interacción Principales
 
@@ -6860,9 +6858,7 @@ En esta fase, el equipo aplica la técnica de **Design-Level Event Storming** pa
 En esta fase se realiza una lluvia de ideas masiva de los hechos significativos del negocio denominados domain events, los cuales se registran en notas naranjas y se redactan obligatoriamente en tiempo pasado, sin priorizar inicialmente el orden o la duplicidad de los mismos.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667282704465&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase1.jpg" alt="Event Storming Fase 1 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667282704465&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667282704465&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6872,9 +6868,7 @@ En esta fase se realiza una lluvia de ideas masiva de los hechos significativos 
 Consiste en organizar los domain events en orden cronológico, comenzando por el "happy path" (escenario de éxito). Posteriormente, se integran los escenarios alternativos y se refina el flujo eliminando duplicados o corrigiendo eventos erróneos para asegurar la coherencia del proceso.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase2.jpg" alt="Event Storming Fase 2 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285676558&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6884,9 +6878,7 @@ Consiste en organizar los domain events en orden cronológico, comenzando por el
 Se analiza la línea de tiempo para identificar ineficiencias como cuellos de botella, procesos manuales o vacíos de información. Estos puntos se señalizan con notas rosadas rotadas (en forma de diamante) para asegurar que sean abordados durante el diseño técnico.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757095&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase3.jpg" alt="Event Storming Fase 3 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757095&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757095&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6896,9 +6888,7 @@ Se analiza la línea de tiempo para identificar ineficiencias como cuellos de bo
 Se identifican eventos de negocio significativos que marcan un cambio de fase o contexto en el proceso. Estos se señalan con una barra vertical y son los principales indicadores para definir los límites de los Bounded Contexts (módulos del sistema).
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757655&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase4.jpg" alt="Event Storming Fase 4 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757655&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285757655&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6908,9 +6898,7 @@ Se identifican eventos de negocio significativos que marcan un cambio de fase o 
 Describe la acción o el desencadenante que activa un evento o flujo de eventos. Se redacta en imperativo y se representa con notas azul claro. Si el comando es ejecutado por un rol específico, se incluye la información del actor mediante una pequeña nota amarilla.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285899995&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase5.jpg" alt="Event Storming Fase 5 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285899995&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285899995&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6920,9 +6908,7 @@ Describe la acción o el desencadenante que activa un evento o flujo de eventos.
 Identifica las reglas de automatización donde un domain event activa automáticamente la ejecución de un command. Estas políticas se representan con notas púrpuras y sirven para definir la lógica de reacción del sistema sin intervención directa de un actor, permitiendo especificar criterios de decisión si es necesario.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285900230&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase6.jpg" alt="Event Storming Fase 6 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285900230&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764667285900230&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6932,9 +6918,7 @@ Identifica las reglas de automatización donde un domain event activa automátic
 Un read model es la vista de datos (pantallas, informes o notificaciones) que un actor utiliza para tomar la decisión de ejecutar un comando. Se representa con notas verdes y se coloca en el flujo antes del comando que respalda.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668346650835&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase7.jpg" alt="Event Storming Fase 7 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668346650835&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668346650835&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6944,9 +6928,7 @@ Un read model es la vista de datos (pantallas, informes o notificaciones) que un
 Se refiere a cualquier sistema fuera del dominio que se está explorando. Estos sistemas pueden ejecutar comandos (entrada) o recibir notificaciones sobre eventos (salida). Se representan con notas rosadas y permiten modelar la interacción de SafeStep con servicios externos, como pasarelas de pago o proveedores de mapas.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668352244008&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase8.jpg" alt="Event Storming Fase 8 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668352244008&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668352244008&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6956,9 +6938,7 @@ Se refiere a cualquier sistema fuera del dominio que se está explorando. Estos 
 En este paso, se organizan los conceptos relacionados en agregados, los cuales tienen la responsabilidad de recibir comandos y producir eventos. Se representan mediante notas adhesivas amarillas grandes, ubicando los comandos a la izquierda y los eventos resultantes a la derecha del agregado.
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668357193046&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase9.jpg" alt="Event Storming Fase 9 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668357193046&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668357193046&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><em>Haz clic en la imagen para ver el tablero en Miro</em></sub>
 </div>
@@ -6968,9 +6948,7 @@ En este paso, se organizan los conceptos relacionados en agregados, los cuales t
 Es el paso final donde se agrupan los agregados que están relacionados entre sí, ya sea por su funcionalidad o por estar vinculados a través de políticas. Estos grupos definen los límites de los Bounded Contexts, estableciendo las fronteras lógicas y técnicas de los diferentes módulos del sistema.
 
 <div align="center">
-    <a href="https://miro.com/app/board/uXjVGlN0dvA=/" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/eventstorming-fase10.jpg" alt="Bounded Contexts - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/board/uXjVGlN0dvA=/">https://miro.com/app/board/uXjVGlN0dvA=/</a>
     <br>
     <sub><small>link (vista de todos los BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=71377687029</a></small></sub>
     <br></br>
@@ -6978,45 +6956,35 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
 
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/BD1.jpeg" alt="Event Storming Fase 10 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><small>link (Identidad y acceso BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372344380&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/BD2.jpeg" alt="Event Storming Fase 10 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><small>link (Simulacion medica BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009035&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/BD3.jpeg" alt="Event Storming Fase 10 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><small>link (Tutoria y aprendizaje BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009099&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/BD4.jpeg" alt="Event Storming Fase 10 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><small>link (Gamificacion y lealtad BC): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009159&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br></br>
 </div>
 
 <div align="center">
-    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239" target="_blank">
-        <img src="./markdown/assets/images/chapter-4/BD5.jpeg" alt="Event Storming Fase 10 - SafeStep" />
-    </a>
+    <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668372090204&embedMode=view_only_without_ui&embedId=667671003239</a>
     <br>
     <sub><small>link (Marketplace y suministros): <a href="https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029">https://miro.com/app/live-embed/uXjVGlN0dvA=/?focusWidget=3458764668373009234&embedMode=view_only_without_ui&embedId=71377687029</small></sub>
     <br>
@@ -7026,7 +6994,7 @@ Es el paso final donde se agrupan los agregados que están relacionados entre s�
 
 **link del miro completo**
 
-https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925
+<a href="https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925">https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925</a>
 
 
 
@@ -7077,7 +7045,7 @@ En esta sección, se presenta el diseño orientado a objetos del software SafeSt
 
 **link del miro para una mejor vista** 
 
-https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640
+<a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
 
 <br>
 <br>
@@ -7111,7 +7079,7 @@ Maneja el flujo de conversión, desde el carrito de compras persistente, validac
 
 **link del diagrama de base de datos para una mejor vista**
 
-https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476
+<a href="https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</a>
 
 <br>
 <br>
@@ -7135,71 +7103,71 @@ A continuación se presentan las herramientas y tecnologías seleccionadas para 
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | https://trello.com/b/UHs6EvyH/safestep-team-3 | SaaS |
-| GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | https://github.com/upc-1asi0729-2610-11990-chronos-team-3 | SaaS |
-| Google Drive | Almacenamiento y colaboración documentos de análisis y requerimientos | https://drive.google.com | SaaS |
-| Discord | Comunicación en tiempo real del equipo y reuniones virtuales | https://discord.com | SaaS |
+| Trello | Gestión del Product Backlog, Sprint Boards y seguimiento de tareas del proyecto | <a href="https://trello.com/b/UHs6EvyH/safestep-team-3">https://trello.com/b/UHs6EvyH/safestep-team-3</a> | SaaS |
+| GitHub Projects | Gestión de Issues y seguimiento del progreso del desarrollo en sincronización con los repositorios | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3">https://github.com/upc-1asi0729-2610-11990-chronos-team-3</a> | SaaS |
+| Google Drive | Almacenamiento y colaboración documentos de análisis y requerimientos | <a href="https://drive.google.com">https://drive.google.com</a> | SaaS |
+| Discord | Comunicación en tiempo real del equipo y reuniones virtuales | <a href="https://discord.com">https://discord.com</a> | SaaS |
 
 ### 5.1.1.2. Herramientas de Diseño UX/UI
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Figma | Diseño de interfaces, wireframes, mockups y prototipos interactivos | https://www.figma.com | SaaS |
-| Canva | Creación de assets gráficos, presentaciones y materiales visuales | https://www.canva.com | SaaS |
+| Figma | Diseño de interfaces, wireframes, mockups y prototipos interactivos | <a href="https://www.figma.com">https://www.figma.com</a> | SaaS |
+| Canva | Creación de assets gráficos, presentaciones y materiales visuales | <a href="https://www.canva.com">https://www.canva.com</a> | SaaS |
 
 ### 5.1.1.3. Herramientas de Desarrollo Frontend
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Visual Studio Code | Editor de código principal para el desarrollo del frontend Angular | https://code.visualstudio.com | Descargable |
-| Angular CLI | Interfaz de línea de comandos para crear, desarrollar y builds de proyectos Angular | https://angular.io/cli | Descargable (npm) |
-| Node.js | Entorno de ejecución JavaScript del lado del servidor para servicios de desarrollo | https://nodejs.org | Descargable |
-| npm | Gestor de paquetes para JavaScript, utilizado para instalar dependencias de Angular | https://www.npmjs.com | Descargable |
-| TypeScript | Lenguaje de programación strongly-typed que compila a JavaScript | https://www.typescriptlang.org | Descargable (npm) |
+| Visual Studio Code | Editor de código principal para el desarrollo del frontend Angular | <a href="https://code.visualstudio.com">https://code.visualstudio.com</a> | Descargable |
+| Angular CLI | Interfaz de línea de comandos para crear, desarrollar y builds de proyectos Angular | <a href="https://angular.io/cli">https://angular.io/cli</a> | Descargable (npm) |
+| Node.js | Entorno de ejecución JavaScript del lado del servidor para servicios de desarrollo | <a href="https://nodejs.org">https://nodejs.org</a> | Descargable |
+| npm | Gestor de paquetes para JavaScript, utilizado para instalar dependencias de Angular | <a href="https://www.npmjs.com">https://www.npmjs.com</a> | Descargable |
+| TypeScript | Lenguaje de programación strongly-typed que compila a JavaScript | <a href="https://www.typescriptlang.org">https://www.typescriptlang.org</a> | Descargable (npm) |
 
 ### 5.1.1.4. Herramientas de Desarrollo Backend
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Spring Boot | Framework de desarrollo backend basado en Java | https://spring.io/projects/spring-boot | Descargable |
-| Java Development Kit (JDK 17) | Kit de desarrollo de Java necesario para compilar y ejecutar aplicaciones Spring Boot | https://www.oracle.com/java/technologies/downloads/#java17 | Descargable |
-| Apache Maven | Herramienta de gestión de proyectos y gestión de dependencias para Java | https://maven.apache.org | Descargable |
-| IntelliJ IDEA | IDE recomendado para el desarrollo backend con Spring Boot | https://www.jetbrains.com/idea | Descargable |
+| Spring Boot | Framework de desarrollo backend basado en Java | <a href="https://spring.io/projects/spring-boot">https://spring.io/projects/spring-boot</a> | Descargable |
+| Java Development Kit (JDK 17) | Kit de desarrollo de Java necesario para compilar y ejecutar aplicaciones Spring Boot | <a href="https://www.oracle.com/java/technologies/downloads/#java17">https://www.oracle.com/java/technologies/downloads/#java17</a> | Descargable |
+| Apache Maven | Herramienta de gestión de proyectos y gestión de dependencias para Java | <a href="https://maven.apache.org">https://maven.apache.org</a> | Descargable |
+| IntelliJ IDEA | IDE recomendado para el desarrollo backend con Spring Boot | <a href="https://www.jetbrains.com/idea">https://www.jetbrains.com/idea</a> | Descargable |
 
 ### 5.1.1.5. Herramientas de Control de Versiones
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Git | Sistema de control de versiones distribuido | https://git-scm.com | Descargable |
-| GitHub | Plataforma de alojamiento de repositorios Git y colaboración | https://github.com | SaaS |
-| GitHub Desktop | Aplicación GUI para gestionar repositorios Git de forma visual | https://desktop.github.com | Descargable |
+| Git | Sistema de control de versiones distribuido | <a href="https://git-scm.com">https://git-scm.com</a> | Descargable |
+| GitHub | Plataforma de alojamiento de repositorios Git y colaboración | <a href="https://github.com">https://github.com</a> | SaaS |
+| GitHub Desktop | Aplicación GUI para gestionar repositorios Git de forma visual | <a href="https://desktop.github.com">https://desktop.github.com</a> | Descargable |
 
 ### 5.1.1.6. Herramientas de Documentación y Calidad de Código
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| ESLint | Analizador de código estático para identificar patrones problemáticos en JavaScript/TypeScript | https://eslint.org | Descargable (npm) |
-| Prettier | Formateador de código Opinionated para mantener consistencia en el código | https://prettier.io | Descargable (npm) |
-| Markdown | Lenguaje de formato para documentación técnica | https://www.markdownguide.org | Referencia |
-| OpenAPI (Swagger) | Especificación para documentar APIs REST | https://swagger.io/specification | Referencia |
+| ESLint | Analizador de código estático para identificar patrones problemáticos en JavaScript/TypeScript | <a href="https://eslint.org">https://eslint.org</a> | Descargable (npm) |
+| Prettier | Formateador de código Opinionated para mantener consistencia en el código | <a href="https://prettier.io">https://prettier.io</a> | Descargable (npm) |
+| Markdown | Lenguaje de formato para documentación técnica | <a href="https://www.markdownguide.org">https://www.markdownguide.org</a> | Referencia |
+| OpenAPI (Swagger) | Especificación para documentar APIs REST | <a href="https://swagger.io/specification">https://swagger.io/specification</a> | Referencia |
 
 ### 5.1.1.7. Herramientas de Despliegue
 
 | Herramienta | Propósito |URL de Referencia | URL de Despliegue | Tipo |
 |-------------|-----------|------------------|-------------------|------|
-| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page | SaaS |
-| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | https://pages.github.com | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend | SaaS |
-| my-json-server | Plataforma de despliegue para la API REST simulada del backend | https://my-json-server.typicode.com | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server | SaaS |
+| GitHub Pages | Plataforma de despliegue para el landing page estático de SafeStep | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a> | SaaS |
+| GitHub Pages | Plataforma de despliegue para la aplicación frontend Angular | <a href="https://pages.github.com">https://pages.github.com</a> | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> | SaaS |
+| my-json-server | Plataforma de despliegue para la API REST simulada del backend | <a href="https://my-json-server.typicode.com">https://my-json-server.typicode.com</a> | <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a> | SaaS |
 
 ### 5.1.1.8. Herramientas de Testing
 
 | Herramienta | Propósito |URL de Referencia | Tipo |
 |-------------|-----------|------------------|------|
-| Jasmine | Framework de testing para aplicaciones Angular | https://jasmine.github.io | Descargable (npm) |
-| Karma | Test runner para Angular que permite ejecutar pruebas en múltiples navegadores | https://karma-runner.github.io | Descargable (npm) |
-| Jest | Framework de testing alternativo para aplicaciones JavaScript/TypeScript | https://jestjs.io | Descargable (npm) |
-| JUnit | Framework de testing para aplicaciones Java/Spring Boot | https://junit.org/junit5 | Descargable |
-| Postman | Herramienta para testing manual de endpoints API | https://www.postman.com | Descargable |
+| Jasmine | Framework de testing para aplicaciones Angular | <a href="https://jasmine.github.io">https://jasmine.github.io</a> | Descargable (npm) |
+| Karma | Test runner para Angular que permite ejecutar pruebas en múltiples navegadores | <a href="https://karma-runner.github.io">https://karma-runner.github.io</a> | Descargable (npm) |
+| Jest | Framework de testing alternativo para aplicaciones JavaScript/TypeScript | <a href="https://jestjs.io">https://jestjs.io</a> | Descargable (npm) |
+| JUnit | Framework de testing para aplicaciones Java/Spring Boot | <a href="https://junit.org/junit5">https://junit.org/junit5</a> | Descargable |
+| Postman | Herramienta para testing manual de endpoints API | <a href="https://www.postman.com">https://www.postman.com</a> | Descargable |
 
 ### 5.1.1.9. Requisitos del Sistema por Miembro del Equipo
 
@@ -7231,10 +7199,10 @@ El equipo Chronos utiliza la organización GitHub "upc-chronos-team-3" para gest
 
 | Repositorio | URL GitHub | Propósito |
 |-------------|-----------|-----------|
-| SafeStep Report | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report | Documentación del proyecto en formato markdown |
-| SafeStep Frontend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend | Aplicación web interactiva desarrollada en Angular |
-| SafeStep Backend | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend | API RESTful desarrollada en Spring Boot |
-| SafeStep Landing | https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page | Página landing pública de presentación del producto |
+| SafeStep Report | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-report</a> | Documentación del proyecto en formato markdown |
+| SafeStep Frontend | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend</a> | Aplicación web interactiva desarrollada en Angular |
+| SafeStep Backend | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend</a> | API RESTful desarrollada en Spring Boot |
+| SafeStep Landing | <a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page</a> | Página landing pública de presentación del producto |
 
 ### 5.1.2.2. GitFlow Implementation
 
@@ -7433,7 +7401,7 @@ Para configurar el despliegue, se debe habilitar GitHub Pages en la configuraci�
 
 La URL pública del landing page es:
 
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
 
 #### 5.1.4.2.2. Configuración de Frontend en GitHub Pages
 
@@ -7447,7 +7415,7 @@ npm run build
 
 La URL pública del frontend es:
 
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a>
 
 #### 5.1.4.2.3. Configuración de API en my-json-server
 
@@ -7455,7 +7423,7 @@ El Backend API se despliega en my-json-server, una plataforma que permite crear 
 
 La configuración consiste en alojar el archivo `db.json` en la raíz del repositorio `safestep-backend` con la estructura de datos que la aplicación frontend necesita consumir. my-json-server genera automáticamente los endpoints REST basados en las claves del archivo JSON.
 
-La URL base de la API es: `https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server`
+La URL base de la API es: <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
 
 ### 5.1.4.3. Procedimientos de Despliegue
 
@@ -7669,7 +7637,7 @@ El equipo utiliza un Trello Board para gestionar visualmente el Sprint Backlog. 
 
 **URL pública del Trello Board del Sprint 1:**
 
-https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource
+<a href="https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource">https://trello.com/invite/b/6a33714212af251d16ad5375/ATTIc66162c0ecd0e36388869fdbf265255955DE7093/sprint-1-opensource</a>
 
 <div align="center">
   <p>
@@ -7993,7 +7961,7 @@ El equipo realizó un total de 10 commits en el repositorio de Landing Page dura
 
 **Repositorio de Landing Page:**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-landing-page</a>
 
 **Estadísticas del repositorio:**
 
@@ -8138,7 +8106,7 @@ GitHub Pages proporciona automáticamente un certificado SSL/TLS válido para to
 
 La Landing Page de SafeStep se encuentra actualmente en producción y accesible públicamente a través de la siguiente URL:
 
-https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page
+<a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a>
 
 El despliegue en GitHub Pages desde la rama `gh-pages` ha resultado ser una solución eficiente y sin costos para alojar la presencia digital inicial de SafeStep. Esta plataforma ofrece alta disponibilidad, CDN global para entrega de contenido, y escalabilidad automática, lo que garantiza una experiencia de usuario óptima independientemente del volumen de visitantes.
 
@@ -8305,7 +8273,7 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
         </tr>
         <tr>
             <td>Sprint n - 1 Review Summary</td>
-            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</td>
+            <td>Sprint 1 completado exitosamente: Landing Page pública desplegada en GitHub Pages. Se lograron 21 SP con todas las tareas en estado Done. La Landing Page está accesible en <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-landing-page</a></td>
         </tr>
         <tr>
             <td>Sprint n - 1 Retrospective Summary</td>
@@ -8464,7 +8432,7 @@ El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goa
 
 **URL pública del Trello Board del Sprint 2:**
 
-https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource
+<a href="https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource">https://trello.com/invite/b/6a3373a8e98b5c2617ea4c26/ATTI5e61bf3dc39dc696745f5ead1796409cEECDECC7/sprint2-opensource</a>
 
 <div align="center">
   <p>
@@ -8840,11 +8808,11 @@ La aplicación frontend implementada durante el Sprint 2 cuenta con las siguient
 
 **Repositorio de Frontend:**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend</a>
 
 **Repositorio de json-server (datos de prueba):**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
 
 ### 5.2.2.5. Execution Evidence for Sprint Review
 
@@ -8931,7 +8899,7 @@ La API REST simulada expone los siguientes endpoints para cada bounded context, 
 | `/ecommerce` | GET | Obtener productos del catálogo | `GET /api/v1/ecommerce` | Ninguno | `{ "products": [...], "categories": [...] }` |
 | `/statistics` | GET | Obtener estadísticas de progreso | `GET /api/v1/statistics` | Ninguno | `{ "completedSimulations": 24, "avgPrecision": 85, ... }` |
 
-La URL base de la API desplegada es: `https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server`
+La URL base de la API desplegada es: <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a>
 
 ### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
@@ -9036,8 +9004,8 @@ https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safes
 
 | Producto | Plataforma | URL |
 |----------|-----------|-----|
-| Frontend Angular | GitHub Pages | https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend |
-| API de datos | my-json-server | https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server |
+| Frontend Angular | GitHub Pages | <a href="https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend">https://upc-1asi0729-2610-11990-chronos-team-3.github.io/safestep-frontend</a> |
+| API de datos | my-json-server | <a href="https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server">https://my-json-server.typicode.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-json-server</a> |
 
 ### 5.2.2.8. Team Collaboration Insights during Sprint
 
@@ -9352,7 +9320,7 @@ El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goa
 
 **URL pública del Trello Board del Sprint 3:**
 
-https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3
+<a href="https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3">https://trello.com/invite/b/6a3366e7a1ab6de28a2182fc/ATTI70030143a2ae3b808fd71a72133e3950E86F42D3/sprint-3</a>
 
 <div align="center">
   <p>
@@ -9946,15 +9914,15 @@ En esta seccion se explica y presenta los avances de implementacion realizados d
 
 **Repositorio de Backend:**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-backend.git</a>
 
 **Repositorio de Frontend :**
 
-https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git
+<a href="https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git">https://github.com/upc-1asi0729-2610-11990-chronos-team-3/safestep-frontend.git</a>
 
 **Referencia de Swagger desplegado:**
 
-https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+<a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 ### 5.2.3.5. Execution Evidence for Sprint Review
 
@@ -10017,11 +9985,11 @@ La documentacion de servicios permite que los integrantes del equipo frontend y 
 
 **Swagger UI:** 
 
-https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+<a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 **OpenAPI JSON:** 
 
-https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html
+<a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a>
 
 
 | Bounded Context | Endpoint | Metodo | Descripcion | Parametros | Ejemplo Response |
@@ -10210,10 +10178,10 @@ El equipo verifico los endpoints principales utilizando Swagger UI y peticiones 
 
 | Producto | Plataforma | URL |
 |----------|-----------|-----|
-| Backend Spring Boot | Local environment | http://localhost:8092 |
-| Swagger UI | Local environment | http://localhost:8092/swagger-ui/index.html |
-| OpenAPI JSON | Local environment | http://localhost:8092/v3/api-docs |
-| Backend desplegado | https://render.com/ | https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html |
+| Backend Spring Boot | Local environment | <a href="http://localhost:8092">http://localhost:8092</a> |
+| Swagger UI | Local environment | <a href="http://localhost:8092/swagger-ui/index.html">http://localhost:8092/swagger-ui/index.html</a> |
+| OpenAPI JSON | Local environment | <a href="http://localhost:8092/v3/api-docs">http://localhost:8092/v3/api-docs</a> |
+| Backend desplegado | <a href="https://render.com/">https://render.com/</a> | <a href="https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html">https://safestep-backend-fxuw.onrender.com/swagger-ui/index.html</a> |
 
 ### 5.2.3.8. Team Collaboration Insights during Sprint
 
@@ -10434,7 +10402,7 @@ A continuación, se presentan los cuadros de registro para las entrevistas de va
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte" target="_blank" rel="noopener noreferrer">Entrevista a luciana</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQAyHQ9zYCXpTK-6YH-8ZX6DAaCHFlV8RjsE_FTgyGTXgyg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=XugCte</a>
         </td>
     </tr>
     <tr>
@@ -10555,7 +10523,7 @@ Agregaría una sección inicial de explicación rápida, como un pequeño tutori
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee" target="_blank" rel="noopener noreferrer">Entrevista a Vivian</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u202315165_upc_edu_pe/IQCL5jTx-skXTo0-TpL3it1kAe_J86duOpp7QmsUrMbwsUg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=BcA9Ee</a>
         </td>
     </tr>
     <tr>
@@ -10678,7 +10646,7 @@ Agregaría una explicación inicial o guía rápida dentro de la aplicación par
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss" target="_blank" rel="noopener noreferrer">[Entrevista a Rodrigo]</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231b781_upc_edu_pe/IQB9y3zKDB4MQ6OIm5edG54IAYUEwJSO7r1IzjdVk2xAfb4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=Wcf3ss</a>
         </td>
     </tr>
     <tr>
@@ -10779,7 +10747,7 @@ Agregaría más simulaciones sobre emergencias comunes en el hogar y el vecindar
     </tr>
     <tr>
         <td colspan="2" align="center">
-            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9" target="_blank" rel="noopener noreferrer">Entrevista de Validación 5</a>
+            Link de la entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9" style="word-break: break-all; overflow-wrap: anywhere;">https://upcedupe-my.sharepoint.com/:v:/g/personal/u20231c524_upc_edu_pe/IQBUW35fykXxQa3Zw5aIlyysAZ9SJmB69--ppxUl8eElCLQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=VIEHA9</a>
         </td>
     </tr>
     <tr>
@@ -10984,7 +10952,7 @@ En conclusión, SafeStep fue validado positivamente por los tres segmentos repre
 
 # 5.3. Video About-the-Product
 
-El video about the product es el siguiente: [https://youtu.be/-RuGA9r1EsM](https://youtu.be/-RuGA9r1EsM)
+El video about the product es el siguiente: [<a href="https://youtu.be/-RuGA9r1EsM](https://youtu.be/-RuGA9r1EsM)">https://youtu.be/-RuGA9r1EsM](https://youtu.be/-RuGA9r1EsM)</a>
 
 # Conclusiones
 
@@ -11000,26 +10968,29 @@ Para el Avance 2, el equipo deberá enfocarse en profundizar el proceso de elici
 
 # Bibliografía
 
-Caicedo Vega, J. L., & Zumbado Fernández, H. M. (2023). *Conocimiento sobre primeros auxilios en docentes de educación básica de la ciudad de Portoviejo, Ecuador*. Revista Eugenio Espejo, 17(2), 22-32. https://www.redalyc.org/journal/5728/572874846004/html/ 
+Caicedo Vega, J. L., & Zumbado Fernández, H. M. (2023). *Conocimiento sobre primeros auxilios en docentes de educación básica de la ciudad de Portoviejo, Ecuador*. Revista Eugenio Espejo, 17(2), 22-32. <a href="https://www.redalyc.org/journal/5728/572874846004/html/">https://www.redalyc.org/journal/5728/572874846004/html/</a> 
 
-Chuman Ramos, G. S., & Ramírez Mayorca, S. M. (2024). *Efectividad de una intervención educativa en el conocimiento sobre primeros auxilios en estudiantes de una institución educativa de Lima, 2023*. Tesis de Licenciatura. Fac. Enfermería , Univ. UPCH. [En línea]. https://repositorio.upch.edu.pe/bitstream/handle/20.500.12866/16365/Efectividad_ChumanRamos_Gemma.pdf?sequence=1 
+Chuman Ramos, G. S., & Ramírez Mayorca, S. M. (2024). *Efectividad de una intervención educativa en el conocimiento sobre primeros auxilios en estudiantes de una institución educativa de Lima, 2023*. Tesis de Licenciatura. Fac. Enfermería , Univ. UPCH. [En línea]. <a href="https://repositorio.upch.edu.pe/bitstream/handle/20.500.12866/16365/Efectividad_ChumanRamos_Gemma.pdf?sequence=1">https://repositorio.upch.edu.pe/bitstream/handle/20.500.12866/16365/Efectividad_ChumanRamos_Gemma.pdf?sequence=1</a> 
 
-Do Thi, N., Hoang Thi, G., Lee, Y., Pham Minh, K., Nguyen Thanh, H., Shin, J.-S., & Luong Xuan, T. (2024). First-aid training for primary Healthcare providers on a remote Island: a mixed-methods study. *BMC Medical Education, 24*, Artículo 790. https://doi.org/10.1186/s12909-024-05768-6
+Do Thi, N., Hoang Thi, G., Lee, Y., Pham Minh, K., Nguyen Thanh, H., Shin, J.-S., & Luong Xuan, T. (2024). First-aid training for primary Healthcare providers on a remote Island: a mixed-methods study. *BMC Medical Education, 24*, Artículo 790. <a href="https://doi.org/10.1186/s12909-024-05768-6">https://doi.org/10.1186/s12909-024-05768-6</a>
 
-Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja. (2025). *First aid*. Recuperado de https://www.ifrc.org/our-work/health-and-care/first-aid
+Federación Internacional de Sociedades de la Cruz Roja y de la Media Luna Roja. (2025). *First aid*. Recuperado de <a href="https://www.ifrc.org/our-work/health-and-care/first-aid">https://www.ifrc.org/our-work/health-and-care/first-aid</a>
 
-García-Blaya, J. Á., Abraldes, J. A., & Vaquero-Cristóbal, R. (2025). Assessment of First Aid Knowledge at Different Stages of Education. *Healthcare*, 13(13), Artículo 1507. https://doi.org/10.3390/healthcare13131507
+García-Blaya, J. Á., Abraldes, J. A., & Vaquero-Cristóbal, R. (2025). Assessment of First Aid Knowledge at Different Stages of Education. *Healthcare*, 13(13), Artículo 1507. <a href="https://doi.org/10.3390/healthcare13131507">https://doi.org/10.3390/healthcare13131507</a>
 
-Gobierno Regional de La Libertad. (2017, 5 de septiembre). *Charla de primeros auxilios para casos de accidentes en la comunidad y hogar*. gob.pe. https://www.gob.pe/institucion/regionlalibertad/noticias/105724-charla-de-primeros-auxilios-para-casos-de-accidentes-en-la-comunidad-y-hogar 
+Gobierno Regional de La Libertad. (2017, 5 de septiembre). *Charla de primeros auxilios para casos de accidentes en la comunidad y hogar*. gob.pe. <a href="https://www.gob.pe/institucion/regionlalibertad/noticias/105724-charla-de-primeros-auxilios-para-casos-de-accidentes-en-la-comunidad-y-hogar">https://www.gob.pe/institucion/regionlalibertad/noticias/105724-charla-de-primeros-auxilios-para-casos-de-accidentes-en-la-comunidad-y-hogar</a> 
 
-Lozano Villegas, C. (2024). *Factores asociados al nivel de conocimiento en primeros auxilios en estudiantes de la Universidad Ricardo Palma durante el 2022*. Universidad Ricardo Palma - URP. Disponible en: https://hdl.handle.net/20.500.14138/7399 
+Lozano Villegas, C. (2024). *Factores asociados al nivel de conocimiento en primeros auxilios en estudiantes de la Universidad Ricardo Palma durante el 2022*. Universidad Ricardo Palma - URP. Disponible en: <a href="https://hdl.handle.net/20.500.14138/7399">https://hdl.handle.net/20.500.14138/7399</a> 
 
-Ministerio de Salud del Perú. (2025, 20 de febrero). *Exigente formación de los brigadistas de primera respuesta en salud del Minsa garantiza atenciones de calidad ante los desastres*. gob.pe. https://www.gob.pe/institucion/minsa/noticias/1113583-exigente-formacion-de-los-brigadistas-de-primera-respuesta-en-salud-del-minsa-garantiza-atenciones-de-calidad-ante-los-desastres 
+Ministerio de Salud del Perú. (2025, 20 de febrero). *Exigente formación de los brigadistas de primera respuesta en salud del Minsa garantiza atenciones de calidad ante los desastres*. gob.pe. <a href="https://www.gob.pe/institucion/minsa/noticias/1113583-exigente-formacion-de-los-brigadistas-de-primera-respuesta-en-salud-del-minsa-garantiza-atenciones-de-calidad-ante-los-desastres">https://www.gob.pe/institucion/minsa/noticias/1113583-exigente-formacion-de-los-brigadistas-de-primera-respuesta-en-salud-del-minsa-garantiza-atenciones-de-calidad-ante-los-desastres</a> 
 
-Poder Judicial del Perú. (2019). *Preparación de brigadas de emergencia*. https://www.pj.gob.pe/wps/wcm/connect/9f79da0048ab19bf9fc0ff53388de097/PREPARACION%2BBRIGADAS%2BEMERGENCIA%2B-%2B31%2BENERO%2B2019.pdf?CACHEID=9f79da0048ab19bf9fc0ff53388de097&MOD=AJPERES 
+Poder Judicial del Perú. (2019). *Preparación de brigadas de emergencia*. <a href="https://www.pj.gob.pe/wps/wcm/connect/9f79da0048ab19bf9fc0ff53388de097/PREPARACION%2BBRIGADAS%2BEMERGENCIA%2B-%2B31%2BENERO%2B2019.pdf?CACHEID=9f79da0048ab19bf9fc0ff53388de097&MOD=AJPERES">https://www.pj.gob.pe/wps/wcm/connect/9f79da0048ab19bf9fc0ff53388de097/PREPARACION%2BBRIGADAS%2BEMERGENCIA%2B-%2B31%2BENERO%2B2019.pdf?CACHEID=9f79da0048ab19bf9fc0ff53388de097&MOD=AJPERES</a> 
 
-Ramírez-Torres, C. A., Andrade-Gómez, E., Lozano-Ochoa, C., Caparrós-Civera, M. N., & Sapiña-Beltrán, E. (2023). Nursing students bringing first aid to the community. *Frontiers in Education*, 8, Artículo 1288508. https://doi.org/10.3389/feduc.2023.1288508
+Ramírez-Torres, C. A., Andrade-Gómez, E., Lozano-Ochoa, C., Caparrós-Civera, M. N., & Sapiña-Beltrán, E. (2023). Nursing students bringing first aid to the community. *Frontiers in Education*, 8, Artículo 1288508. <a href="https://doi.org/10.3389/feduc.2023.1288508">https://doi.org/10.3389/feduc.2023.1288508</a>
 
-Rodríguez-García, A., Ruiz-García, G., Navarro-Patón, R., & Mecías-Calvo, M. (2024). Attitudes and Skills in Basic Life Support after Two Types of Training: Traditional vs. Gamification, of Compulsory Secondary Education Students: A Simulation Study. *Pediatric Reports*, 16(3), 631–643. https://doi.org/10.3390/pediatric16030053
+Rodríguez-García, A., Ruiz-García, G., Navarro-Patón, R., & Mecías-Calvo, M. (2024). Attitudes and Skills in Basic Life Support after Two Types of Training: Traditional vs. Gamification, of Compulsory Secondary Education Students: A Simulation Study. *Pediatric Reports*, 16(3), 631–643. <a href="https://doi.org/10.3390/pediatric16030053">https://doi.org/10.3390/pediatric16030053</a>
 
-White, L. (2024). First Aid Training and CPR Skills Retention (Informe de investigación). *CSA Group*. https://www.csagroup.org/wp-content/uploads/CSA-Group-Research-First-Aid-Training-and-CPR-Skill-Retention.pdf 
+White, L. (2024). First Aid Training and CPR Skills Retention (Informe de investigación). *CSA Group*. <a href="https://www.csagroup.org/wp-content/uploads/CSA-Group-Research-First-Aid-Training-and-CPR-Skill-Retention.pdf">https://www.csagroup.org/wp-content/uploads/CSA-Group-Research-First-Aid-Training-and-CPR-Skill-Retention.pdf</a> 
+
+
+
