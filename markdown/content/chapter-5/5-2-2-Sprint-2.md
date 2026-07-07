@@ -40,12 +40,12 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
             <td>Reunión virtual via Discord - Canal #sprint-planning</td>
         </tr>
         <tr>
-            <td>Prepared by</td>
+            <td>Prepared By</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>Ayala Fernandez, Jorge Brayan / Sanchez Espinoza, Mathias Enrique / Melgarejo Quiroz, Josep Eliu / Miraval Pomalaya, Rodrigo Jesus / Flores Eusebio, Angel Thyago</td>
+            <td>Ayala Fernandez, Jorge Brayan / Sanchez Espinoza, Mathias Enrique / Melgarejo Quiroz, Josep Eliu / Flores Eusebio, Angel Thyago</td>
         </tr>
         <tr>
             <td>Sprint n - 1 Review Summary</td>
@@ -56,18 +56,18 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
             <td>El equipo identificó que la comunicación fluida entre diseño y desarrollo fue clave para el éxito. Se recomienda mejorar la estimación de tareas administrativas y considerar tiempo de configuración inicial en sprints futuros.</td>
         </tr>
         <tr>
-            <td colspan="2"><b>Sprint Goal / User Stories</b></td>
+            <td colspan="2"><b>Sprint Goal &amp; User Stories</b></td>
         </tr>
         <tr>
             <td>Sprint 2 Goal</td>
-            <td>Implementar la aplicación frontend Angular de SafeStep con dashboard principal, catálogo y ejecución de simulaciones médicas, progreso y estadísticas, gamificación, tienda y carrito de compras, sistema de navegación por módulos y diseño responsivo, utilizando una arquitectura Domain-Driven Design con bounded contexts, datos de prueba en json-server, y despliegue en GitHub Pages.</td>
+            <td>Our focus is on offering the first complete web application experience for SafeStep users. We believe it delivers practical first-aid training, visible progress and motivation to learners through dashboard, simulations, statistics, gamification and store modules. This will be confirmed when users can navigate the application, practice a medical simulation, review their progress and explore emergency products from the deployed frontend.</td>
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>
             <td>El equipo estimó un velocity de 43 Story Points, considerando la experiencia adquirida en el Sprint 1 y la complejidad técnica de la aplicación Angular.</td>
         </tr>
         <tr>
-            <td>Sprint of Story Points</td>
+            <td>Sum of Story Points</td>
             <td>Total: 43 SP - Distribuidos en 5 SP para progreso y estadísticas, 3 SP para gamificación, 3 SP para tienda, 8 SP para dashboard, 16 SP para simulaciones médicas, y 8 SP para navegación y experiencia general.</td>
         </tr>
     </tbody>
@@ -102,7 +102,7 @@ La selección de estos User Stories para el Sprint 2 responde a la necesidad de 
 
 En esta sección el equipo elabora el artefacto Leadership-and-Collaboration Matrix (LACX) para el Sprint 2. Los aspectos están centrados en el desarrollo de la aplicación frontend Angular con arquitectura Domain-Driven Design, incluyendo la configuración del proyecto, implementación de bounded contexts, y despliegue en GitHub Pages.
 
-El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustados según las necesidades técnicas del Sprint 2, que requiere mayor especialización en el desarrollo de los bounded contexts de statistics, gamification y ecommerce.
+El equipo SafeStep mantiene una estructura de 4 miembros activos con roles ajustados según las necesidades técnicas del Sprint 2, que requiere mayor especialización en el desarrollo de los bounded contexts de statistics, gamification y ecommerce.
 
 **Aspectos del Sprint 2:**
 
@@ -161,17 +161,6 @@ El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustado
             <td>C</td>
         </tr>
         <tr>
-            <td>Miraval Pomalaya, Rodrigo Jesus</td>
-            <td>RodMiraval</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
-            <td>C</td>
-            <td>L</td>
-        </tr>
-        <tr>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>angelfdevs</td>
             <td>C</td>
@@ -180,10 +169,12 @@ El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustado
             <td>C</td>
             <td>C</td>
             <td>C</td>
-            <td>C</td>
+            <td>L</td>
         </tr>
     </tbody>
 </table>
+
+La organización de líderes y colaboradores se relaciona con la posterior selección de tasks del Sprint Backlog. Ayala lidera las tasks de estadísticas y validación de visualización, Sanchez lidera las tasks de simulaciones médicas, Melgarejo lidera gamificación, ecommerce, dashboard y navegación, mientras que Flores colabora en simulaciones, dashboard y lidera la documentación del Sprint.
 
 **Distribución detallada de responsabilidades:**
 
@@ -193,9 +184,8 @@ El equipo SafeStep mantiene la misma estructura de 5 miembros con roles ajustado
 
 - **Melgarejo Quiroz, Josep Eliu (Development Lead - Gamification & Ecommerce):** Responsable de la implementación de los bounded contexts de gamification y ecommerce, incluyendo la página de gamificación con niveles, insignias, misiones y ranking, así como la tienda con catálogo de productos, carrito de compras y proceso de checkout. Lidera también el desarrollo del dashboard y app shell.
 
-- **Miraval Pomalaya, Rodrigo Jesus (Documentation Lead):** Responsable de la documentación del Sprint 2, incluyendo la elaboración de este archivo y demás artefactos Scrum. Coordina con los demás miembros para recopilar información sobre el avance del Sprint.
 
-- **Flores Eusebio, Angel Thyago (Development Collaborator):** Apoya en la implementación de los diferentes bounded contexts, participando en tareas de desarrollo del dashboard, simulaciones y configuración del proyecto.
+- **Flores Eusebio, Angel Thyago (Documentation Lead & Development Collaborator):** Apoya en la implementación de los diferentes bounded contexts, participando en tareas de desarrollo del dashboard, simulaciones y configuración del proyecto. Además, lidera la documentación del Sprint 2, recopilando evidencias y verificando que los avances descritos coincidan con las tasks comprometidas.
 
 ### 5.2.2.3. Sprint Backlog 2
 
@@ -242,6 +232,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>Assigned to</td>
             <td>Status (To-do / In-Process / To-Review / Done)</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US18 - Visualizar resumen general de progreso</b></td>
+        </tr>
         <tr>
             <td>US18</td>
             <td>Visualizar resumen general de progreso</td>
@@ -272,6 +265,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US23 - Visualizar resumen de gamificación</b></td>
+        </tr>
         <tr>
             <td>US23</td>
             <td>Visualizar resumen de gamificación</td>
@@ -291,6 +287,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
+        </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US30 - Visualizar productos relevantes en tienda</b></td>
         </tr>
         <tr>
             <td>US30</td>
@@ -322,6 +321,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US06 - Visualizar resumen general de entrenamiento</b></td>
+        </tr>
         <tr>
             <td>US06</td>
             <td>Visualizar resumen general de entrenamiento</td>
@@ -341,6 +343,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>4</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
+        </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US07 - Continuar con el siguiente entrenamiento</b></td>
         </tr>
         <tr>
             <td>US07</td>
@@ -362,6 +367,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US10 - Visualizar catálogo de simulaciones</b></td>
+        </tr>
         <tr>
             <td>US10</td>
             <td>Visualizar catálogo de simulaciones</td>
@@ -382,6 +390,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>Sanchez Espinoza, Mathias Enrique</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US12 - Revisar detalle de una simulación</b></td>
+        </tr>
         <tr>
             <td>US12</td>
             <td>Revisar detalle de una simulación</td>
@@ -391,6 +402,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>4</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
+        </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US13 - Responder pasos de una simulación</b></td>
         </tr>
         <tr>
             <td>US13</td>
@@ -422,6 +436,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US44 - Navegar por los módulos principales</b></td>
+        </tr>
         <tr>
             <td>US44</td>
             <td>Navegar por los módulos principales</td>
@@ -441,6 +458,9 @@ A continuación, la tabla de control de estado para el Sprint 2:
             <td>2</td>
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
+        </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US46 - Usar la aplicación en pantallas pequeñas</b></td>
         </tr>
         <tr>
             <td>US46</td>
@@ -828,14 +848,6 @@ Todos los miembros del equipo participaron activamente en la implementación del
             <td>2</td>
         </tr>
         <tr>
-            <td>Miraval Pomalaya, Rodrigo Jesus</td>
-            <td>safestep-frontend</td>
-            <td>2</td>
-            <td>+400</td>
-            <td>-50</td>
-            <td>2</td>
-        </tr>
-        <tr>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>safestep-frontend</td>
             <td>3</td>
@@ -874,7 +886,6 @@ Todos los miembros del equipo participaron activamente en la implementación del
 
 - Melgarejo Quiroz, Josep Eliu: "El dashboard, la gamificación y la tienda fueron fundamentales para la experiencia de usuario. Implementar el catálogo de productos con Angular Material y la lógica del carrito de compras fueron los mayores retos técnicos del Sprint. El menú lateral responsivo permitió una navegación intuitiva y adaptativa."
 
-- Miraval Pomalaya, Rodrigo Jesus: "La documentación del Sprint 2 fue más extensa debido a la cantidad de bounded contexts implementados. La estructura DDD facilitó la organización de la documentación técnica."
 
 - Flores Eusebio, Angel Thyago: "Contribuí en la implementación del detalle de simulación y el resumen de resultados. Aprendí sobre la arquitectura de stores en Angular y cómo se comunican los bounded contexts entre sí."
 
@@ -889,6 +900,12 @@ Todos los miembros del equipo participaron activamente en la implementación del
 4. **El lazy loading mejora el rendimiento:** La configuración de rutas con carga diferida redujo el tamaño inicial del bundle y mejoró los tiempos de carga.
 
 5. **GitHub Pages simplifica el despliegue:** La integración con GitHub Actions permitió automatizar completamente el proceso de despliegue del frontend Angular, reduciendo el tiempo de publicación a solo minutos después de cada merge a main.
+
+
+
+
+
+
 
 
 

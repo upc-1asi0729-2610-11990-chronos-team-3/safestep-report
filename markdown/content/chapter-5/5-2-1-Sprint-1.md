@@ -40,12 +40,12 @@ La Landing Page cumple un rol fundamental en la estrategia de captación de usua
             <td>Reunión virtual via Discord - Canal #sprint-planning</td>
         </tr>
         <tr>
-            <td>Prepared by</td>
+            <td>Prepared By</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
         </tr>
         <tr>
             <td>Attendees (to planning meeting)</td>
-            <td>Ayala Fernandez, Jorge Brayan / Sanchez Espinoza, Mathias Enrique / Melgarejo Quiroz, Josep Eliu / Miraval Pomalaya, Rodrigo Jesus / Flores Eusebio, Angel Thyago</td>
+            <td>Ayala Fernandez, Jorge Brayan / Sanchez Espinoza, Mathias Enrique / Melgarejo Quiroz, Josep Eliu / Flores Eusebio, Angel Thyago</td>
         </tr>
         <tr>
             <td>Sprint n - 1 Review Summary</td>
@@ -56,18 +56,18 @@ La Landing Page cumple un rol fundamental en la estrategia de captación de usua
             <td>No aplica - Este es el primer Sprint del proyecto. El equipo se conformó recientemente y se espera mejorar la coordinación en sprints posteriores.</td>
         </tr>
         <tr>
-            <td colspan="2"><b>Sprint Goal / User Stories</b></td>
+            <td colspan="2"><b>Sprint Goal &amp; User Stories</b></td>
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Implementar una Landing Page funcional que presente la propuesta de valor de SafeStep, muestre las simulaciones disponibles, testimonios, preguntas frecuentes, y proporcione acceso al registro de usuarios potenciales.</td>
+            <td>Our focus is on presenting SafeStep clearly to new visitors through a functional Landing Page. We believe it delivers trust, initial understanding and interest in the product to people who want to learn first aid. This will be confirmed when visitors can understand the value proposition, review the main sections and access the registration call-to-action from the landing page.</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>El equipo estimó un velocity inicial de 21 Story Points, enfocados únicamente en el desarrollo de la Landing Page (EP08).</td>
         </tr>
         <tr>
-            <td>Sprint of Story Points</td>
+            <td>Sum of Story Points</td>
             <td>Total: 21 SP - Distribuidos en 5 SP para propuesta de valor, 3 SP para navegación, 5 SP para simulaciones, 3 SP para testimonios, 3 SP para preguntas frecuentes, y 2 SP para acceso a registro.</td>
         </tr>
     </tbody>
@@ -104,7 +104,7 @@ En esta sección el equipo elabora el artefacto Leadership-and-Collaboration Mat
 
 La sección incluye una introducción donde se explica cuáles son los principales aspectos que se toma en cuenta en el Sprint 1. Para este primer Sprint, los aspectos están centrados exclusivamente en el desarrollo de la Landing Page, reconociendo la importancia de establecer roles claros desde el inicio del proyecto para evitar conflictos y facilitar la toma de decisiones durante la implementación.
 
-El equipo SafeStep está conformado por 5 miembros con diferentes fortalezas técnicas y experiencia en distintas áreas del desarrollo de software. Durante la reunión de Sprint Planning, se identificaron las competencias de cada miembro y se asignaron los roles de líder (L) y colaborador (C) para cada aspecto del Sprint, priorizando el desarrollo profesional de cada integrante mientras se optimiza la productividad del equipo.
+El equipo SafeStep está conformado por 4 miembros activos con diferentes fortalezas técnicas y experiencia en distintas áreas del desarrollo de software. Durante la reunión de Sprint Planning, se identificaron las competencias de cada miembro y se asignaron los roles de líder (L) y colaborador (C) para cada aspecto del Sprint, priorizando el desarrollo profesional de cada integrante mientras se optimiza la productividad del equipo.
 
 **Aspectos del Sprint 1:**
 
@@ -145,23 +145,16 @@ La distribución de roles fue diseñada para fomentar la colaboración entre los
             <td>C</td>
         </tr>
         <tr>
-            <td>Miraval Pomalaya, Rodrigo Jesus</td>
-            <td>RodMiraval</td>
-            <td>C</td>
-            <td>C</td>
-            <td>L</td>
-        </tr>
-        <tr>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>angelfdevs</td>
             <td>C</td>
             <td>C</td>
-            <td>C</td>
+            <td>L</td>
         </tr>
     </tbody>
 </table>
 
-La organización de líderes y colaboradores tiene relación directa con las fortalezas técnicas de cada miembro del equipo identificadas durante la conformación del equipo. Esta distribución permite que cada miembro trabaje en áreas donde puede aportar mayor valor, mientras tiene la oportunidad de aprender de los líderes en otras áreas.
+La organización de líderes y colaboradores tiene relación directa con las fortalezas técnicas de cada miembro del equipo identificadas durante la conformación del equipo. Esta distribución también se relaciona con las tasks del Sprint Backlog: Melgarejo lidera las tareas de definición visual y contenido inicial, Ayala lidera las tareas de implementación de la landing page, Mathias colabora en las tareas de simulaciones ofrecidas y Flores lidera la documentación y validación de contenido del Sprint.
 
 **Distribución detallada de responsabilidades:**
 
@@ -171,9 +164,7 @@ La organización de líderes y colaboradores tiene relación directa con las for
 
 - **Sanchez Espinoza, Mathias Enrique (Development Collaborator):** Responsable de apoyar la implementación técnica de la Landing Page, enfocándose en la sección de simulaciones y la integración de contenido dinámico. Colabora estrechamente con el Development Lead para asegurar la consistencia del código y contribuye en la implementación de componentes específicos.
 
-- **Miraval Pomalaya, Rodrigo Jesus (Documentation Lead):** Responsable de la documentación del Sprint, incluyendo la elaboración de este archivo y demás artefactos Scrum. Coordina con los demás miembros para recopilar información sobre el avance del Sprint y asegurar la completitud de la documentación.
-
-- **Flores Eusebio, Angel Thyago (Development Collaborator):** Responsable de apoyar en el desarrollo de la Landing Page, participando en la implementación de la sección de preguntas frecuentes, el footer, y los enlaces de registro. Contribuye en las tareas de testing y verificación de calidad del código.
+- **Flores Eusebio, Angel Thyago (Documentation Lead & Development Collaborator):** Responsable de apoyar en el desarrollo de la Landing Page, participando en la implementación de la sección de preguntas frecuentes, el footer y los enlaces de registro. También lidera la documentación del Sprint, recopilando información del avance y verificando que las evidencias estén alineadas con las tasks realizadas.
 
 ### 5.2.1.3. Sprint Backlog 1
 
@@ -228,6 +219,9 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>Assigned to</td>
             <td>Status (To-do / In-Process / To-Review / Done)</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US47 - Propuesta de valor</b></td>
+        </tr>
         <tr>
             <td>US47</td>
             <td>Propuesta de valor</td>
@@ -257,6 +251,9 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>1</td>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
+        </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US48 - Navegación por secciones</b></td>
         </tr>
         <tr>
             <td>US48</td>
@@ -288,6 +285,9 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>Flores Eusebio, Angel Thyago</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US49 - Simulaciones ofrecidas</b></td>
+        </tr>
         <tr>
             <td>US49</td>
             <td>Simulaciones ofrecidas</td>
@@ -318,6 +318,9 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US52 - Testimonios</b></td>
+        </tr>
         <tr>
             <td>US52</td>
             <td>Testimonios</td>
@@ -338,6 +341,9 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>Melgarejo Quiroz, Josep Eliu</td>
             <td>Done</td>
         </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US53 - Preguntas frecuentes</b></td>
+        </tr>
         <tr>
             <td>US53</td>
             <td>Preguntas frecuentes</td>
@@ -357,6 +363,9 @@ A continuación, la tabla de control de estado para el Sprint 1:
             <td>2</td>
             <td>Ayala Fernandez, Jorge Brayan</td>
             <td>Done</td>
+        </tr>
+        <tr class="story-separator" style="background-color: #eef4ff;">
+            <td colspan="8"><b>User Story US54 - Acceso a registro</b></td>
         </tr>
         <tr>
             <td>US54</td>
@@ -516,7 +525,7 @@ El equipo realizó un total de 10 commits en el repositorio de Landing Page dura
 
 - Total de ramas: 2 (main, develop)
 - Total de commits: 10
-- Total de contribuciones: 5 miembros del equipo
+- Total de contribuciones: 4 miembros activos del equipo
 
 ### 5.2.1.5. Execution Evidence for Sprint Review
 
@@ -706,14 +715,6 @@ El equipo adoptó un enfoque de trabajo colaborativo, donde los miembros se reun
             <td>2</td>
         </tr>
         <tr>
-            <td>Miraval Pomalaya, Rodrigo Jesus</td>
-            <td>safestep-landing</td>
-            <td>1</td>
-            <td>+80</td>
-            <td>-10</td>
-            <td>1</td>
-        </tr>
-        <tr>
             <td>Flores Eusebio, Angel Thyago</td>
             <td>safestep-landing</td>
             <td>2</td>
@@ -753,7 +754,6 @@ El gráfico de actividad de GitHub muestra un patrón saludable de contribucione
 
 - Melgarejo Quiroz, Josep Eliu: "El diseño UI/UX requirió constante refinamiento. Logramos una interfaz atractiva que comunica efectivamente la propuesta de valor de SafeStep. La implementación rápida fue fundamental para alcanzar el nivel de calidad esperado."
 
-- Miraval Pomalaya, Rodrigo Jesus: "La documentación del Sprint fue un desafío interesante. Aprendí a sintetizar la información técnica de manera clara y concisa, facilitando la comprensión del progreso del Sprint para stakeholders externos."
 
 - Flores Eusebio, Angel Thyago: "Participar en el desarrollo de la Landing Page me permitió aplicar conocimientos prácticos de desarrollo web. Contribuí en la implementación de la sección de testimonios y preguntas frecuentes, áreas donde deseaba fortalecer mis habilidades."
 
@@ -770,6 +770,11 @@ El equipo identifica las siguientes lecciones de este Sprint 1:
 4. **Los code reviews incrementan la calidad del código:** La revisión por pares antes de hacer merge permitió identificar y corregir errores de estilo y lógica, mejorando la consistencia del código base.
 
 5. **Las estimaciones iniciales fueron acertadas pero con margen de mejora:** El equipo logró completar todas las tareas dentro del tiempo estimado, aunque algunas tareas requirieron ajuste de prioridades para cumplir con el Sprint Goal.
+
+
+
+
+
 
 
 
