@@ -62,7 +62,7 @@ Además del backend, este Sprint incluyó trabajo directo sobre los otros dos pr
         </tr>
         <tr>
             <td>Sprint 3 Goal</td>
-            <td>Our focus is on enabling SafeStep to operate with real backend services and a connected product ecosystem. We believe it delivers a more reliable and realistic experience to users and a clearer integration path to the development team. This will be confirmed when the backend exposes documented Swagger endpoints, the frontend consumes real API data for the main flows, and the landing page presents product images plus the About the Team and About the Product videos.</td>
+            <td>Nuestro enfoque es permitir que SafeStep opere con servicios backend reales y un ecosistema de producto conectado. Creemos que esto entrega una experiencia más confiable y realista para los usuarios, además de un camino de integración más claro para el equipo de desarrollo. Esto se confirmará cuando el backend exponga endpoints documentados en Swagger, el frontend consuma datos reales del API para los flujos principales y la landing page presente imágenes del producto junto con los videos About the Team y About the Product.</td>
         </tr>
         <tr>
             <td>Sprint 3 Velocity</td>

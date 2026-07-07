@@ -60,7 +60,7 @@ El Sprint 4 se centró en implementar autenticación real, registro de usuarios,
         </tr>
         <tr>
             <td>Sprint 4 Goal</td>
-            <td>Our focus is on enabling secure access and real payment processing in SafeStep. We believe it delivers trust, continuity and a more realistic purchase experience to users who want to train in first aid and acquire emergency products. This will be confirmed when users can register, sign in, keep an authenticated session, access protected views, start a Stripe checkout, return from payment success or cancel pages, and see only paid orders persisted in the system.</td>
+            <td>Nuestro enfoque es habilitar acceso seguro y procesamiento de pagos reales en SafeStep. Creemos que esto entrega confianza, continuidad y una experiencia de compra más realista a los usuarios que desean entrenarse en primeros auxilios y adquirir productos de emergencia. Esto se confirmará cuando los usuarios puedan registrarse, iniciar sesión, mantener una sesión autenticada, acceder a vistas protegidas, iniciar un checkout con Stripe, regresar desde las páginas de pago exitoso o cancelado y visualizar únicamente órdenes pagadas persistidas en el sistema.</td>
         </tr>
         <tr>
             <td>Sprint 4 Velocity</td>
@@ -189,13 +189,13 @@ El equipo utiliza un Trello Board con las listas estándar de Scrum: "Sprint Goa
 
 **URL pública del Trello Board del Sprint 4:**
 
-[Insertar URL pública del Trello Board del Sprint 4]
+[https://trello.com/invite/b/6a4c73d726d69110e941ae5d/ATTI47d8650b459b28e1569025db5128d51a8B5DA179/sprint-4](https://trello.com/invite/b/6a4c73d726d69110e941ae5d/ATTI47d8650b459b28e1569025db5128d51a8B5DA179/sprint-4)
 
 <div align="center">
   <p>
     <b>Captura</b>: Board de Trello correspondiente al Sprint 4
   </p>
-  <img src="../../assets/images/chapter-5/Sprint4Trello.png" alt="Trello Board Sprint 4" width="600" />
+  <img src="../../assets/images/chapter-5/TrelloSprint4.png" alt="Trello Board Sprint 4" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -583,9 +583,19 @@ El Sprint 4 permitió validar los flujos de autenticación y pago en SafeStep. L
 
 <div align="center">
   <p>
-    <b>Captura:</b> Login y registro conectados al backend
+    <b>Captura:</b> Login conectado al backend
   </p>
-  <img src="../../assets/images/chapter-5/FrontendIAM.png" alt="Frontend IAM SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/LoginSafeStep.png" alt="Frontend IAM SafeStep" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <b>Captura:</b> Registro conectado al backend
+  </p>
+  <img src="../../assets/images/chapter-5/RegisterSafeStep.png" alt="Frontend IAM SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -595,7 +605,7 @@ El Sprint 4 permitió validar los flujos de autenticación y pago en SafeStep. L
   <p>
     <b>Captura:</b> Endpoints IAM documentados en Swagger
   </p>
-  <img src="../../assets/images/chapter-5/IAMSwagger.png" alt="IAM Swagger SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/EnpointsLogin.png" alt="IAM Swagger SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -607,7 +617,7 @@ El Sprint 4 permitió validar los flujos de autenticación y pago en SafeStep. L
   <p>
     <b>Captura:</b> Checkout de Stripe desde SafeStep
   </p>
-  <img src="../../assets/images/chapter-5/StripeCheckout.png" alt="Stripe Checkout SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/PagosStripe.png" alt="Stripe Checkout SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -617,23 +627,13 @@ El Sprint 4 permitió validar los flujos de autenticación y pago en SafeStep. L
   <p>
     <b>Captura:</b> Endpoints de pagos documentados en Swagger
   </p>
-  <img src="../../assets/images/chapter-5/StripeSwagger.png" alt="Stripe Swagger SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/EnpointsPagos.png" alt="Stripe Swagger SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
 
-**Capturas de Pantalla - Base de Datos Render:**
 
-<div align="center">
-  <p>
-    <b>Captura:</b> PostgreSQL desplegado en Render
-  </p>
-  <img src="../../assets/images/chapter-5/RenderPostgres.png" alt="Render PostgreSQL SafeStep" width="600" />
-  <p>
-    <i><b>Fuente</b>: Elaboración propia.</i>
-  </p>
-</div>
 
 **Comandos utilizados para ejecución local:**
 
@@ -677,7 +677,17 @@ Durante el Sprint 4 se documentaron y validaron los endpoints relacionados con I
   <p>
     <b>Captura:</b> Swagger UI con endpoints IAM y Stripe
   </p>
-  <img src="../../assets/images/chapter-5/Sprint4Swagger.png" alt="Swagger Sprint 4 SafeStep" width="600" />
+  <img src="../../assets/images/chapter-5/EnpointsLogin.png" alt="Swagger Sprint 4 SafeStep" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
+
+<div align="center">
+  <p>
+    <b>Captura:</b> Swagger UI con endpoints IAM y Stripe
+  </p>
+  <img src="../../assets/images/chapter-5/EnpointsPagos.png" alt="Swagger Sprint 4 SafeStep" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
@@ -815,13 +825,24 @@ Los cuatro miembros activos del equipo participaron en el Sprint 4. El trabajo s
 
 <div align="center">
   <p>
-    <b>Gráfico 1</b>: Analytics Sprint 4
+    <b>Gráfico 1</b>: Analytics Sprint 4 - backend
   </p>
-  <img src="../../assets/images/chapter-5/Sprint4Metrics.png" alt="Analytics Sprint 4" width="600" />
+  <img src="../../assets/images/chapter-5/CommitsSprint4back.png" alt="Analytics Sprint 4" width="600" />
   <p>
     <i><b>Fuente</b>: Elaboración propia.</i>
   </p>
 </div>
+
+<div align="center">
+  <p>
+    <b>Gráfico 2</b>: Analytics Sprint 4 - frontend
+  </p>
+  <img src="../../assets/images/chapter-5/CommitsSprint4front.png" alt="Analytics Sprint 4" width="600" />
+  <p>
+    <i><b>Fuente</b>: Elaboración propia.</i>
+  </p>
+</div>
+
 
 **Distribución de trabajo por tipo de tarea:**
 

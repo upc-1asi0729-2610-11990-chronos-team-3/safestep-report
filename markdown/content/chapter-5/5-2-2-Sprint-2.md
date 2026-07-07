@@ -60,7 +60,7 @@ La aplicación frontend Angular cumple un rol fundamental como núcleo de la exp
         </tr>
         <tr>
             <td>Sprint 2 Goal</td>
-            <td>Our focus is on offering the first complete web application experience for SafeStep users. We believe it delivers practical first-aid training, visible progress and motivation to learners through dashboard, simulations, statistics, gamification and store modules. This will be confirmed when users can navigate the application, practice a medical simulation, review their progress and explore emergency products from the deployed frontend.</td>
+            <td>Nuestro enfoque es ofrecer la primera experiencia completa de aplicación web para los usuarios de SafeStep. Creemos que esto entrega entrenamiento práctico en primeros auxilios, progreso visible y motivación para los aprendices mediante los módulos de dashboard, simulaciones, estadísticas, gamificación y tienda. Esto se confirmará cuando los usuarios puedan navegar por la aplicación, practicar una simulación médica, revisar su progreso y explorar productos de emergencia desde el frontend desplegado.</td>
         </tr>
         <tr>
             <td>Sprint 2 Velocity</td>

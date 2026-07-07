@@ -60,7 +60,7 @@ La Landing Page cumple un rol fundamental en la estrategia de captación de usua
         </tr>
         <tr>
             <td>Sprint 1 Goal</td>
-            <td>Our focus is on presenting SafeStep clearly to new visitors through a functional Landing Page. We believe it delivers trust, initial understanding and interest in the product to people who want to learn first aid. This will be confirmed when visitors can understand the value proposition, review the main sections and access the registration call-to-action from the landing page.</td>
+            <td>Nuestro enfoque es presentar SafeStep de forma clara a nuevos visitantes mediante una Landing Page funcional. Creemos que esto entrega confianza, comprensión inicial e interés en el producto a personas que desean aprender primeros auxilios. Esto se confirmará cuando los visitantes puedan entender la propuesta de valor, revisar las secciones principales y acceder al llamado a la acción de registro desde la landing page.</td>
         </tr>
         <tr>
             <td>Sprint 1 Velocity</td>
