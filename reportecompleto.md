@@ -6,7 +6,7 @@
 </div>
 <br/>
 
-<h1 align="center">Universidad Peruana de Ciencias Aplicadas</h1>
+<h2 align="center">Universidad Peruana de Ciencias Aplicadas</h2>
 <h2 align="center">Carrera de Ingenieria de Software</h2>
 
 <h3 align="center"><strong>1ASI0729</strong></h3>
@@ -61,7 +61,7 @@
 
 ---
 
-<div style="font-size: 18px; line-height: 1.65;">
+<div style="font-size: 20px; line-height: 1.65;">
 <div align="center">
 
 # Indice general
@@ -7648,29 +7648,55 @@ Este diagrama representa el tercer nivel de detalle del modelo C4, realizando un
 <br>
 
 <a id="toc-4-7-software-object-oriented-design"></a>
+
 # 4.7. Software Object-Oriented Design
 
-En esta sección, se presenta el diseño orientado a objetos del software SafeStep. A través de diagramas de clases, se modela la estructura estática del sistema, detallando las clases, sus atributos, métodos y las relaciones entre ellas. Este diseño sirve como un plano para la implementación del código, asegurando que la arquitectura de software definida previamente se traduzca en componentes de código bien estructurados, mantenibles y escalables.
+En esta sección se presenta el diagrama de clases de SafeStep, elaborado con el objetivo de representar la estructura principal de la aplicación web y la organización de sus bounded contexts. El diagrama permite identificar las clases más importantes del dominio, sus responsabilidades, las relaciones entre agregados, entidades, servicios, repositorios y controladores, así como la forma en que los distintos módulos colaboran para soportar funcionalidades como autenticación, perfiles de usuario, simulaciones médicas, gamificación, comercio electrónico, pagos y analítica de progreso.
 
-<a id="toc-4-7-1-class-diagrams"></a>
 ## 4.7.1. Class Diagrams
 
 <div align="center">
-    <img src="./markdown/assets/images/chapter-4/diagram-class-safestep.svg" alt="Diagrama de clases SafeStep" />
+    <img src="./markdown/assets/images/chapter-4/safestep-general-exposicion.png" alt="Diagrama de clases SafeStep" />
 </div>
 
 **link del miro para una mejor vista** 
 
-<a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
+<a href="https://miro.com/app/board/uXjVH9tP7zk=/?share_link_id=396032164151">https://miro.com/app/board/uXjVH9tP7zk=/?share_link_id=396032164151</a>
 
-<div style="page-break-before: always;"></div>
-
-<br>
-<br>
+<p align="center"><strong>Diagrama Clases Analytics</strong></p>
 
 <div align="center">
-    <img src="./markdown/assets/images/chapter-4/capitulo-4.png" alt="Capitulo 4" />
+    <img src="./markdown/assets/images/chapter-4/analytics-exposicion.png" alt="Diagrama de clases (Analytics BC)" />
 </div>
+
+
+<p align="center"><strong>Diagrama Clases Ecommerce</strong></p>
+
+<div align="center">
+    <img src="./markdown/assets/images/chapter-4/commerce-exposicion.png" alt="Diagrama de clases (Ecommerce BC)" />
+</div>
+
+
+<p align="center"><strong>Diagrama Clases Gamification</strong></p>
+
+<div align="center">
+    <img src="./markdown/assets/images/chapter-4/gamification-exposicion.png" alt="Diagrama de clases (Gamification BC)" />
+</div>
+
+<p align="center"><strong>Diagrama Clases IAM</strong></p>
+
+
+<div align="center">
+    <img src="./markdown/assets/images/chapter-4/iam-profiles-exposicion.png" alt="Diagrama de clases (IAM BC)" />
+</div>
+
+<p align="center"><strong>Diagrama Clases Simulation</strong></p>
+
+
+<div align="center">
+    <img src="./markdown/assets/images/chapter-4/simulation-exposicion.png" alt="Diagrama de clases (Simulation BC)" />
+</div>
+
 
 <br>
 <br>
@@ -7690,7 +7716,7 @@ El siguiente Diagrama Entidad-Relación (ERD) representa la estructura de datos 
 
 **link del diagrama de base de datos para una mejor vista**
 
-<a href="https://miro.com/app/board/uXjVHWa4-Tg=/?share_link_id=246922676596">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</a>
+<a href="https://miro.com/app/board/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454,-663,5474,2933&embedId=668883533640">https://miro.com/app/board/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454,-663,5474,2933&embedId=668883533640</a>
 
 <div align="center">
     <img src="./markdown/assets/images/chapter-4/diagrama-basedatos-analytics_1.png" alt="Diagrama de base de datos (Analytics BC)" />
@@ -13208,8 +13234,8 @@ Este anexo contiene los enlaces de las entrevistas de validacion realizadas desp
 Este anexo reune los recursos utilizados para representar la solucion desde el punto de vista de experiencia de usuario, arquitectura de informacion, modelado de dominio, diseno visual y diseno de software.
 
 - Miro - EventStorming y arquitectura de dominio: <a href="https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925" style="word-break: break-all; overflow-wrap: anywhere;">https://miro.com/welcomeonboard/LzArU0gzKzhEOTJWejJ1ODdFUit5MTBnZlJaTDhRa3RHRUVVdFI5aUVLQnJtTXZXTXRaUmtHWTViMWRHaVk3cVJNd2VvVTBlUFBLbXg0aHEyRzgrN2xud0lrejllQVpDT1AzczYyS0t6YW1YYkhFVWZoVkUvd2U5NHhMczdmcUV3VHhHVHd5UWtSM1BidUtUYmxycDRnPT0hdjE=?share_link_id=310009534925</a>
-- Diagrama de clases del sistema: <a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640" style="word-break: break-all; overflow-wrap: anywhere;">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
-- Diagrama de base de datos: <a href="https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476" style="word-break: break-all; overflow-wrap: anywhere;">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</a>
+- Diagrama de clases del sistema: <a href="https://miro.com/app/board/uXjVH9tP7zk=/?share_link_id=396032164151" style="word-break: break-all; overflow-wrap: anywhere;">https://miro.com/app/board/uXjVH9tP7zk=/?share_link_id=396032164151</a>
+- Diagrama de base de datos: <a href="https://miro.com/app/board/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640" style="word-break: break-all; overflow-wrap: anywhere;">https://miro.com/app/board/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
 - Video prototipo desktop: <a href="https://youtu.be/_nZcADweJ3k" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/_nZcADweJ3k</a>
 - Video prototipo mobile: <a href="https://youtu.be/cFe5_H0TDsA" style="word-break: break-all; overflow-wrap: anywhere;">https://youtu.be/cFe5_H0TDsA</a>
 

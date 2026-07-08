@@ -21,7 +21,7 @@ El siguiente Diagrama Entidad-Relación (ERD) representa la estructura de datos 
 
 **link del diagrama de base de datos para una mejor vista**
 
-<a href="https://miro.com/app/board/uXjVHWa4-Tg=/?share_link_id=246922676596">https://miro.com/app/live-embed/uXjVHWa4-Tg=/?focusWidget=3458764671099531415&embedMode=view_only_without_ui&embedId=945877900476</a>
+<a href="https://miro.com/app/board/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/board/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
 
 <div align="center">
     <img src="../../assets/images/chapter-4/diagrama-basedatos-analytics_1.png" alt="Diagrama de base de datos (Analytics BC)" />

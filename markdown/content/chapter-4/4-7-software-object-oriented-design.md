@@ -10,53 +10,53 @@
 
 # 4.7. Software Object-Oriented Design
 
-En esta sección, se presenta el diseño orientado a objetos del software SafeStep. A través de diagramas de clases, se modela la estructura estática del sistema, detallando las clases, sus atributos, métodos y las relaciones entre ellas. Este diseño sirve como un plano para la implementación del código, asegurando que la arquitectura de software definida previamente se traduzca en componentes de código bien estructurados, mantenibles y escalables.
+En esta sección se presenta el diagrama de clases de SafeStep, elaborado con el objetivo de representar la estructura principal de la aplicación web y la organización de sus bounded contexts. El diagrama permite identificar las clases más importantes del dominio, sus responsabilidades, las relaciones entre agregados, entidades, servicios, repositorios y controladores, así como la forma en que los distintos módulos colaboran para soportar funcionalidades como autenticación, perfiles de usuario, simulaciones médicas, gamificación, comercio electrónico, pagos y analítica de progreso.
 
 ## 4.7.1. Class Diagrams
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-completo.svg" alt="Diagrama de clases SafeStep" />
+    <img src="../../assets/images/chapter-4/safestep-general-exposicion.png" alt="Diagrama de clases SafeStep" />
 </div>
 
 **link del miro para una mejor vista** 
 
-<a href="https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640">https://miro.com/app/live-embed/uXjVHUFFqvM=/?embedMode=view_only_without_ui&moveToViewport=-2454%2C-663%2C5474%2C2933&embedId=668883533640</a>
+<a href="https://miro.com/app/board/uXjVH9tP7zk=/?share_link_id=396032164151">https://miro.com/app/board/uXjVH9tP7zk=/?share_link_id=396032164151</a>
+
+<p align="center"><strong>Diagrama Clases Analytics</strong></p>
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-analytics.svg" alt="Diagrama de clases (Statistics BC)" />
+    <img src="../../assets/images/chapter-4/analytics-exposicion.png" alt="Diagrama de clases (Analytics BC)" />
 </div>
 
-<p align="center"><strong>Diagrama Clases Statistics</strong></p>
-
-<div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-ecommerce.svg" alt="Diagrama de clases (Ecommerce BC)" />
-</div>
 
 <p align="center"><strong>Diagrama Clases Ecommerce</strong></p>
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-gamification.svg" alt="Diagrama de clases (Gamification BC)" />
+    <img src="../../assets/images/chapter-4/commerce-exposicion.png" alt="Diagrama de clases (Ecommerce BC)" />
 </div>
+
 
 <p align="center"><strong>Diagrama Clases Gamification</strong></p>
 
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-iam.svg" alt="Diagrama de clases (IAM BC)" />
+    <img src="../../assets/images/chapter-4/gamification-exposicion.png" alt="Diagrama de clases (Gamification BC)" />
 </div>
 
 <p align="center"><strong>Diagrama Clases IAM</strong></p>
 
+
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-simulation.svg" alt="Diagrama de clases (Simulation BC)" />
+    <img src="../../assets/images/chapter-4/iam-profiles-exposicion.png" alt="Diagrama de clases (IAM BC)" />
 </div>
 
 <p align="center"><strong>Diagrama Clases Simulation</strong></p>
 
+
 <div align="center">
-    <img src="../../assets/images/chapter-4/diagrama-clases-shared.svg" alt="Diagrama de clases (Shared BC)" />
+    <img src="../../assets/images/chapter-4/simulation-exposicion.png" alt="Diagrama de clases (Simulation BC)" />
 </div>
 
-<p align="center"><strong>Diagrama Clases Shared</strong></p>
+
 
 
 
